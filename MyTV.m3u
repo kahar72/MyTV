@@ -55,7 +55,10 @@ http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1,group-title="SPORT",CCTV 5+
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
-
+#EXTINF:-1,group-title="SPORT",BeinSport 2 FHD
+http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/26.m3u8
+#EXTINF:-1,group-title="SPORT",BeinSport 2 HD
+http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/3.m3u8
 
 
 
