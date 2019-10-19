@@ -102,6 +102,13 @@ http://198.255.56.162:37000/9983/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SPORT",DirecTV Sports+
 http://wohuogai.com:37000/9980/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,group-title="SPORT",Fox Sports 1
+https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,group-title="SPORT",Fox Sports 2
+https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,group-title="SPORT",Fox Sports 3
+https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
+
 
 
 
