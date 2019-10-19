@@ -95,6 +95,12 @@ https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,group-title="SPORT",BT Sport 2
 https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
 
+#EXTINF:-1,group-title="SPORT",DirecTV Sports 1
+http://wohuogai.com:37000/11454/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",DirecTV Sports 2
+http://198.255.56.162:37000/9983/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",DirecTV Sports+
+http://wohuogai.com:37000/9980/tracks-v1a1/mono.m3u8
 
 
 
