@@ -124,8 +124,6 @@ http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/17.ts
 http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/19.ts
 
 
-
-
 #EXTINF:-1,group-title="BeinSport",Bein 1
 http://95.170.215.121/hls/m3u8/Bein-Sport-1.m3u8
 #EXTINF:-1,group-title="BeinSport",Bein 2
@@ -158,6 +156,16 @@ http://95.170.215.121/hls/m3u8/Bein-Sport-14.m3u8
 http://95.170.215.121/hls/m3u8/Bein-Sport-15.m3u8
 #EXTINF:-1,group-title="BeinSport",Bein 16
 http://95.170.215.121/hls/m3u8/Bein-Sport-16.m3u8
+
+#EXTINF:-1,group-title="SPORT",Setanta Sport
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1,group-title="SPORT",Setanta Sport+
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
+#EXTINF:-1,group-title="SPORT",UK Premier Sport 1
+http://127.0.0.1:34223/http/ktvlive.hopto.org:83/claval/kritik2/309582
+#EXTINF:-1,group-title="SPORT",UK Premier Sport 2
+http://127.0.0.1:44479/http/ktvlive.hopto.org:83/claval/kritik2/255291
 
 
 
