@@ -163,9 +163,14 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
 #EXTINF:-1,group-title="SPORT",UK Premier Sport 1
-http://127.0.0.1:34223/http/ktvlive.hopto.org:83/claval/kritik2/309582
+http://ktvlive.hopto.org:83/claval/kritik2/309582
 #EXTINF:-1,group-title="SPORT",UK Premier Sport 2
-http://127.0.0.1:44479/http/ktvlive.hopto.org:83/claval/kritik2/255291
+http://ktvlive.hopto.org:83/claval/kritik2/255291
+
+#EXTINF:-1,group-title="SPORT",Sky Sport Premier League
+http://myallview.co.uk:80/live/Ger/Nyc/775.ts
+#EXTINF:-1,group-title="SPORT",Sky Sport Football
+http://myallview.co.uk:80/live/Ger/Nyc/678.ts
 
 
 
