@@ -95,13 +95,6 @@ https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,group-title="SPORT",BT Sport 2
 https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1,group-title="SPORT",DirecTV Sports 1
-http://wohuogai.com:37000/11454/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="SPORT",DirecTV Sports 2
-http://198.255.56.162:37000/9983/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="SPORT",DirecTV Sports+
-http://wohuogai.com:37000/9980/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,group-title="SPORT",Fox Sports 1
 https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1,group-title="SPORT",Fox Sports 2
@@ -129,6 +122,43 @@ http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/15.ts
 http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/17.ts
 #EXTINF:-1,group-title="SPORT",BEINSPORTS 10 Arab
 http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/19.ts
+
+
+
+
+#EXTINF:-1,group-title="BeinSport",Bein 1
+http://95.170.215.121/hls/m3u8/Bein-Sport-1.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 2
+http://95.170.215.121/hls/m3u8/Bein-Sport-2.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 3
+http://95.170.215.121/hls/m3u8/Bein-Sport-3.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 4
+http://95.170.215.121/hls/m3u8/Bein-Sport-4.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 5
+http://95.170.215.121/hls/m3u8/Bein-Sport-5.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 6
+http://95.170.215.121/hls/m3u8/Bein-Sport-6.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 7
+http://95.170.215.121/hls/m3u8/Bein-Sport-7.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 8
+http://95.170.215.121/hls/m3u8/Bein-Sport-8.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 9
+http://95.170.215.121/hls/m3u8/Bein-Sport-9.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 10
+http://95.170.215.121/hls/m3u8/Bein-Sport-10.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 11
+http://95.170.215.121/hls/m3u8/Bein-Sport-11.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 12
+http://95.170.215.121/hls/m3u8/Bein-Sport-12.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 13
+http://95.170.215.121/hls/m3u8/Bein-Sport-13.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 14
+http://95.170.215.121/hls/m3u8/Bein-Sport-14.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 15
+http://95.170.215.121/hls/m3u8/Bein-Sport-15.m3u8
+#EXTINF:-1,group-title="BeinSport",Bein 16
+http://95.170.215.121/hls/m3u8/Bein-Sport-16.m3u8
+
 
 
 
