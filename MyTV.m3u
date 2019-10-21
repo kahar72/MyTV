@@ -171,6 +171,20 @@ http://myallview.co.uk:80/live/Ger/Nyc/775.ts
 #EXTINF:-1,group-title="SPORT",Sky Sport Football
 http://myallview.co.uk:80/live/Ger/Nyc/678.ts
 
+#EXTINF:-1,group-title="SPORT",Sport TV 1
+https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",Sport TV 2
+https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",Sport TV 3
+https://5-226-137-173.netvarp.is/beint/sporttv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",Sport TV 4
+https://5-226-137-173.netvarp.is/beint/sporttv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",Sport TV 5
+https://5-226-137-173.netvarp.is/beint/sporttv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SPORT",Sport TV 6
+https://5-226-137-173.netvarp.is/beint/sporttv6/tracks-v1a1/mono.m3u8
+
+
 
 
 
