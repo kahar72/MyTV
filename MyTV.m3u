@@ -190,6 +190,11 @@ https://5-226-137-173.netvarp.is/beint/sporttv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SPORT",Sport TV 6
 https://5-226-137-173.netvarp.is/beint/sporttv6/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,group-title="SPORT",MyCujoo TV 1
+https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/playlist.m3u8
+#EXTINF:-1,group-title="SPORT",MyCujoo TV 2
+https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25yoowy2erm0hfyvm2frjup/720p/playlist.m3u8
+
 
 
 
