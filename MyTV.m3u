@@ -133,6 +133,15 @@ https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/pla
 #EXTINF:-1,group-title="SPORT",MyCujoo TV 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25yoowy2erm0hfyvm2frjup/720p/playlist.m3u8
 
+#EXTINF:-1,group-title="SPORT",Ziggo Select
+http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
+#EXTINF:-1,group-title="SPORT",Ziggo Voetbal
+http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
+
+#EXTINF:-1,group-title="SPORT",Sky Sport Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+
+
 
 
 
