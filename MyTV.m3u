@@ -215,3 +215,18 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+
+
+#EXTINF:-1,group-title="Documentary",Animal Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1,group-title="Documentary",Discovery Showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
+#EXTINF:-1,group-title="Documentary",National Geographic
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
+#EXTINF:-1,group-title="Documentary",National Geographic Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,group-title="Documentary",History
+http://95.170.215.118/hls/m3u8/History.m3u8
+
+
