@@ -26,8 +26,6 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW6sWxxF0l7K_prV_v
 http://rtm1mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8 
 #EXTINF:-1 group-title="MALAYSIA",AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",DRAMA SANGAT
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0rjJP6eafIgpwo_Kp7XXgAU)/dm/3/x6zvnex/s/live-4.m3u8
 
 
 
@@ -60,11 +58,6 @@ https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
 https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT",True Sport HD3
 https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1, group-title="SPORT",Bein 1 Thai
-https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",Bein 2 Thai
-https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, group-title="SPORT",True Premier 1
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
@@ -115,19 +108,6 @@ http://myallview.co.uk:80/live/Ger/Nyc/775.ts
 #EXTINF:-1, group-title="SPORT",Sky Sport Football
 http://myallview.co.uk:80/live/Ger/Nyc/678.ts
 
-#EXTINF:-1, group-title="SPORT",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORT",Sport TV 2
-https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORT",Sport TV 3
-https://5-226-137-173.netvarp.is/beint/sporttv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORT",Sport TV 4
-https://5-226-137-173.netvarp.is/beint/sporttv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORT",Sport TV 5
-https://5-226-137-173.netvarp.is/beint/sporttv5/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="SPORT",Sport TV 6
-https://5-226-137-173.netvarp.is/beint/sporttv6/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="SPORT",MyCujoo TV 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/playlist.m3u8
 #EXTINF:-1, group-title="SPORT",MyCujoo TV 2
@@ -144,6 +124,11 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
 
 
+#EXTINF:-1, group-title="Bein",Bein 1 Thai
+https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Bein",Bein 2 Thai
+https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:-1, group-title="Bein",BeinSport 2 FHD
 http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/26.m3u8
 #EXTINF:-1, group-title="Bein",BeinSport 2 HD
@@ -157,30 +142,14 @@ http://95.170.215.121/hls/m3u8/Bein-Sport-2.m3u8
 http://95.170.215.121/hls/m3u8/Bein-Sport-3.m3u8
 #EXTINF:-1, group-title="Bein",Bein 4
 http://95.170.215.121/hls/m3u8/Bein-Sport-4.m3u8
-#EXTINF:-1, group-title="Bein",Bein 5
-http://95.170.215.121/hls/m3u8/Bein-Sport-5.m3u8
-#EXTINF:-1, group-title="Bein",Bein 6
-http://95.170.215.121/hls/m3u8/Bein-Sport-6.m3u8
-#EXTINF:-1, group-title="Bein",Bein 7
-http://95.170.215.121/hls/m3u8/Bein-Sport-7.m3u8
-#EXTINF:-1, group-title="Bein",Bein 8
-http://95.170.215.121/hls/m3u8/Bein-Sport-8.m3u8
-#EXTINF:-1, group-title="Bein",Bein 9
-http://95.170.215.121/hls/m3u8/Bein-Sport-9.m3u8
-#EXTINF:-1, group-title="Bein",Bein 10
-http://95.170.215.121/hls/m3u8/Bein-Sport-10.m3u8
+
 #EXTINF:-1, group-title="Bein",Bein 11
 http://95.170.215.121/hls/m3u8/Bein-Sport-11.m3u8
 #EXTINF:-1, group-title="Bein",Bein 12
 http://95.170.215.121/hls/m3u8/Bein-Sport-12.m3u8
 #EXTINF:-1, group-title="Bein",Bein 13
 http://95.170.215.121/hls/m3u8/Bein-Sport-13.m3u8
-#EXTINF:-1, group-title="Bein",Bein 14
-http://95.170.215.121/hls/m3u8/Bein-Sport-14.m3u8
-#EXTINF:-1, group-title="Bein",Bein 15
-http://95.170.215.121/hls/m3u8/Bein-Sport-15.m3u8
-#EXTINF:-1, group-title="Bein",Bein 16
-http://95.170.215.121/hls/m3u8/Bein-Sport-16.m3u8
+
 
 
 
