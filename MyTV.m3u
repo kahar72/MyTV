@@ -121,6 +121,15 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 #EXTINF:-1, group-title="SPORT",Sky Sport Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
+#EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 1HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
+#EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 2HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
+#EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 3HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
+
+
+
 
 
 
@@ -129,26 +138,34 @@ https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Bein",Bein 2 Thai
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="Bein",BeinSport 2 FHD
-http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/26.m3u8
-#EXTINF:-1, group-title="Bein",BeinSport 2 HD
-http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/3.m3u8
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 1 HD
+http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 2 HD
+http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 3 HD
+http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.ts
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 4 HD
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
 
-#EXTINF:-1, group-title="Bein",Bein 1
-http://95.170.215.121/hls/m3u8/Bein-Sport-1.m3u8
-#EXTINF:-1, group-title="Bein",Bein 2
-http://95.170.215.121/hls/m3u8/Bein-Sport-2.m3u8
-#EXTINF:-1, group-title="Bein",Bein 3
-http://95.170.215.121/hls/m3u8/Bein-Sport-3.m3u8
-#EXTINF:-1, group-title="Bein",Bein 4
-http://95.170.215.121/hls/m3u8/Bein-Sport-4.m3u8
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 1 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 2 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 3 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
 
-#EXTINF:-1, group-title="Bein",Bein 11
-http://95.170.215.121/hls/m3u8/Bein-Sport-11.m3u8
-#EXTINF:-1, group-title="Bein",Bein 12
-http://95.170.215.121/hls/m3u8/Bein-Sport-12.m3u8
-#EXTINF:-1, group-title="Bein",Bein 13
-http://95.170.215.121/hls/m3u8/Bein-Sport-13.m3u8
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 4
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 5
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 6
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 7
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 8
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 9
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
 
 
 
