@@ -128,6 +128,11 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
 #EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 3HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
 
+#EXTINF:-1, group-title="SPORT",(BE) Eleven Sport 1
+http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/191.ts
+#EXTINF:-1, group-title="SPORT",(BE) Eleven Sport 2
+http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/192.ts
+
 
 
 
