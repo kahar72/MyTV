@@ -43,6 +43,39 @@ https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1180.
 
 
 
+#EXTINF:-1, group-title="Indonesia",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia",TRANS7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia",TRANSTV
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia",TVRI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+
+
+#EXTINF:-1, group-title="Documentary",Animal Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1, group-title="Documentary",Discovery Showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
+#EXTINF:-1, group-title="Documentary",National Geographic
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
+#EXTINF:-1, group-title="Documentary",National Geographic Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1, group-title="Documentary",History
+http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1, group-title="Documentary",History 2
+http://ktvlive.hopto.org:83/claval/kritik2/21130
+#EXTINF:-1, group-title="Documentary",BBC Earth
+https://live.dufree4k.net/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Documentary",CBS Reality
+http://ktvlive.hopto.org:83/claval/kritik2/21104
+#EXTINF:-1, group-title="Documentary",UK Really
+http://ktvlive.hopto.org:83/claval/kritik2/21045
+
+
+
+
 #EXTINF:-1, group-title="SPORT",RTM Sport HD
 http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 #EXTINF:-1, group-title="SPORT",NewTV Super Sports
@@ -143,20 +176,28 @@ https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Bein",Bein 2 Thai
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 1 HD
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 1
 http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 2 HD
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 2
 http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 3 HD
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 3
 http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.ts
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 4 HD
+#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 4
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
 
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 1 HD
+#EXTINF:-1, group-title="Bein",BEINSPORT 11
+http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
+#EXTINF:-1, group-title="Bein",BEINSPORT 12
+http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.ts
+#EXTINF:-1, group-title="Bein",BEINSPORT 13
+http://iptv2.premium-stv.com:8888/live/BEIN13/CdXoi1R1yQ/24.ts
+
+
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 2 HD
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 2
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 3 HD
+#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 3
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
 
 #EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 4
@@ -171,39 +212,6 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
 #EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 9
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
-
-
-
-
-#EXTINF:-1, group-title="Indonesia",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia",TRANS7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia",TRANSTV
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia",TVRI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-
-
-#EXTINF:-1, group-title="Documentary",Animal Planet
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
-#EXTINF:-1, group-title="Documentary",Discovery Showcase
-http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
-#EXTINF:-1, group-title="Documentary",National Geographic
-http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
-#EXTINF:-1, group-title="Documentary",National Geographic Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1, group-title="Documentary",History
-http://95.170.215.118/hls/m3u8/History.m3u8
-#EXTINF:-1, group-title="Documentary",History 2
-http://ktvlive.hopto.org:83/claval/kritik2/21130
-#EXTINF:-1, group-title="Documentary",BBC Earth
-https://live.dufree4k.net/02_BBCEARTH_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Documentary",CBS Reality
-http://ktvlive.hopto.org:83/claval/kritik2/21104
-#EXTINF:-1, group-title="Documentary",UK Really
-http://ktvlive.hopto.org:83/claval/kritik2/21045
 
 
 
