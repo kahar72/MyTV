@@ -136,11 +136,6 @@ http://ktvlive.hopto.org:83/claval/kritik2/255291
 #EXTINF:-1, group-title="SPORT",UK Premier Sport 2
 http://ktvlive.hopto.org:83/claval/kritik2/309582
 
-#EXTINF:-1, group-title="SPORT",Sky Sport Premier League
-http://myallview.co.uk:80/live/Ger/Nyc/775.ts
-#EXTINF:-1, group-title="SPORT",Sky Sport Football
-http://myallview.co.uk:80/live/Ger/Nyc/678.ts
-
 #EXTINF:-1, group-title="SPORT",MyCujoo TV 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/playlist.m3u8
 #EXTINF:-1, group-title="SPORT",MyCujoo TV 2
@@ -151,8 +146,18 @@ http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
 #EXTINF:-1, group-title="SPORT",Ziggo Voetbal
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 
-#EXTINF:-1, group-title="SPORT",Sky Sport Football
+
+#EXTINF:-1, group-title="SPORT",Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1, group-title="SPORT",Sky Sports Football
+http://myallview.co.uk:80/live/Ger/Nyc/678.ts
+#EXTINF:-1, group-title="SPORT",Sky Sports Main Event
+http://iptv4.premium-stv.com:8000/live/SOURCEUKPRO1/GAzwuMNYjk/278.ts
+#EXTINF:-1, group-title="SPORT",Sky Sports Premier League
+http://iptv4.premium-stv.com:8000/live/SOURCEUKPRO1/GAzwuMNYjk/1186.ts
+#EXTINF:-1, group-title="SPORT",Sky Sports Premier League
+http://myallview.co.uk:80/live/Ger/Nyc/775.ts
+
 
 #EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 1HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
@@ -191,6 +196,14 @@ http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
 http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.ts
 #EXTINF:-1, group-title="Bein",BEINSPORT 13
 http://iptv2.premium-stv.com:8888/live/BEIN13/CdXoi1R1yQ/24.ts
+
+#EXTINF:-1, group-title="Bein",BEINSPORTS 11 FULLHD
+http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/35.ts
+#EXTINF:-1, group-title="Bein",BEINSPORTS 12 FULLHD
+http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/36.ts
+#EXTINF:-1, group-title="Bein",BEINSPORTS 13 FULLHD
+http://iptv2.premium-stv.com:8888/live/BEIN13/CdXoi1R1yQ/37.ts
+
 
 
 #EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 1
