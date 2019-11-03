@@ -181,15 +181,14 @@ https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Bein",Bein 2 Thai
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 1
+#EXTINF:-1, group-title="Bein",BEINSPORT 1
 http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 2
+#EXTINF:-1, group-title="Bein",BEINSPORT 2
 http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 3
+#EXTINF:-1, group-title="Bein",BEINSPORT 3
 http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.ts
-#EXTINF:-1, group-title="Bein",|AR| BEINSPORT 4
+#EXTINF:-1, group-title="Bein",BEINSPORT 4
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
-
 #EXTINF:-1, group-title="Bein",BEINSPORT 11
 http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
 #EXTINF:-1, group-title="Bein",BEINSPORT 12
@@ -206,7 +205,7 @@ http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.ts
 #EXTINF:-1, group-title="Bein", BEINSPORT 3 FHD
 http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/27.ts
 #EXTINF:-1, group-title="Bein", BEINSPORT 4 FHD
-http://siptv-online.com:8789/live/19865/19865/13608.m3u8
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
 #EXTINF:-1, group-title="Bein", BEINSPORTS 11 FULLHD
 http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/35.ts
 #EXTINF:-1, group-title="Bein", BEINSPORTS 12 FULLHD
