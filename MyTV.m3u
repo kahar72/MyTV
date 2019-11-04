@@ -85,13 +85,6 @@ http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1, group-title="SPORT",CCTV 5+
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 
-#EXTINF:-1, group-title="SPORT",True Sport HD1
-https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",True Sport HD2
-https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",True Sport HD3
-https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
-
 #EXTINF:-1, group-title="SPORT",True Premier 1
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT",True Premier 2
@@ -167,13 +160,6 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
 #EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 3HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
-
-#EXTINF:-1, group-title="SPORT",(BE) Eleven Sport 1
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/191.ts
-#EXTINF:-1, group-title="SPORT",(BE) Eleven Sport 2
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/192.ts
-
-
 
 
 
