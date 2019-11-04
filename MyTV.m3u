@@ -39,18 +39,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384000_sleng.m3u8
 #EXTINF:-1 group-title="NEWS",NHK World
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1180.m3u8
-
-
-
-
-#EXTINF:-1, group-title="Indonesia",Metro TV
+#EXTINF:-1 group-title="NEWS",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia",TRANS7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia",TRANSTV
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia",TVRI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 
 
