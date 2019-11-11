@@ -146,6 +146,13 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
 
 
+#EXTINF:-1, group-title="SPORT",Setanta Sports 1
+http://92.43.140.249/s81/04.m3u8
+#EXTINF:-1, group-title="SPORT",Setanta Sports 2
+http://92.43.140.249/s82/04.m3u8
+
+
+
 
 
 #EXTINF:-1, group-title="Bein",Bein 1 Thai
