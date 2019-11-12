@@ -215,5 +215,21 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
 
 
+#EXTINF:-1, group-title="Bein", Bein 1 FHD
+http://198.255.82.82/bein1hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+#EXTINF:-1, group-title="Bein", Bein 2 FHD
+http://198.255.82.82/bein2hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+#EXTINF:-1, group-title="Bein", Bein 3 FHD
+http://198.255.82.82/bein3hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+#EXTINF:-1, group-title="Bein", Bein 4 FHD
+http://198.255.82.82/bein4hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+#EXTINF:-1, group-title="Bein", Bein 11 FHD
+http://198.255.82.82/bein11hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+#EXTINF:-1, group-title="Bein", Bein 12 FHD
+http://198.255.82.82/bein12hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+#EXTINF:-1, group-title="Bein", Bein 13 FHD
+http://198.255.82.82/bein13hd.m3u8?md5=BxdM_7u1Ou8p_kJC1r3sPg&expires=1573792137&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
+
+
 
 
