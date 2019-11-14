@@ -15,15 +15,15 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
 
 #EXTINF:-1, group-title="MALAYSIA",TV1 
-http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8 
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8 
 #EXTINF:-1, group-title="MALAYSIA",TV2 
-http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV3
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSuNofgHJOwmZEXMKX0ndHo)/dm/3/x6qp375/d/live-4.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV9
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRp7EW-eRIKBzVFcbBmEAAQ)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA",OKEY 
-http://rtm1mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8 
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8 
 #EXTINF:-1 group-title="MALAYSIA",AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
