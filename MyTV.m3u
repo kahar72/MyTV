@@ -159,6 +159,8 @@ http://109.248.236.41:4433/udp/238.1.1.50:1234
 #EXTINF:-1, group-title="SPORT", NBCSN
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=9836185
 
+#EXTINF:-1, group-title="SPORT", Thairath TV
+https://live.dufree4k.net/02_THAIRATH_720p/chunklist.m3u8
 
 
 
