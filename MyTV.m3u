@@ -170,7 +170,8 @@ http://cdn.live.52glb.com/live/ml_AstroSuperSport2.m3u8?stream_id=ml_AstroSuperS
 http://cdn.live.52glb.com/live/ml_AstroSuperSport3.m3u8?stream_id=ml_AstroSuperSport3&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574038224&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574038235&ltm=1574038234&netype=2&sand=392539ae&auth_key=1574038295-0-0-0fdd0f033e550125f65ffff3dcc56ed9&ckey=MDViZGYyMGJkNDRiMzkzYTA3Y2NhNzliMmZmY2M3ZDk%3D&sign=ab551f2e38c6577115ffa593384ae6da
 #EXTINF:-1, group-title="SPORT", Astro Supersport 4
 http://cdn.live.52glb.com/live/ml_AstroSuperSport4.m3u8?stream_id=ml_AstroSuperSport4&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574038137&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574038145&ltm=1574038144&netype=2&sand=1dff93b7&auth_key=1574038205-0-0-a37591a00e931e0c76477389ce0ef9ef&ckey=MWYzYjJmMmUwNDgwYjJhOGFkYThlODIyZDg2NGU1N2Q%3D&sign=ec966645d3998947e9998fe06b480aa0
-
+#EXTINF:-1, group-title="SPORT", Astro Arena
+http://cdn.live.52glb.com/live/ml_Arena.m3u8?stream_id=ml_Arena&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574040070&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574040080&ltm=1574039951&netype=2&sand=ba2376f3&auth_key=1574040140-0-0-0a51c20bedbcbdbd511585bd4269cb87&ckey=ODNjY2EzNDJjZmZhMWM1NjFkYzk0NGQ2Njk2ZjVjOWI%3D&sign=2e0d731fca34bf85afbfb1f2b19c5acb
 
 
 
