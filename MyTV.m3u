@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1, group-title="Singapore",Channel 5
-http://cdn.live.52glb.com/live/ml_channel5.m3u8?stream_id=ml_channel5&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574040979&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574041000&ltm=1574040631&netype=2&sand=6f7f1713&auth_key=1574041060-0-0-48ec1d303d7c08cb215fdaf8553e2e8d&ckey=MjQ0MDdmNDkzMTRhMzY2OWQwZWQ0OWEyYWEwNDg4ZmE%3D&sign=717bdfa90a7184bdc253e01a33256918
+http://185.180.221.193:8278/Channel5/playlist.m3u8?tid=12753999&tsum=8ff836dbbc4edca8c212e2114f2cf2fc
 #EXTINF:-1, group-title="Singapore",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1, group-title="Singapore",Channel 8
