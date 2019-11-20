@@ -18,9 +18,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.
 #EXTINF:-1, group-title="MALAYSIA",TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaRcaI6tQj2ow-jKTutzWvk)/dm/3/x6qp375/d/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHavIBdfPaa0mx5nmTK1GwgQ)/dm/3/x6qp375/d/live-4.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRp7EW-eRIKBzVFcbBmEAAQ)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTj-BS4HlRYF-SfzBE4H_Bc)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA",OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8 
 #EXTINF:-1 group-title="MALAYSIA",AWANI
@@ -160,17 +160,6 @@ http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires
 
 #EXTINF:-1, group-title="SPORT", Thairath TV
 https://live.dufree4k.net/02_THAIRATH_720p/chunklist.m3u8
-
-#EXTINF:-1, group-title="SPORT", Astro Supersport 1
-http://cdn.live.52glb.com/live/ml_AstroSuperSport1.m3u8?stream_id=ml_AstroSuperSport1&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574037731&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574037741&ltm=1574037740&netype=2&sand=33c04d3f&auth_key=1574037801-0-0-2287874e0d192a35f273b5c61bf981cd&ckey=MTBmZDhhNjMwNTBlMDM2NGZmYzk5NWQ5OWIyMjA1NDY%3D&sign=22ee15714fb8ec210eb95a9ff95e1976
-#EXTINF:-1, group-title="SPORT", Astro Supersport 2
-http://cdn.live.52glb.com/live/ml_AstroSuperSport2.m3u8?stream_id=ml_AstroSuperSport2&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574038344&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574038352&ltm=1574038351&netype=2&sand=0850e2dc&auth_key=1574038412-0-0-f83bb60c8cf34886540d52a99fcab723&ckey=ZDExNWVkZGYwZDliZTQ3OGUyZWIzNWI2ZDA1ODgwMGQ%3D&sign=6c65b2d2ffbaaadcf2f21dda335f69fe
-#EXTINF:-1, group-title="SPORT", Astro Supersport 3
-http://cdn.live.52glb.com/live/ml_AstroSuperSport3.m3u8?stream_id=ml_AstroSuperSport3&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574038224&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574038235&ltm=1574038234&netype=2&sand=392539ae&auth_key=1574038295-0-0-0fdd0f033e550125f65ffff3dcc56ed9&ckey=MDViZGYyMGJkNDRiMzkzYTA3Y2NhNzliMmZmY2M3ZDk%3D&sign=ab551f2e38c6577115ffa593384ae6da
-#EXTINF:-1, group-title="SPORT", Astro Supersport 4
-http://cdn.live.52glb.com/live/ml_AstroSuperSport4.m3u8?stream_id=ml_AstroSuperSport4&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574038137&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574038145&ltm=1574038144&netype=2&sand=1dff93b7&auth_key=1574038205-0-0-a37591a00e931e0c76477389ce0ef9ef&ckey=MWYzYjJmMmUwNDgwYjJhOGFkYThlODIyZDg2NGU1N2Q%3D&sign=ec966645d3998947e9998fe06b480aa0
-#EXTINF:-1, group-title="SPORT", Astro Arena
-http://cdn.live.52glb.com/live/ml_Arena.m3u8?stream_id=ml_Arena&cdn=1&tag=live&ext=m3u8&mediatype=hls&abtimeshift=1574040070&appid=2e7d6d7e1edc62a858bf41b629b8b1d5&cid=fbe21e00d367626a70c05d205dd12dbd&cver=1010&cip=111.65.58.247&geo=SG.0.0.69&token=test&ostype=android&osver=9&vendor=HUAWEI&brand=HUAWEI&model=EVR-L29&uid=test&uuid=2bfa8701675ceb9f30ddee653f3c67a0&stm=1574040080&ltm=1574039951&netype=2&sand=ba2376f3&auth_key=1574040140-0-0-0a51c20bedbcbdbd511585bd4269cb87&ckey=ODNjY2EzNDJjZmZhMWM1NjFkYzk0NGQ2Njk2ZjVjOWI%3D&sign=2e0d731fca34bf85afbfb1f2b19c5acb
 
 
 
