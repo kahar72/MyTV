@@ -182,22 +182,6 @@ https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Bein",Bein 2 Thai
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="Bein", Bein 1
-http://185.132.176.172:8278/bee1hd/playlist.m3u8?tid=17892999&tsum=fa070879f4939ac2b03b0021cff8a62b
-#EXTINF:-1, group-title="Bein", Bein 2
-http://185.132.176.172:8278/bee2hd/playlist.m3u8?tid=11313999&tsum=52fdf01e5519090857cd4b471944bbc2
-#EXTINF:-1, group-title="Bein", Bein 3
-http://185.132.176.172:8278/bee3hd/playlist.m3u8?tid=13383999&tsum=df645cec01664640bdb5de635b897e72
-#EXTINF:-1, group-title="Bein", Bein 4
-http://185.132.176.172:8278/bee4hd/playlist.m3u8?tid=13995999&tsum=84537b0e1359569b0dc275bfa77ee760
-#EXTINF:-1, group-title="Bein", Bein 11
-http://185.132.176.172:8278/bee11hd/playlist.m3u8?tid=15345999&tsum=e4f0a09aaa643133faad2108d2dfaa7a
-#EXTINF:-1, group-title="Bein", Bein 12
-http://185.132.176.172:8278/bee12hd/playlist.m3u8?tid=16452999&tsum=be0f698e4271ecf82a8f9b7472c1665e
-#EXTINF:-1, group-title="Bein", Bein 13
-http://185.132.176.172:8278/bee13hd/playlist.m3u8?tid=18837999&tsum=85d206a3bfb6938796e1884ca44cb352
-
-
 #EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
 #EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 2
