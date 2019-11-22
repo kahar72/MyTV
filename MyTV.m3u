@@ -144,6 +144,9 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 #EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 3
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
 
+#EXTINF:-1, group-title="SPORT", Canal+ Sport
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
+
 #EXTINF:-1, group-title="SPORT", DAZN 1
 http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2674
 #EXTINF:-1, group-title="SPORT", DAZN 2
@@ -177,6 +180,24 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/1.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1, group-title="Bein", Bein 1
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5223
+#EXTINF:-1, group-title="Bein", Bein 2
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5225
+#EXTINF:-1, group-title="Bein", Bein 3
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5227
+#EXTINF:-1, group-title="Bein", Bein 4
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5229
+#EXTINF:-1, group-title="Bein", Bein 11
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5241
+#EXTINF:-1, group-title="Bein", Bein 12
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5242
+#EXTINF:-1, group-title="Bein", Bein 13
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5243
 
 
 #EXTINF:-1, group-title="Bein",Bein 1 Thai
