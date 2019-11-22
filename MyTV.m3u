@@ -67,6 +67,8 @@ http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1, group-title="Documentary",History
 http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1, group-title="Documentary",History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1, group-title="Documentary",BBC Earth
 http://211.245.55.198:22514/m2u/239.192.69.165:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 
