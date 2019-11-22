@@ -172,7 +172,7 @@ http://211.245.55.198:22514/m2u/239.192.67.162:49220&transcoder=h264ts&bitrate=1
 #EXTINF:-1, group-title="SPORT", SBS Sports
 http://211.245.55.198:22514/m2u/239.192.67.130:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 
-BesTV 4K
+#EXTINF:-1, group-title="SPORT", BesTV
 http://117.148.187.37/PLTV/88888888/224/3221226718/1.m3u8
 
 
