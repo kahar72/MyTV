@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1, group-title="Singapore",Channel 5
-http://185.180.221.193:8278/Channel5/playlist.m3u8?tid=12753999&tsum=8ff836dbbc4edca8c212e2114f2cf2fc
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1, group-title="Singapore",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1, group-title="Singapore",Channel 8
