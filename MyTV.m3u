@@ -132,10 +132,6 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 
 #EXTINF:-1, group-title="SPORT",Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1, group-title="SPORT",Sky Sports Main Event
-http://185.132.176.172:8278/tiankongmain/playlist.m3u8?tid=11673999&tsum=718084049e405cb508a1353cccfc34c9
-#EXTINF:-1, group-title="SPORT",Sky Sports Premier League
-http://185.132.176.172:8278/tiankongepl/playlist.m3u8?tid=15336999&tsum=467f5e56e0b73e233837ab9d1b6719c4
 
 #EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
@@ -181,23 +177,6 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/1.m3u8
 
 
 
-
-
-
-#EXTINF:-1, group-title="Bein", Bein 1
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5223
-#EXTINF:-1, group-title="Bein", Bein 2
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5225
-#EXTINF:-1, group-title="Bein", Bein 3
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5227
-#EXTINF:-1, group-title="Bein", Bein 4
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5229
-#EXTINF:-1, group-title="Bein", Bein 11
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5241
-#EXTINF:-1, group-title="Bein", Bein 12
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5242
-#EXTINF:-1, group-title="Bein", Bein 13
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5243
 
 
 #EXTINF:-1, group-title="Bein",Bein 1 Thai
