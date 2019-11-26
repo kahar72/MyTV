@@ -1,141 +1,144 @@
 #EXTM3U
 
 
-#EXTINF:-1, group-title="Singapore",Channel 5
+#EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore",Suria
+#EXTINF:-1, group-title="Singapore", Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1, group-title="Singapore",Channel 8
+#EXTINF:-1, group-title="Singapore", Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1, group-title="Singapore",Vasantham
+#EXTINF:-1, group-title="Singapore", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
 
 
 
-#EXTINF:-1, group-title="MALAYSIA",TV1 
+#EXTINF:-1, group-title="MALAYSIA", TV1 
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8 
-#EXTINF:-1, group-title="MALAYSIA",TV2 
+#EXTINF:-1, group-title="MALAYSIA", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV3
+#EXTINF:-1, group-title="MALAYSIA", TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ32s0X3D68q1mw_Y7aumaE)/dm/3/x6qp375/d/live-4.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV9
+#EXTINF:-1, group-title="MALAYSIA", TV9
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxKMgRSeSHOLplA6XfzoKg)/dm/3/x6qqja6/s/live-4.m3u8
-#EXTINF:-1, group-title="MALAYSIA",OKEY 
+#EXTINF:-1, group-title="MALAYSIA", OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8 
-#EXTINF:-1 group-title="MALAYSIA",AWANI
+#EXTINF:-1, group-title="MALAYSIA", AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
 
 
 
-#EXTINF:-1, group-title="Indonesia",RCTI
+#EXTINF:-1, group-title="Indonesia", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1, group-title="Indonesia",GLOBAL TV
+#EXTINF:-1, group-title="Indonesia", GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia",MNC TV
+#EXTINF:-1, group-title="Indonesia", MNC TV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia",iNews
+#EXTINF:-1, group-title="Indonesia", iNews
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1, group-title="Indonesia",Metro TV
+#EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", TVRI
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="NEWS",Aljazeera English
+
+#EXTINF:-1, group-title="NEWS", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:-1 group-title="NEWS",Channel NewsAsia
+#EXTINF:-1, group-title="NEWS", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="NEWS",Sky News
+#EXTINF:-1, group-title="NEWS", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="NEWS",CNN indonesia
+#EXTINF:-1, group-title="NEWS", CNN indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384000_sleng.m3u8
-#EXTINF:-1 group-title="NEWS",NHK World
+#EXTINF:-1, group-title="NEWS", NHK World
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1180.m3u8
 
 
 
 
-#EXTINF:-1, group-title="Documentary",Animal Planet
+#EXTINF:-1, group-title="Documentary", Animal Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
-#EXTINF:-1, group-title="Documentary",Discovery Showcase
+#EXTINF:-1, group-title="Documentary", Discovery Showcase
 http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
-#EXTINF:-1, group-title="Documentary",National Geographic
+#EXTINF:-1, group-title="Documentary", National Geographic
 http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
 #EXTINF:-1, group-title="Documentary",National Geographic Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1, group-title="Documentary",History
+#EXTINF:-1, group-title="Documentary", History
 http://95.170.215.118/hls/m3u8/History.m3u8
-#EXTINF:-1, group-title="Documentary",History 2
+#EXTINF:-1, group-title="Documentary", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1, group-title="Documentary",BBC Earth
+#EXTINF:-1, group-title="Documentary", BBC Earth
 http://211.245.55.198:22514/m2u/239.192.69.165:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 
 
 
 
-#EXTINF:-1, group-title="SPORT",RTM Sport HD
+#EXTINF:-1, group-title="SPORT", RTM Sport HD
 http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
-#EXTINF:-1, group-title="SPORT",NewTV Super Sports
+#EXTINF:-1, group-title="SPORT", NewTV Super Sports
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1, group-title="SPORT",CCTV 5
+#EXTINF:-1, group-title="SPORT", CCTV 5
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1, group-title="SPORT",CCTV 5+
+#EXTINF:-1, group-title="SPORT", CCTV 5+
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 
-#EXTINF:-1, group-title="SPORT",True Premier 1
+#EXTINF:-1, group-title="SPORT", True Premier 1
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",True Premier 2
+#EXTINF:-1, group-title="SPORT", True Premier 2
 https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",True Premier 3
+#EXTINF:-1, group-title="SPORT", True Premier 3
 https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",True Premier 4
+#EXTINF:-1, group-title="SPORT", True Premier 4
 https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",True Premier 5
+#EXTINF:-1, group-title="SPORT", True Premier 5
 https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORT",SportTV 1
+#EXTINF:-1, group-title="SPORT", SportTV 1
 https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",SportTV 2
+#EXTINF:-1, group-title="SPORT", SportTV 2
 https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",SportTV 3
+#EXTINF:-1, group-title="SPORT", SportTV 3
 https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",SportTV 4
+#EXTINF:-1, group-title="SPORT", SportTV 4
 https://live.dufree4k.net/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",SportTV 5
+#EXTINF:-1, group-title="SPORT", SportTV 5
 https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORT",BT Sport 1
+#EXTINF:-1, group-title="SPORT", BT Sport 1
 https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",BT Sport 2
+#EXTINF:-1, group-title="SPORT", BT Sport 2
 https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORT",Fox Sports 1
+#EXTINF:-1, group-title="SPORT", Fox Sports 1
 https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",Fox Sports 2
+#EXTINF:-1, group-title="SPORT", Fox Sports 2
 https://live.dufree4k.net/02_FoxSport2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT",Fox Sports 3
+#EXTINF:-1, group-title="SPORT", Fox Sports 3
 https://live.dufree4k.net/02_FoxSport3_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORT",MyCujoo TV 1
+#EXTINF:-1, group-title="SPORT", MyCujoo TV 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/playlist.m3u8
-#EXTINF:-1, group-title="SPORT",MyCujoo TV 2
+#EXTINF:-1, group-title="SPORT", MyCujoo TV 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25yoowy2erm0hfyvm2frjup/720p/playlist.m3u8
 
-#EXTINF:-1, group-title="SPORT",Ziggo Select
+#EXTINF:-1, group-title="SPORT", Ziggo Select
 http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
-#EXTINF:-1, group-title="SPORT",Ziggo Voetbal
+#EXTINF:-1, group-title="SPORT", Ziggo Voetbal
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 
-#EXTINF:-1, group-title="SPORT",Sky Sports Football
+#EXTINF:-1, group-title="SPORT", Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
-#EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 1
+#EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
-#EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 2
+#EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 2
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
-#EXTINF:-1, group-title="SPORT",|FR| RMC SPORT 3
+#EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 3
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
 
 #EXTINF:-1, group-title="SPORT", Canal+ Sport
@@ -185,29 +188,29 @@ http://95.216.2.179/brotherstv/722040/331173/339/220
 #EXTINF:-1, group-title="Bein", Bein 3
 http://95.216.2.179/brotherstv/722040/331173/339/221
 
-#EXTINF:-1, group-title="Bein",Bein 1 Thai
+#EXTINF:-1, group-title="Bein", Bein 1 Thai
 https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Bein",Bein 2 Thai
+#EXTINF:-1, group-title="Bein", Bein 2 Thai
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 1
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORTS 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 2
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORTS 2
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORTS 3
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORTS 3
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
 
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 4
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 4
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 5
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 5
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 6
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 6
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 7
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 7
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 8
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 8
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
-#EXTINF:-1, group-title="Bein",|FR| BEINSPORT MAX 9
+#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 9
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
 
 
