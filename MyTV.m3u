@@ -177,6 +177,16 @@ http://211.245.55.198:22514/m2u/239.192.67.162:49220&transcoder=h264ts&bitrate=1
 #EXTINF:-1, group-title="SPORT", SBS Sports
 http://211.245.55.198:22514/m2u/239.192.67.130:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
 
+#EXTINF:-1, group-title="SPORT", Astro Supersport 1
+http://198.255.5.58:9981/stream/channelid/1967715841?ticket=0D42E3A3B96EC52B011CF87BC435F07ED088AAC9&profile=pass
+#EXTINF:-1, group-title="SPORT", Astro Supersport 2
+http://198.255.5.58:9981/stream/channelid/1006895579?ticket=4941A39FC8AA927DF2CDECF50FF127972BD45BCE&profile=pass
+#EXTINF:-1, group-title="SPORT", Astro Supersport 3
+http://198.255.5.58:9981/stream/channelid/762672896?ticket=AB484394B3D6F299DD440542FA4CE9A6B612A6A5&profile=pass
+#EXTINF:-1, group-title="SPORT", Astro Supersport 4
+http://198.255.5.58:9981/stream/channelid/813529725?ticket=7C98EB71461521D77E59AA4DD80F0F6EAF004BCB&profile=pass
+
+
 
 
 
