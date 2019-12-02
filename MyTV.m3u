@@ -18,7 +18,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.
 #EXTINF:-1, group-title="MALAYSIA", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 #EXTINF:-1, group-title="MALAYSIA", TV3
-http://198.255.5.58:9981/stream/channelid/817938603?ticket=A2E7BDCEA4C3FA4453BF7EDDB17576DEDF89F983&profile=pass
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHebWi6n-AZ6XQsCqJ8ZwWE0)/dm/3/x6qp375/d/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA", TV9
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxKMgRSeSHOLplA6XfzoKg)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA", OKEY 
@@ -98,22 +98,6 @@ https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT", True Premier 5
 https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORT", SportTV 1
-https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT", SportTV 2
-https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT", SportTV 3
-https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT", SportTV 4
-https://live.dufree4k.net/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT", SportTV 5
-https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1, group-title="SPORT", BT Sport 1
-https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="SPORT", BT Sport 2
-https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
-
 #EXTINF:-1, group-title="SPORT", Fox Sports 1
 https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT", Fox Sports 2
@@ -158,9 +142,6 @@ http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/226.ts
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1, group-title="SPORT", Setanta Sport+
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-
-#EXTINF:-1, group-title="SPORT", Viasat Sport
-http://109.248.236.41:4433/udp/238.1.1.50:1234
 
 #EXTINF:-1, group-title="SPORT", NBCSN
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
