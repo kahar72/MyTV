@@ -74,6 +74,14 @@ http://95.170.215.118/hls/m3u8/History.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1, group-title="Documentary", BBC Earth
 http://211.245.55.198:22514/m2u/239.192.69.165:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
+#EXTINF:-1, group-title="Documentary", National Geographic UK
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3187.ts
+#EXTINF:-1, group-title="Documentary", Discovery UK
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3048.ts
+#EXTINF:-1, group-title="Documentary", History UK
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3066.ts
+#EXTINF:-1, group-title="Documentary", Animal Planet UK
+
 
 
 
