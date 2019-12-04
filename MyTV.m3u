@@ -18,7 +18,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.
 #EXTINF:-1, group-title="MALAYSIA", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 #EXTINF:-1, group-title="MALAYSIA", TV3
-http://127.0.0.1:43523/http/198.255.5.58:9981/stream/channelid/817938603?ticket=A559672DE38B60B5007A2E322132CB9A4D5F86B3&profile=pass
+http://198.255.5.58:9981/stream/channelid/817938603?ticket=A559672DE38B60B5007A2E322132CB9A4D5F86B3&profile=pass
 #EXTINF:-1, group-title="MALAYSIA", TV9
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxKMgRSeSHOLplA6XfzoKg)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA", OKEY 
@@ -26,11 +26,11 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20960
 #EXTINF:-1, group-title="MALAYSIA", AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1, group-title="MALAYSIA", Astro Ria
-http://127.0.0.1:37891/http/198.255.5.58:9981/stream/channelid/1650442089?ticket=A51A78A68B3D4257F21D60403C435785A777A039&profile=pass
+http://198.255.5.58:9981/stream/channelid/1650442089?ticket=A51A78A68B3D4257F21D60403C435785A777A039&profile=pass
 #EXTINF:-1, group-title="MALAYSIA", Astro Warna
-http://127.0.0.1:43523/http/198.255.5.58:9981/stream/channelid/546763327?ticket=4C49F210FDBA9FDC9AFDE4CB3738C051613DADA6&profile=pass
+http://198.255.5.58:9981/stream/channelid/546763327?ticket=4C49F210FDBA9FDC9AFDE4CB3738C051613DADA6&profile=pass
 #EXTINF:-1, group-title="MALAYSIA", Astro Citra
-http://127.0.0.1:43523/http/198.255.5.58:9981/stream/channelid/1939886682?ticket=BE25640BBC5FC3143FE3C5562F408C7AC3A2733F&profile=pass
+http://198.255.5.58:9981/stream/channelid/1939886682?ticket=BE25640BBC5FC3143FE3C5562F408C7AC3A2733F&profile=pass
 
 
 
