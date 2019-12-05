@@ -171,14 +171,14 @@ http://92.46.127.146:8080/SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
 #EXTINF:-1, group-title="SPORT", DAZN 1 DE
-http://127.0.0.1:41671/http/iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2674
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2674
 #EXTINF:-1, group-title="SPORT", DAZN 2 DE
-http://127.0.0.1:40693/http/iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2675
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2675
 
 #EXTINF:-1, group-title="SPORT", PPTV Thai
-http://127.0.0.1:40215/http/146.88.46.49:9998/stream/channelid/143415021?profile=pass
+http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
 #EXTINF:-1, group-title="SPORT", Thairath TV Thai
-http://127.0.0.1:44871/http/146.88.46.49:9998/stream/channelid/779118377?profile=pass
+http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
 
 #EXTINF:-1, group-title="SPORT", MyCujoo TV 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/playlist.m3u8
