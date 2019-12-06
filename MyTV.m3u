@@ -221,13 +221,19 @@ https://live.dufree4k.net/02_FoxSport3_720p/chunklist.m3u8
 
 
 #EXTINF:-1, group-title="Bein", Bein 1
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/8253.m3u8
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/12.ts
 #EXTINF:-1, group-title="Bein", Bein 2
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/8251.m3u8
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/13.ts
 #EXTINF:-1, group-title="Bein", Bein 3
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/8249.m3u8
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/14.ts
 #EXTINF:-1, group-title="Bein", Bein 4
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2777.m3u8
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/15.ts
+#EXTINF:-1, group-title="Bein", Bein 5
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/16.ts
+#EXTINF:-1, group-title="Bein", Bein 6
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/17.ts
+#EXTINF:-1, group-title="Bein", Bein 7
+http://tv.aloussports.com:8080/live/AlousSports/3355007722/18.ts
 
 #EXTINF:-1, group-title="Bein", Bein 1 Thai
 https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
