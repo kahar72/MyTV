@@ -126,7 +126,7 @@ https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT", Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1, group-title="SPORT", Sky Sports Main Event
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3222.ts
+http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/204
 #EXTINF:-1, group-title="SPORT", Sky Sports Premier League
 http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3225.ts
 
@@ -239,6 +239,8 @@ http://tv.aloussports.com:8080/live/AlousSports/3355007722/16.ts
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/17.ts
 #EXTINF:-1, group-title="Bein", Bein 7
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/18.ts
+#EXTINF:-1, group-title="Bein", Bein 11
+http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/74480
 
 #EXTINF:-1, group-title="Bein", Bein 1 Thai
 https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
