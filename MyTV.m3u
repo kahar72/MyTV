@@ -128,7 +128,7 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1, group-title="SPORT", Sky Sports Main Event
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/204
 #EXTINF:-1, group-title="SPORT", Sky Sports Premier League
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3225.ts
+http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/208
 
 #EXTINF:-1, group-title="SPORT", BT Sports 1
 http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3031.ts
