@@ -152,7 +152,7 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 #EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 3
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
 
-#EXTINF:-1, group-title="SPORT", Canal+ Sport
+#EXTINF:-1, group-title="SPORT", Canal+ Sport FR
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
 
 #EXTINF:-1, group-title="SPORT", Ziggo Select
@@ -185,15 +185,15 @@ https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/pla
 #EXTINF:-1, group-title="SPORT", MyCujoo TV 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25yoowy2erm0hfyvm2frjup/720p/playlist.m3u8
 
-#EXTINF:-1, group-title="SPORT", SportTV 1
+#EXTINF:-1, group-title="SPORT", SportTV 1 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4643
-#EXTINF:-1, group-title="SPORT", SportTV 2
+#EXTINF:-1, group-title="SPORT", SportTV 2 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4647
-#EXTINF:-1, group-title="SPORT", SportTV 3
+#EXTINF:-1, group-title="SPORT", SportTV 3 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4646
-#EXTINF:-1, group-title="SPORT", SportTV 4
+#EXTINF:-1, group-title="SPORT", SportTV 4 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4645
-#EXTINF:-1, group-title="SPORT", SportTV 5
+#EXTINF:-1, group-title="SPORT", SportTV 5 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
 
 #EXTINF:-1, group-title="SPORT", Sports 1 IL
