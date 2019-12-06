@@ -145,6 +145,9 @@ http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3087.ts
 #EXTINF:-1, group-title="SPORT", NBCSN
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
 
+#EXTINF:-1, group-title="SPORT", RUSH
+http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80799
+
 #EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
 #EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 2
