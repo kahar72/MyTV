@@ -195,6 +195,11 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/65927
 #EXTINF:-1, group-title="SPORT", Sports 2 IL
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/65928
 
+#EXTINF:-1, group-title="SPORT", BES TV 4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1, group-title="SPORT", BES TV
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+
 
 
 
