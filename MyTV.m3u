@@ -30,24 +30,6 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 
 
 
-
-#EXTINF:-1, group-title="Indonesia", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", GLOBAL TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", MNC TV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", iNews
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia", TVRI
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-
-
-
-
 #EXTINF:-1, group-title="NEWS", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, group-title="NEWS", Channel NewsAsia
@@ -74,15 +56,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://95.170.215.118/hls/m3u8/History.m3u8
 #EXTINF:-1, group-title="Documentary", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1, group-title="Documentary", BBC Earth
-http://211.245.55.198:22514/m2u/239.192.69.165:49220&transcoder=h264ts&bitrate=1024&width=570&height=320.webm
-#EXTINF:-1, group-title="Documentary", National Geographic UK
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3187.ts
-#EXTINF:-1, group-title="Documentary", Discovery UK
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3048.ts
-#EXTINF:-1, group-title="Documentary", History UK
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3066.ts
-#EXTINF:-1, group-title="Documentary", Animal Planet UK
 
 
 
@@ -108,25 +81,6 @@ https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT", True Premier 5
 https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORT", Sky Sports Football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1, group-title="SPORT", Sky Sports Main Event
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/204
-#EXTINF:-1, group-title="SPORT", Sky Sports Premier League
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/208
-
-#EXTINF:-1, group-title="SPORT", BT Sports 1
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3031.ts
-#EXTINF:-1, group-title="SPORT", BT Sports 2
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3032.ts
-#EXTINF:-1, group-title="SPORT", BT Sports 3
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3260.ts
-
-#EXTINF:-1, group-title="SPORT", Premier Sport 1
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3086.ts
-#EXTINF:-1, group-title="SPORT", Premier Sport 2
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3087.ts
-
 #EXTINF:-1, group-title="SPORT", NBCSN
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
 
@@ -139,25 +93,13 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80797
 #EXTINF:-1, group-title="SPORT", Rush 4
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80796
 
-#EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 1
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
-#EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 2
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
-#EXTINF:-1, group-title="SPORT", |FR| RMC SPORT 3
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
-
-#EXTINF:-1, group-title="SPORT", Canal+ Sport FR
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
+#EXTINF:-1, group-title="SPORT", Sky Sports Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
 #EXTINF:-1, group-title="SPORT", Ziggo Select
 http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
 #EXTINF:-1, group-title="SPORT", Ziggo Voetbal
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
-
-#EXTINF:-1, group-title="SPORT", Eleven Sport 1
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/225.ts
-#EXTINF:-1, group-title="SPORT", Eleven Sport 2
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/226.ts
 
 #EXTINF:-1, group-title="SPORT", Setanta Sport
 http://92.46.127.146:8080/SetantaSport/index.m3u8
@@ -174,11 +116,6 @@ http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
 #EXTINF:-1, group-title="SPORT", Thairath TV Thai
 http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
 
-#EXTINF:-1, group-title="SPORT", MyCujoo TV 1
-https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25ypwli2eu70hfy6uel8778/720p/playlist.m3u8
-#EXTINF:-1, group-title="SPORT", MyCujoo TV 2
-https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck25yoowy2erm0hfyvm2frjup/720p/playlist.m3u8
-
 #EXTINF:-1, group-title="SPORT", SportTV 1 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4643
 #EXTINF:-1, group-title="SPORT", SportTV 2 PT
@@ -189,11 +126,6 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4646
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4645
 #EXTINF:-1, group-title="SPORT", SportTV 5 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
-
-#EXTINF:-1, group-title="SPORT", Sports 1 IL
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/65927
-#EXTINF:-1, group-title="SPORT", Sports 2 IL
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/65928
 
 #EXTINF:-1, group-title="SPORT", BES TV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
@@ -240,33 +172,12 @@ http://tv.aloussports.com:8080/live/AlousSports/3355007722/17.ts
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/18.ts
 #EXTINF:-1, group-title="Bein", Bein 11
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/74480
+#EXTINF:-1, group-title="Bein", Bein 12
+http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/74479
+#EXTINF:-1, group-title="Bein", Bein 13
+http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/74478
 
 #EXTINF:-1, group-title="Bein", Bein 1 Thai
 https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Bein", Bein 2 Thai
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORTS 1
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORTS 2
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORTS 3
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
-
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 4
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 5
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 6
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 7
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 8
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
-#EXTINF:-1, group-title="Bein", |FR| BEINSPORT MAX 9
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
-
-
-
-
-
