@@ -30,6 +30,17 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 
 
 
+#EXTINF:-1, group-title="Indonesia", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+
+
+
+
 #EXTINF:-1, group-title="NEWS", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, group-title="NEWS", Channel NewsAsia
@@ -95,6 +106,11 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80796
 
 #EXTINF:-1, group-title="SPORT", Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+
+#EXTINF:-1, group-title="SPORT", Sky Sport 1 DE
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2772.ts
+#EXTINF:-1, group-title="SPORT", Sky Sport 2 DE
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2773.ts
 
 #EXTINF:-1, group-title="SPORT", Ziggo Select
 http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
