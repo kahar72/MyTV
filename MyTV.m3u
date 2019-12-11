@@ -151,6 +151,14 @@ http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 #EXTINF:-1, group-title="SPORT", QazSport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
 
+#EXTINF:-1, group-title="SPORT", SporTV 1 BR
+http://tv.factoryiptv.com:80/907098/907098/62918
+#EXTINF:-1, group-title="SPORT", SporTV 2 BR
+http://tv.factoryiptv.com:80/907098/907098/62914
+#EXTINF:-1, group-title="SPORT", SporTV 3 BR
+http://tv.factoryiptv.com:80/907098/907098/62916
+
+
 
 
 
