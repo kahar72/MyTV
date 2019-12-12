@@ -66,39 +66,39 @@ http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_
 
 
 France
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 1
+#EXTINF:-1, group-title="Sport 1", RMC SPORT 1 FR
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3309
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 2
+#EXTINF:-1, group-title="Sport 1", RMC SPORT 2 FR
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3310
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 3
+#EXTINF:-1, group-title="Sport 1", RMC SPORT 3 FR
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3311
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 4
+#EXTINF:-1, group-title="Sport 1", RMC SPORT 4 FR
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3312
-#EXTINF:-1, group-title="Sport 1", Canal+ Sport
+#EXTINF:-1, group-title="Sport 1", Canal+ Sport FR
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3316
 
 
 UK & USA
-#EXTINF:-1, group-title="Sport 1", Sky Sports Football
+#EXTINF:-1, group-title="Sport 1", Sky Sports Football UK
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1, group-title="Sport 1", Sky Sports Main Event
+#EXTINF:-1, group-title="Sport 1", Sky Sports Main Event UK
 http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1, group-title="Sport 1", Sky Sports Premier League
+#EXTINF:-1, group-title="Sport 1", Sky Sports Premier League UK
 http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
-#EXTINF:-1, group-title="Sport 1", NBCSN
+#EXTINF:-1, group-title="Sport 1", NBCSN USA
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
 
 
 Thailand
-#EXTINF:-1, group-title="Sport 1", True Premier 1
+#EXTINF:-1, group-title="Sport 1", True Premier 1 TH
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 2
+#EXTINF:-1, group-title="Sport 1", True Premier 2 TH
 https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 3
+#EXTINF:-1, group-title="Sport 1", True Premier 3 TH
 https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 4
+#EXTINF:-1, group-title="Sport 1", True Premier 4 TH
 https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 5
+#EXTINF:-1, group-title="Sport 1", True Premier 5 TH
 https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", PPTV TH
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
@@ -135,13 +135,13 @@ http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2675
 
 
 China
-#EXTINF:-1, group-title="Sport 2", NewTV Super Sports
+#EXTINF:-1, group-title="Sport 2", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1, group-title="Sport 2", CCTV 5
+#EXTINF:-1, group-title="Sport 2", CCTV 5 CN
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1, group-title="Sport 2", CCTV 5+
+#EXTINF:-1, group-title="Sport 2", CCTV 5+ CN
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1, group-title="Sport 2", BES TV
+#EXTINF:-1, group-title="Sport 2", BES TV CN
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 
 
@@ -161,84 +161,84 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.ts
 
 
 Portugal
-#EXTINF:-1, group-title="Sport 1", Eleven Sport 1
+#EXTINF:-1, group-title="Sport 1", Eleven Sport 1 PT
 http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.ts
-#EXTINF:-1, group-title="Sport 1", Eleven Sport 2
+#EXTINF:-1, group-title="Sport 1", Eleven Sport 2 PT
 http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/226.ts
-#EXTINF:-1, group-title="Sport 2", SportTV 1
+#EXTINF:-1, group-title="Sport 2", SportTV 1 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4643
-#EXTINF:-1, group-title="Sport 2", SportTV 2
+#EXTINF:-1, group-title="Sport 2", SportTV 2 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4647
-#EXTINF:-1, group-title="Sport 2", SportTV 3
+#EXTINF:-1, group-title="Sport 2", SportTV 3 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4646
-#EXTINF:-1, group-title="Sport 2", SportTV 4
+#EXTINF:-1, group-title="Sport 2", SportTV 4 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4645
-#EXTINF:-1, group-title="Sport 2", SportTV 5
+#EXTINF:-1, group-title="Sport 2", SportTV 5 PT
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
 
 
 Italy
-#EXTINF:-1, group-title="Sport 2", Sport Italia
+#EXTINF:-1, group-title="Sport 2", Sport Italia IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/24
-#EXTINF:-1, group-title="Sport 2", Sky Sport 24
+#EXTINF:-1, group-title="Sport 2", Sky Sport 24 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/62
-#EXTINF:-1, group-title="Sport 2", Sky Sport Uno
+#EXTINF:-1, group-title="Sport 2", Sky Sport Uno IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/37
-#EXTINF:-1, group-title="Sport 2", Sky Sport Football
+#EXTINF:-1, group-title="Sport 2", Sky Sport Football IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/52
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 1
+#EXTINF:-1, group-title="Sport 2", Sky Calcio 1 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/210
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 2
+#EXTINF:-1, group-title="Sport 2", Sky Calcio 2 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/207
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 3
+#EXTINF:-1, group-title="Sport 2", Sky Calcio 3 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/204
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 4
+#EXTINF:-1, group-title="Sport 2", Sky Calcio 4 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/201
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 5
+#EXTINF:-1, group-title="Sport 2", Sky Calcio 5 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/198
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 6
+#EXTINF:-1, group-title="Sport 2", Sky Calcio 6 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/196
-#EXTINF:-1, group-title="Sport 1", Sky DAZN Bar 1
+#EXTINF:-1, group-title="Sport 1", Sky DAZN Bar 1 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/152
-#EXTINF:-1, group-title="Sport 1", Sky DAZN Bar 2
+#EXTINF:-1, group-title="Sport 1", Sky DAZN Bar 2 IT
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/154
 
 
 Caribbean
-#EXTINF:-1, group-title="Sport 2", Rush 1
+#EXTINF:-1, group-title="Sport 2", Rush 1 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80799
-#EXTINF:-1, group-title="Sport 2", Rush 2
+#EXTINF:-1, group-title="Sport 2", Rush 2 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80798
-#EXTINF:-1, group-title="Sport 2", Rush 3
+#EXTINF:-1, group-title="Sport 2", Rush 3 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80797
-#EXTINF:-1, group-title="Sport 2", Rush 4
+#EXTINF:-1, group-title="Sport 2", Rush 4 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80796
-#EXTINF:-1, group-title="Sport 2", Rush 5
+#EXTINF:-1, group-title="Sport 2", Rush 5 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80795
 
 
 Arab
-#EXTINF:-1, group-title="Sport 2", Bein 1
+#EXTINF:-1, group-title="Sport 2", Bein 1 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/12.ts
-#EXTINF:-1, group-title="Sport 2", Bein 2
+#EXTINF:-1, group-title="Sport 2", Bein 2 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/13.ts
-#EXTINF:-1, group-title="Sport 2", Bein 3
+#EXTINF:-1, group-title="Sport 2", Bein 3 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/14.ts
-#EXTINF:-1, group-title="Sport 2", Bein 4
+#EXTINF:-1, group-title="Sport 2", Bein 4 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/15.ts
-#EXTINF:-1, group-title="Sport 2", Bein 5
+#EXTINF:-1, group-title="Sport 2", Bein 5 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/16.ts
-#EXTINF:-1, group-title="Sport 2", Bein 6
+#EXTINF:-1, group-title="Sport 2", Bein 6 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/17.ts
-#EXTINF:-1, group-title="Sport 2", Bein 7
+#EXTINF:-1, group-title="Sport 2", Bein 7 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/18.ts
-#EXTINF:-1, group-title="Sport 2", Bein 11
+#EXTINF:-1, group-title="Sport 2", Bein 11 AR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/74480
-#EXTINF:-1, group-title="Sport 2", Bein 12
+#EXTINF:-1, group-title="Sport 2", Bein 12 AR
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5242
-#EXTINF:-1, group-title="Sport 2", Bein 13
+#EXTINF:-1, group-title="Sport 2", Bein 13 AR
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5243
-#EXTINF:-1, group-title="Sport 2", QazSport
+#EXTINF:-1, group-title="Sport 2", QazSport AR
 http://109.248.236.41:4433/udp/238.1.1.116:1234
 
 
