@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 Singapore
 #EXTINF:-1, group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -13,6 +11,41 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
 
+Indonesia
+#EXTINF:-1, group-title="Indonesia", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+
+News
+#EXTINF:-1, group-title="News", Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1, group-title="News", Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1, group-title="News", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1, group-title="News", CNN indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384000_sleng.m3u8
+#EXTINF:-1, group-title="News", NHK World
+https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1180.m3u8
+
+
+Documentary
+#EXTINF:-1, group-title="Documentary", Animal Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1, group-title="Documentary", Discovery Showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
+#EXTINF:-1, group-title="Documentary", National Geographic
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
+#EXTINF:-1, group-title="Documentary",National Geographic Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1, group-title="Documentary", History
+http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1, group-title="Documentary", History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
 
 Malaysia
@@ -32,48 +65,6 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 
 
-
-Indonesia
-#EXTINF:-1, group-title="Indonesia", Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia", Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Indonesia", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-
-
-
-News
-#EXTINF:-1, group-title="News", Aljazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1, group-title="News", Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1, group-title="News", Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1, group-title="News", CNN indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384000_sleng.m3u8
-#EXTINF:-1, group-title="News", NHK World
-https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1180.m3u8
-
-
-
-Documentary
-#EXTINF:-1, group-title="Documentary", Animal Planet
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
-#EXTINF:-1, group-title="Documentary", Discovery Showcase
-http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
-#EXTINF:-1, group-title="Documentary", National Geographic
-http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
-#EXTINF:-1, group-title="Documentary",National Geographic Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1, group-title="Documentary", History
-http://95.170.215.118/hls/m3u8/History.m3u8
-#EXTINF:-1, group-title="Documentary", History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-
-
-
 France
 #EXTINF:-1, group-title="Sport 1", RMC SPORT 1
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3309
@@ -87,7 +78,6 @@ http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3312
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3316
 
 
-
 UK & USA
 #EXTINF:-1, group-title="Sport 1", Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
@@ -97,7 +87,6 @@ http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
 http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
 #EXTINF:-1, group-title="Sport 1", NBCSN
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
-
 
 
 Thailand
@@ -127,14 +116,11 @@ https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
 
-
 Ireland
 #EXTINF:-1, group-title="Sport 1", Setanta Sport 1 IRE
 http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="Sport 1", Setanta Sport 2 IRE
 http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
-
-
 
 
 Germany
@@ -148,8 +134,6 @@ http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2674
 http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2675
 
 
-
-
 China
 #EXTINF:-1, group-title="Sport 2", NewTV Super Sports
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
@@ -159,8 +143,6 @@ http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1, group-title="Sport 2", BES TV
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-
-
 
 
 Netherlands
@@ -178,8 +160,6 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.ts
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.ts
 
 
-
-
 Portugal
 #EXTINF:-1, group-title="Sport 1", Eleven Sport 1
 http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.ts
@@ -195,8 +175,6 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4646
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4645
 #EXTINF:-1, group-title="Sport 2", SportTV 5
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
-
-
 
 
 Italy
@@ -226,8 +204,6 @@ http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/152
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/154
 
 
-
-
 Caribbean
 #EXTINF:-1, group-title="Sport 2", Rush 1
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80799
@@ -239,8 +215,6 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80797
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80796
 #EXTINF:-1, group-title="Sport 2", Rush 5
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80795
-
-
 
 
 Arab
@@ -266,7 +240,5 @@ http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5242
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5243
 #EXTINF:-1, group-title="Sport 2", QazSport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
-
-
 
 
