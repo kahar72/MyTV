@@ -95,6 +95,19 @@ https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1, group-title="SPORT", NBCSN
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
 
+#EXTINF:-1, group-title="SPORT", RMC SPORT 1
+http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3309
+#EXTINF:-1, group-title="SPORT", RMC SPORT 2
+http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3310
+#EXTINF:-1, group-title="SPORT", RMC SPORT 3
+http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3311
+#EXTINF:-1, group-title="SPORT", RMC SPORT 4
+http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3312
+
+#EXTINF:-1, group-title="SPORT", Canal+ Sport
+http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3316
+
+
 #EXTINF:-1, group-title="SPORT", RUSH 1
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80799
 #EXTINF:-1, group-title="SPORT", Rush 2
