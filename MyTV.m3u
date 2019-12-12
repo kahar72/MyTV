@@ -21,7 +21,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.
 #EXTINF:-1, group-title="MALAYSIA", TV2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 #EXTINF:-1, group-title="MALAYSIA", TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHey64Ce22ccILLxToqmcUFE)/dm/3/x6qp375/d/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWI958Ibcsno8D377vzadaY)/dm/3/x6qp375/d/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA", TV9
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeEH7E8jy-mCeHIa48AKFaY)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1, group-title="MALAYSIA", OKEY 
@@ -33,7 +33,7 @@ http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_
 
 
 
-
+Indonesia
 #EXTINF:-1, group-title="Indonesia", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", Trans 7
@@ -44,7 +44,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 
 
 
-
+News
 #EXTINF:-1, group-title="NEWS", Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, group-title="NEWS", Channel NewsAsia
@@ -58,7 +58,7 @@ https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1180.
 
 
 
-
+Documentary
 #EXTINF:-1, group-title="Documentary", Animal Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
 #EXTINF:-1, group-title="Documentary", Discovery Showcase
@@ -74,7 +74,7 @@ http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
 
 
-
+France
 #EXTINF:-1, group-title="France", RMC SPORT 1
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3309
 #EXTINF:-1, group-title="France", RMC SPORT 2
@@ -88,7 +88,7 @@ http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3316
 
 
 
-
+UK & USA
 #EXTINF:-1, group-title="UK & USA", Sky Sports Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1, group-title="UK & USA", Sky Sports Main Event
@@ -100,7 +100,7 @@ http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires
 
 
 
-
+Thailand
 #EXTINF:-1, group-title="Thailand", True Premier 1
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Thailand", True Premier 2
@@ -128,7 +128,7 @@ https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
 
 
-
+Ireland
 #EXTINF:-1, group-title="Ireland", Setanta Sport 1 IRE
 http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="Ireland", Setanta Sport 2 IRE
@@ -137,6 +137,7 @@ http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
 
 
 
+Germany
 #EXTINF:-1, group-title="Germany", Sky Sport 1 DE
 http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2772.ts
 #EXTINF:-1, group-title="Germany", Sky Sport 2 DE
@@ -149,6 +150,7 @@ http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2675
 
 
 
+China
 #EXTINF:-1, group-title="China", NewTV Super Sports
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1, group-title="China", CCTV 5
@@ -161,6 +163,7 @@ http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 
 
 
+Netherlands
 #EXTINF:-1, group-title="Netherlands", Ziggo Select NL
 http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
 #EXTINF:-1, group-title="Netherlands", Ziggo Voetbal NL
@@ -177,6 +180,7 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.ts
 
 
 
+Portugal
 #EXTINF:-1, group-title="Portugal", Eleven Sport 1
 http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.ts
 #EXTINF:-1, group-title="Portugal", Eleven Sport 2
@@ -195,6 +199,7 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
 
 
 
+Italy
 #EXTINF:-1, group-title="Italy", Sport Italia
 http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/24
 #EXTINF:-1, group-title="Italy", Sky Sport 24
@@ -223,6 +228,7 @@ http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/154
 
 
 
+Caribbean
 #EXTINF:-1, group-title="Caribbean", Rush 1
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80799
 #EXTINF:-1, group-title="Caribbean", Rush 2
@@ -237,6 +243,7 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80795
 
 
 
+Arab
 #EXTINF:-1, group-title="Arab", Bein 1
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/12.ts
 #EXTINF:-1, group-title="Arab", Bein 2
