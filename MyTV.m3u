@@ -85,7 +85,7 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
 #EXTINF:-1, group-title="Sport 1", Sky Sports Premier League UK
 http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
-#EXTINF:-1, group-title="Sport 1", NBCSN USA
+#EXTINF:-1, group-title="Sport 1", NBCSN US
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
 
 
@@ -117,9 +117,9 @@ https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 
 
 Ireland
-#EXTINF:-1, group-title="Sport 1", Setanta Sport 1 IRE
+#EXTINF:-1, group-title="Sport 1", Setanta Sport 1 IE
 http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Setanta Sport 2 IRE
+#EXTINF:-1, group-title="Sport 1", Setanta Sport 2 IE
 http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
 
 
