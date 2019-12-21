@@ -67,26 +67,9 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/str
 http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 
 
-France
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 1 FR
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3309
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 2 FR
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3310
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 3 FR
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3311
-#EXTINF:-1, group-title="Sport 1", RMC SPORT 4 FR
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3312
-#EXTINF:-1, group-title="Sport 1", Canal+ Sport FR
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3316
-
-
 UK & USA
 #EXTINF:-1, group-title="Sport 1", Sky Sports Football UK
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1, group-title="Sport 1", Sky Sports Main Event UK
-http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1, group-title="Sport 1", Sky Sports Premier League UK
-http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
 #EXTINF:-1, group-title="Sport 1", NBCSN US
 http://198.255.82.82:4444/US_NBC_SN_HD/mpegts?md5=mRW-EBRj-LQtnf1EzIF36A&expires=1573793417&dd=5154730&ip=202.166.34.224&devicetype=android&u=5154730&p=983618
 
@@ -123,17 +106,6 @@ Ireland
 http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="Sport 1", Setanta Sport 2 IE
 http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
-
-
-Germany
-#EXTINF:-1, group-title="Sport 2", Sky Sport 1 DE
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2772.ts
-#EXTINF:-1, group-title="Sport 2", Sky Sport 2 DE
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2773.ts
-#EXTINF:-1, group-title="Sport 1", DAZN 1 DE
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2674
-#EXTINF:-1, group-title="Sport 1", DAZN 2 DE
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2675
 
 
 China
@@ -179,43 +151,16 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4645
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
 
 
-Italy
-#EXTINF:-1, group-title="Sport 2", Sport Italia IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/24
-#EXTINF:-1, group-title="Sport 2", Sky Sport 24 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/62
-#EXTINF:-1, group-title="Sport 2", Sky Sport Uno IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/37
-#EXTINF:-1, group-title="Sport 2", Sky Sport Football IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/52
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 1 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/210
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 2 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/207
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 3 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/204
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 4 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/201
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 5 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/198
-#EXTINF:-1, group-title="Sport 2", Sky Calcio 6 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/196
-#EXTINF:-1, group-title="Sport 1", Sky DAZN Bar 1 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/152
-#EXTINF:-1, group-title="Sport 1", Sky DAZN Bar 2 IT
-http://live.safetv.pro:23000/Aleopc21/1RAgfleNEv/154
-
-
 Caribbean
-#EXTINF:-1, group-title="Sport 2", Rush 1 CAR
+#EXTINF:-1, group-title="Sport 1", Rush 1 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80799
-#EXTINF:-1, group-title="Sport 2", Rush 2 CAR
+#EXTINF:-1, group-title="Sport 1", Rush 2 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80798
-#EXTINF:-1, group-title="Sport 2", Rush 3 CAR
+#EXTINF:-1, group-title="Sport 1", Rush 3 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80797
-#EXTINF:-1, group-title="Sport 2", Rush 4 CAR
+#EXTINF:-1, group-title="Sport 1", Rush 4 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80796
-#EXTINF:-1, group-title="Sport 2", Rush 5 CAR
+#EXTINF:-1, group-title="Sport 1", Rush 5 CAR
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80795
 
 
