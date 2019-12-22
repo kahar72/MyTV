@@ -176,6 +176,15 @@ http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80796
 http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/80795
 
 
+Russia
+#EXTINF:-1, group-title="Sport 2", Match Football 1 RU
+http://188.35.9.9:2010
+#EXTINF:-1, group-title="Sport 2", Match Football 2 RU
+http://188.35.9.9:2011
+#EXTINF:-1, group-title="Sport 2", Match Football 3 RU
+http://188.35.9.9:2012
+
+
 Arab
 #EXTINF:-1, group-title="Sport 2", Bein 1 AR
 http://tv.aloussports.com:8080/live/AlousSports/3355007722/12.ts
