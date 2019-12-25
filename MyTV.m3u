@@ -221,3 +221,15 @@ http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1457
 http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1460
 
 
+France
+#EXTINF:-1, group-title="Sport 2", RMC SPORT 1 FR
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527095.m3u8
+#EXTINF:-1, group-title="Sport 2", RMC SPORT 2 FR
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527094.m3u8
+#EXTINF:-1, group-title="Sport 2", RMC SPORT 3 FR
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527097.m3u8
+#EXTINF:-1, group-title="Sport 2", RMC SPORT 4 FR http://tv.sigma-iptv.com:7000/live/45905/13543107/575536188.m3u8
+#EXTINF:-1, group-title="Sport 2", CANAL+ SPORT FR
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527104.m3u8
+
+
