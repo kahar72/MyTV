@@ -233,3 +233,12 @@ http://tv.sigma-iptv.com:7000/live/45905/13543107/575527097.m3u8
 http://tv.sigma-iptv.com:7000/live/45905/13543107/575527104.m3u8
 
 
+Romania
+#EXTINF:-1, group-title="Sport 2", DIGI Sport 2 RO
+http://5.255.90.252:5004/play/a066
+#EXTINF:-1, group-title="Sport 2", DIGI Sport 3 RO
+http://5.255.90.252:5004/play/a06v
+#EXTINF:-1, group-title="Sport 2", DIGI Sport 4 RO
+http://5.255.90.252:5004/play/a065
+
+
