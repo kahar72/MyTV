@@ -185,31 +185,6 @@ http://188.35.9.9:2011
 http://188.35.9.9:2012
 
 
-Arab
-#EXTINF:-1, group-title="Sport 2", Bein 1 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/12.ts
-#EXTINF:-1, group-title="Sport 2", Bein 2 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/13.ts
-#EXTINF:-1, group-title="Sport 2", Bein 3 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/14.ts
-#EXTINF:-1, group-title="Sport 2", Bein 4 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/15.ts
-#EXTINF:-1, group-title="Sport 2", Bein 5 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/16.ts
-#EXTINF:-1, group-title="Sport 2", Bein 6 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/17.ts
-#EXTINF:-1, group-title="Sport 2", Bein 7 AR
-http://tv.aloussports.com:8080/live/AlousSports/3355007722/18.ts
-#EXTINF:-1, group-title="Sport 2", Bein 11 AR
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/74480
-#EXTINF:-1, group-title="Sport 2", Bein 12 AR
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5242
-#EXTINF:-1, group-title="Sport 2", Bein 13 AR
-http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5243
-#EXTINF:-1, group-title="Sport 2", QazSport AR
-http://109.248.236.41:4433/udp/238.1.1.116:1234
-
-
 Turkey
 #EXTINF:-1, group-title="Sport 1", Bein 1 TR
 http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1459
