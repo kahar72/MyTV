@@ -165,16 +165,17 @@ Portugal
 http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.ts
 #EXTINF:-1, group-title="Sport 1", Eleven Sport 2 PT
 http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/226.ts
-#EXTINF:-1, group-title="Sport 2", SportTV 1 PT
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4643
-#EXTINF:-1, group-title="Sport 2", SportTV 2 PT
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4647
-#EXTINF:-1, group-title="Sport 2", SportTV 3 PT
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4646
-#EXTINF:-1, group-title="Sport 2", SportTV 4 PT
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4645
-#EXTINF:-1, group-title="Sport 2", SportTV 5 PT
-http://ok2.se:8000/qB6C3mrfx9/5IZ4tsDhTb/4644
+#EXTINF:-1, group-title="Sport 2", SPORT TV 1 PT
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:-1, group-title="Sport 2", SPORT TV 2 PT
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:-1, group-title="Sport 2", SPORT TV 3 PT
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:-1, group-title="Sport 2", SPORT TV 4 PT
+rtmp://89.163.224.168:80/live/sporttv4
+#EXTINF:-1, group-title="Sport 2", SPORT TV 5 PT
+rtmp://89.163.224.168:80/live/sporttv5
+
 
 
 Caribbean
