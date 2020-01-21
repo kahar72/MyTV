@@ -18,6 +18,12 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", MNC TV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", Global TV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 
 News
@@ -121,13 +127,6 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 
-Ireland
-#EXTINF:-1, group-title="Sport 1", Setanta Sport 1 IE
-http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Setanta Sport 2 IE
-http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
-
-
 China
 #EXTINF:-1, group-title="Sport 1", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
@@ -155,5 +154,17 @@ http://188.35.9.9:2011
 http://188.35.9.9:2012
 #EXTINF:-1, group-title="Sport 1", Match Premier RU
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1, group-title="Sport 1", Setanta Sport RU
+http://188.35.9.10:2028
 
+
+India
+#EXTINF:-1, group-title="Sport 1", Sony Six IN
+http://216.144.250.174/Sony_SiX_HD/index.m3u8
+#EXTINF:-1, group-title="Sport 1", Ten 1 IN
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1, group-title="Sport 1", Ten 2 IN
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+#EXTINF:-1, group-title="Sport 1", Ten 3 IN
+https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 
