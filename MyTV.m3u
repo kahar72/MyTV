@@ -181,4 +181,15 @@ Albania
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
 
+Bein Sports
+#EXTINF:-1, group-title="Sport 1", Bein Sports 2
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/26.ts
+#EXTINF:-1, group-title="Sport 1", Bein Sports 3
+http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/5.ts
+#EXTINF:-1, group-title="Sport 1", Bein Sports 4
+http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ^8J2qfvuy/28.ts
+#EXTINF:-1, group-title="Sport 1", Bein Sports 11
+http://iptv2.premium-stv.com:8888/live/beIN11spo/6hGJ%5E8J2qfvuyY/22.ts
+
+
 
