@@ -87,6 +87,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1, group-title="Movies", Fox Movies
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Movies", HBO Hits
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
 
 UK & USA
