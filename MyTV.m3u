@@ -123,14 +123,6 @@ https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", True Premier 5 TH
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Sport 1 TH
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Sport 2 TH
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Sport 3 TH
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Sport 4 TH
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", BT Sport 1 TH
 https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", BT Sport 2 TH
@@ -139,12 +131,6 @@ https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
 #EXTINF:-1, group-title="Sport 1", Thairath TV TH
 http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
-#EXTINF:-1, group-title="Sport 1", Fox Sports 1 TH
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", Fox Sports 2 TH
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", Fox Sports 3 TH
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", Bein 1 TH
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", Bein 2 TH
@@ -180,22 +166,6 @@ http://188.35.9.9:2012
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 #EXTINF:-1, group-title="Sport 1", Setanta Sport RU
 http://188.35.9.10:2028
-
-
-India
-#EXTINF:-1, group-title="Sport 1", Sony Six IN
-http://216.144.250.174/Sony_SiX_HD/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Ten 1 IN
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Ten 2 IN
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Ten 3 IN
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-
-
-Albania
-#EXTINF:-1, group-title="Sport 1", RTSH Sport AL
-http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
 
 Bein Sports
