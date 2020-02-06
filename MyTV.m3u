@@ -69,7 +69,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.
 #EXTINF:-1, group-title="Malaysia", TV3
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF:-1, group-title="Malaysia", TV9
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08k5qIHPqmB0Q4p-iXIELX6k)/dm/3/x7a7rf7/s/live-4.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1, group-title="Malaysia", OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8 
 #EXTINF:-1, group-title="Malaysia", AWANI
