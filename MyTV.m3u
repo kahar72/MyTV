@@ -67,7 +67,7 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", TV2
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU7eVr-p_HUZN9qgtqDk6AY)/dm/3/x6qp375/d/live-3.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF:-1, group-title="Malaysia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1, group-title="Malaysia", OKEY
@@ -204,3 +204,4 @@ http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
 https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 
 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/streamPlaylist.m3u8
