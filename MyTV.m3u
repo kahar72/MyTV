@@ -63,7 +63,7 @@ http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
 Malaysia
 #EXTINF:-1, group-title="Malaysia", TV1
-https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", TV2
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", TV3
