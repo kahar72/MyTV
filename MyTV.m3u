@@ -26,7 +26,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1, group-title="Indonesia", Global TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1, group-title="Indonesia", TVRI
-http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 
 News
@@ -184,6 +184,8 @@ http://iptv2.premium-stv.com:8888/live/beIN11spo/6hGJ%5E8J2qfvuyY/22.ts
 Sports 2
 #EXTINF:-1, group-title="SPORT 2", Bein Sports 1 TR
 https://cstream9.com/hls/beinsports1_tr_fhd.m3u8
+#EXTINF:-1, group-title="SPORT 2", Bein Sports 2
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
 #EXTINF:-1, group-title="SPORT 2", BT Sports 1 UK
 https://cstream9.com/hls/btsport1.m3u8
 #EXTINF:-1, group-title="SPORT 2", BT Sports 2 UK
@@ -204,5 +206,8 @@ http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
 https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1, group-title="SPORT 2", Canal+ Sport
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+#EXTINF:-1, group-title="SPORT 2", RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
+
 
 
