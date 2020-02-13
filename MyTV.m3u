@@ -208,6 +208,16 @@ https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, group-title="SPORT 2", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:-1, group-title="SPORT 2", Voo Sports 1 BE
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1896
+#EXTINF:-1, group-title="SPORT 2", Voo Sports 2 BE
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1897
+#EXTINF:-1, group-title="SPORT 2", Voo Sports World BE
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
+
+
+
+
 
 
 
