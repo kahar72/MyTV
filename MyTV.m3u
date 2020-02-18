@@ -65,9 +65,7 @@ Malaysia
 #EXTINF:-1, group-title="Malaysia", TV1
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", TV2
-https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", TV3
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1, group-title="Malaysia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1, group-title="Malaysia", OKEY
@@ -108,8 +106,6 @@ http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1, group-title="Sport 1", EUROSPORT 2 UK
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:-1, group-title="Sport 1", NBCSN US
-http://live.fadev.club/live/NBCSN/playlist.m3u8
 
 
 Thailand
@@ -181,12 +177,8 @@ http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
 http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
 #EXTINF:-1, group-title="SPORT 2", Sport Klub 4
 http://185.180.12.34:8080/SK4/video.m3u8?token=test
-#EXTINF:-1, group-title="SPORT 2", Setanta Sport 1
-http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
-#EXTINF:-1, group-title="SPORT 2", Setanta Sport 2
-http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
 #EXTINF:-1, group-title="SPORT 2", RTM Sports
-https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
+https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1, group-title="SPORT 2", Canal+ Sport
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, group-title="SPORT 2", RTSH Sport
