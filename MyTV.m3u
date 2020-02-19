@@ -45,10 +45,6 @@ http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 
 
 Documentary
-#EXTINF:-1, group-title="Documentary", Animal Planet
-
-#EXTINF:-1, group-title="Documentary", Discovery Showcase
-
 #EXTINF:-1, group-title="Documentary", National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1, group-title="Documentary", National Geographic Wild
