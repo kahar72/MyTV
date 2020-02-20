@@ -159,11 +159,11 @@ http://188.191.36.106:8080/hls/nashfutbol.m3u8
 #EXTINF:-1, group-title="Sport 1", Setanta Sport RU
 http://188.35.9.10:2028
 
-#EXTINF:-1, group-title="SPORT 1", RTM Sports
+#EXTINF:-1, group-title="Sport 1", RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
-#EXTINF:-1, group-title="SPORT 1", Canal+ Sport
+#EXTINF:-1, group-title="Sport 1", Canal+ Sport
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
-#EXTINF:-1, group-title="SPORT 1", RTSH Sport
+#EXTINF:-1, group-title="Sport 1", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
 
