@@ -90,115 +90,108 @@ https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
 
-UK & USA
-#EXTINF:-1, group-title="Sport 1", Sky Sports Football UK
+Sports
+#EXTINF:-1, group-title="Sport", Sky Sports Football UK
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Sky Sports Premier League UK
+#EXTINF:-1, group-title="Sport", Sky Sports Premier League UK
 https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", Sky Sports Main Event UK
+#EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
 https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", BT Sport 1 UK
+#EXTINF:-1, group-title="Sport", BT Sport 1 UK
 https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", BT Sport 2 UK
+#EXTINF:-1, group-title="Sport", BT Sport 2 UK
 https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport 1", EUROSPORT 1 UK
+#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Sport 1", EUROSPORT 2 UK
+#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
 http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
 
 
-Thailand
-#EXTINF:-1, group-title="Sport 1", True Premier 1 TH
+#EXTINF:-1, group-title="Sport", True Premier 1 TH
 https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 2 TH
+#EXTINF:-1, group-title="Sport", True Premier 2 TH
 https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 3 TH
+#EXTINF:-1, group-title="Sport", True Premier 3 TH
 https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 4 TH
+#EXTINF:-1, group-title="Sport", True Premier 4 TH
 https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", True Premier 5 TH
+#EXTINF:-1, group-title="Sport", True Premier 5 TH
 https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", BT Sport 1 TH
-https://live.mawintv2.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", BT Sport 2 TH
-https://live.mawintv2.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", PPTV TH
+#EXTINF:-1, group-title="Sport", BT Sport 1 TH
+https://www.doofree88.com/streaming/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport", BT Sport 2 TH
+https://www.doofree88.com/streaming/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport", PPTV TH
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
-#EXTINF:-1, group-title="Sport 1", Thairath TV TH
+#EXTINF:-1, group-title="Sport", Thairath TV TH
 http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
-#EXTINF:-1, group-title="Sport 1", Bein 1 TH
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1, group-title="Sport 1", Bein 2 TH
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport", Bein 1 TH
+https://www.doofree88.com/streaming/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Sport", Bein 2 TH
+https://www.doofree88.com/streaming/02_epl2_720p/chunklist.m3u8
 
 
-China
-#EXTINF:-1, group-title="Sport 1", NewTV Super Sports CN
+#EXTINF:-1, group-title="Sport", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1, group-title="Sport 1", CCTV 5 CN
+#EXTINF:-1, group-title="Sport", CCTV 5 CN
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1, group-title="Sport 1", CCTV 5+ CN
+#EXTINF:-1, group-title="Sport", CCTV 5+ CN
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1, group-title="Sport 1", BES TV CN
+#EXTINF:-1, group-title="Sport", BES TV CN
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 
 
-Netherlands
-#EXTINF:-1, group-title="Sport 1", Ziggo Select NL
-http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
-#EXTINF:-1, group-title="Sport 1", Ziggo Voetbal NL
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
-
-
-Russia
-#EXTINF:-1, group-title="Sport 1", Match Football 1 RU
-http://188.35.9.9:2010
-#EXTINF:-1, group-title="Sport 1", Match Football 2 RU
-http://188.35.9.9:2011
-#EXTINF:-1, group-title="Sport 1", Match Football 3 RU
-http://188.35.9.9:2012
-#EXTINF:-1, group-title="Sport 1", Match Premier RU
-http://188.191.36.106:8080/hls/nashfutbol.m3u8
-#EXTINF:-1, group-title="Sport 1", Setanta Sport RU
-http://188.35.9.10:2028
-
-#EXTINF:-1, group-title="Sport 1", RTM Sports
+#EXTINF:-1, group-title="Sport", RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
-#EXTINF:-1, group-title="Sport 1", Canal+ Sport
+#EXTINF:-1, group-title="Sport", Canal+ Sport
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
-#EXTINF:-1, group-title="Sport 1", RTSH Sport
+#EXTINF:-1, group-title="Sport", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
 
-Sports 2
-#EXTINF:-1, group-title="SPORT 2", Sport Klub 1
+#EXTINF:-1, group-title="Sport", Bein Sport 1 Asia
+http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+#EXTINF:-1, group-title="Sport", Bein Sport 2 Asia
+http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+
+
+#EXTINF:-1, group-title="Sport", Match Football 1 RU
+http://188.35.9.9:2010
+#EXTINF:-1, group-title="Sport", Match Football 2 RU
+http://188.35.9.9:2011
+#EXTINF:-1, group-title="Sport", Match Football 3 RU
+http://188.35.9.9:2012
+#EXTINF:-1, group-title="Sport", Match Premier RU
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sport RU
+http://188.35.9.10:2028
+
+
+#EXTINF:-1, group-title="Sport", Sport Klub 1
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-#EXTINF:-1, group-title="SPORT 2", Sport Klub 2
+#EXTINF:-1, group-title="Sport", Sport Klub 2
 http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-#EXTINF:-1, group-title="SPORT 2", Sport Klub 3
+#EXTINF:-1, group-title="Sport", Sport Klub 3
 http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-#EXTINF:-1, group-title="SPORT 2", Sport Klub 4
+#EXTINF:-1, group-title="Sport", Sport Klub 4
 http://185.180.12.34:8080/SK4/video.m3u8?token=test
-#EXTINF:-1, group-title="SPORT 2", Voo Sports 1 BE
+
+
+#EXTINF:-1, group-title="Sport", Ziggo Select NL
+http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
+#EXTINF:-1, group-title="Sport", Ziggo Voetbal NL
+http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
+
+
+#EXTINF:-1, group-title="Sport", Voo Sports 1 BE
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1896
-#EXTINF:-1, group-title="SPORT 2", Voo Sports 2 BE
+#EXTINF:-1, group-title="Sport", Voo Sports 2 BE
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1897
-#EXTINF:-1, group-title="SPORT 2", Voo Sports World BE
+#EXTINF:-1, group-title="Sport", Voo Sports World BE
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
 
-#EXTINF:-1, group-title="SPORT 2", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
- #EXTINF:-1, group-title="SPORT 2", Sony Ten1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1, group-title="SPORT 2", Sony Ten2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1, group-title="SPORT 2", Sony Ten3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
-#EXTINF:-1, group-title="SPORT 2", Bein Sport 1 Asia
-http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
-#EXTINF:-1, group-title="SPORT 2", Bein Sport 2 Asia
-http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+
 
 
 
