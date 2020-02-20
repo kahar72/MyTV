@@ -155,6 +155,14 @@ http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4
 http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
 
 
+#EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
+http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+#EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
+http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+#EXTINF:-1, group-title="Sport", Fox Sports 3 Asia
+http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
+
+
 #EXTINF:-1, group-title="Sport", Match Football 1 RU
 http://188.35.9.9:2010
 #EXTINF:-1, group-title="Sport", Match Football 2 RU
@@ -187,14 +195,6 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Arena Sports 5
 http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
-
-
-#EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
-http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-#EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
-http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-#EXTINF:-1, group-title="Sport", Fox Sports 3 Asia
-http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 
 
 #EXTINF:-1, group-title="Sport", Ziggo Select NL
