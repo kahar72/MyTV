@@ -106,19 +106,19 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
 Thailand
 #EXTINF:-1, group-title="Sport 1", True Premier 1 TH
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", True Premier 2 TH
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", True Premier 3 TH
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", True Premier 4 TH
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", True Premier 5 TH
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", BT Sport 1 TH
-https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://live.mawintv2.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", BT Sport 2 TH
-https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://live.mawintv2.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Sport 1", PPTV TH
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
 #EXTINF:-1, group-title="Sport 1", Thairath TV TH
