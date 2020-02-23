@@ -202,6 +202,16 @@ http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
 #EXTINF:-1, group-title="Sport", Setanta Sports 2
 http://ott-cdn.ucom.am/s82/04.m3u8?fluxustv.m3u8
 
+#EXTINF:-1, group-title="Sport", SporTV 1
+http://servelive.net:80/solides/solides123/13409
+#EXTINF:-1, group-title="Sport", SporTV 2
+http://servelive.net:80/solides/solides123/13411
+#EXTINF:-1, group-title="Sport", SporTV 3
+http://servelive.net:80/solides/solides123/13410
+
+
+
+
 
 
 
