@@ -197,5 +197,13 @@ http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", EPT Sports
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 
+#EXTINF:-1, group-title="Sport", Setanta Sports 1
+http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sports 2
+http://ott-cdn.ucom.am/s82/04.m3u8?fluxustv.m3u8
+
+
+
+
 
 
