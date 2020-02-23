@@ -57,6 +57,8 @@ http://95.170.215.118/hls/m3u8/History.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1, group-title="Documentary", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+#EXTINF:-1, group-title="Documentary", Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
 
 Malaysia
