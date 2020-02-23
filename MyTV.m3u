@@ -59,7 +59,6 @@ http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 
 
-
 Malaysia
 #EXTINF:-1, group-title="Malaysia", TV1
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
@@ -71,8 +70,10 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 #EXTINF:-1, group-title="Malaysia", AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1, group-title="Malaysia", Drama Sangat
+#EXTINF:-1, group-title="Malaysia", DRAMA SANGAT
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1, group-title="Malaysia", NAURA
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
 
 Movies
@@ -106,7 +107,6 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
 http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1, group-title="Sport", True Premier 1 TH
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1, group-title="Sport", True Premier 2 TH
@@ -130,7 +130,6 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Bein 2 TH
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
-
 #EXTINF:-1, group-title="Sport", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1, group-title="Sport", CCTV 5 CN
@@ -140,7 +139,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1, group-title="Sport", BES TV CN
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 
-
 #EXTINF:-1, group-title="Sport", RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1, group-title="Sport", Canal+ Sport
@@ -148,12 +146,10 @@ http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, group-title="Sport", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
-
 #EXTINF:-1, group-title="Sport", Bein Sport 1 Asia
 http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 #EXTINF:-1, group-title="Sport", Bein Sport 2 Asia
 http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
-
 
 #EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
 http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
@@ -161,7 +157,6 @@ http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-F
 http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 #EXTINF:-1, group-title="Sport", Fox Sports 3 Asia
 http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
-
 
 #EXTINF:-1, group-title="Sport", Match Football 1 RU
 http://188.35.9.9:2010
@@ -174,12 +169,10 @@ http://188.191.36.106:8080/hls/nashfutbol.m3u8
 #EXTINF:-1, group-title="Sport", Setanta Sport RU
 http://188.35.9.10:2028
 
-
 #EXTINF:-1, group-title="Sport", SBS Sports KR
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 #EXTINF:-1, group-title="Sport", MBC Sports KR
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
-
 
 #EXTINF:-1, group-title="Sport", Sport Klub 1
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
@@ -189,7 +182,6 @@ http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
 http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Sport Klub 4
 http://185.180.12.34:8080/SK4/video.m3u8?token=test
-
 
 #EXTINF:-1, group-title="Sport", Arena Sports 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
@@ -202,21 +194,8 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Arena Sports 5
 http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
 
-#EXTINF:-1, group-title="Sport", ERT Sports
+#EXTINF:-1, group-title="Sport", EPT Sports
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1, group-title="Sport", DAZN BR
-http://list.deeplist.nl/live/diogosantus/diogo0211/56437.m3u8
-#EXTINF:-1, group-title="Sport", ESPN Brasil
-http://list.deeplist.nl/live/diogosantus/diogo0211/58692.m3u8
-#EXTINF:-1, group-title="Sport", SporTV 1 BR
-http://list.deeplist.nl/live/diogosantus/diogo0211/58708.m3u8
-#EXTINF:-1, group-title="Sport", SporTV 2 BR
-http://list.deeplist.nl/live/diogosantus/diogo0211/58709.m3u8
-
-
-
-
-
 
 
 
