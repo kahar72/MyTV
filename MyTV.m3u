@@ -209,8 +209,8 @@ http://servelive.net:80/solides/solides123/13411
 #EXTINF:-1, group-title="Sport", SporTV 3
 http://servelive.net:80/solides/solides123/13410
 
-
-
+#EXTINF:-1, group-title="Sport", Sport Digital
+http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
 
 
