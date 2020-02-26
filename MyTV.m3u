@@ -42,6 +42,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1, group-title="News", RT UK
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
+#EXTINF:-1, group-title="News", Berita RTM
+https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
 
 Documentary
@@ -94,21 +96,6 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
 
 Sports
-#EXTINF:-1, group-title="Sport", Sky Sports Football UK
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1, group-title="Sport", Sky Sports Premier League UK
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1, group-title="Sport", BT Sport 1 UK
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport", BT Sport 2 UK
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
-http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="Sport", True Premier 1 TH
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1, group-title="Sport", True Premier 2 TH
@@ -132,6 +119,21 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Bein 2 TH
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
+#EXTINF:-1, group-title="Sport", Sky Sports Football UK
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1, group-title="Sport", Sky Sports Premier League UK
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1, group-title="Sport", BT Sport 1 UK
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1, group-title="Sport", BT Sport 2 UK
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
+http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="Sport", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1, group-title="Sport", CCTV 5 CN
@@ -147,18 +149,6 @@ https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, group-title="Sport", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
-
-#EXTINF:-1, group-title="Sport", Bein Sport 1 Asia
-http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
-#EXTINF:-1, group-title="Sport", Bein Sport 2 Asia
-http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
-http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-#EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
-http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-#EXTINF:-1, group-title="Sport", Fox Sports 3 Asia
-http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1, group-title="Sport", Match Football 1 RU
 http://188.35.9.9:2010
@@ -215,6 +205,18 @@ http://servelive.net:80/solides/solides123/13410
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
 
+
+Backup
+#EXTINF:-1, group-title="Backup", Premier Football 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
 
 
 
