@@ -119,6 +119,11 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Bein 2 TH
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
+#EXTINF:-1, group-title="Sport", Sky Sport 1 DE
+http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
+#EXTINF:-1, group-title="Sport", Sky Sport 2 DE
+http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
+
 #EXTINF:-1, group-title="Sport", Sky Sports Football UK
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Sky Sports Premier League UK
