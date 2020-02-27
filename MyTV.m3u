@@ -148,6 +148,17 @@ http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1, group-title="Sport", BES TV CN
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 
+#EXTINF:-1, group-title="Sport", CCTV Sports CN
+rtmp://59.124.75.156/sat/cn041
+#EXTINF:-1, group-title="Sport", GDTY CN
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
+#EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
+rtmp://59.124.75.156/sat/tv731
+#EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
+rtmp://59.124.75.156/sat/tv741
+#EXTINF:-1, group-title="Sport", Bein Sports 2 HK
+rtmp://59.124.75.156/sat/hk011
+
 #EXTINF:-1, group-title="Sport", RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1, group-title="Sport", Canal+ Sport
@@ -168,7 +179,7 @@ http://188.35.9.10:2028
 
 #EXTINF:-1, group-title="Sport", SBS Sports KR
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
-#EXTINF:-1, group-title="Sport", MBC Sports KR
+#EXTINF:-1, group-title="Sport", MBC Sports Plus KR
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 
 #EXTINF:-1, group-title="Sport", Sport Klub 1
