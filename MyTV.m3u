@@ -61,6 +61,8 @@ http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 #EXTINF:-1, group-title="Documentary", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Documentary", Animal Planet
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58726
 
 
 Malaysia
