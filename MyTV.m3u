@@ -130,10 +130,7 @@ https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
 https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1, group-title="Sport", BT Sport 1 UK
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport", BT Sport 2 UK
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+
 #EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
@@ -207,10 +204,10 @@ http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", EPT Sports
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 
-#EXTINF:-1, group-title="Sport", Setanta Sports 1
-http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
-#EXTINF:-1, group-title="Sport", Setanta Sports 2
-http://ott-cdn.ucom.am/s82/04.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sports
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sports +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
 #EXTINF:-1, group-title="Sport", SporTV 1
 http://servelive.net:80/solides/solides123/13409
