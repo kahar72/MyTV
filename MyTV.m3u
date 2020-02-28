@@ -187,26 +187,6 @@ http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 #EXTINF:-1, group-title="Sport", MBC Sports Plus KR
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 
-#EXTINF:-1, group-title="Sport", Sport Klub 1
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Sport Klub 2
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Sport Klub 3
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Sport Klub 4
-http://185.180.12.34:8080/SK4/video.m3u8?token=test
-
-#EXTINF:-1, group-title="Sport", Arena Sports 1
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 5
-http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
-
 #EXTINF:-1, group-title="Sport", EPT Sports
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 
@@ -214,13 +194,6 @@ https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1, group-title="Sport", Setanta Sports +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-
-#EXTINF:-1, group-title="Sport", SporTV 1
-http://servelive.net:80/solides/solides123/13409
-#EXTINF:-1, group-title="Sport", SporTV 2
-http://servelive.net:80/solides/solides123/13411
-#EXTINF:-1, group-title="Sport", SporTV 3
-http://servelive.net:80/solides/solides123/13410
 
 #EXTINF:-1, group-title="Sport", Sport Digital
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
