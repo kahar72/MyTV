@@ -156,6 +156,8 @@ https://116.77.72.195/streams/d/gdty/playlist.m3u8
 rtmp://59.124.75.156/sat/tv731
 #EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
 rtmp://59.124.75.156/sat/tv741
+#EXTINF:-1, group-title="Sport", Fox Sports 506 AU
+http://45.58.62.92:8081
 #EXTINF:-1, group-title="Sport", Bein Sports 2 HK
 rtmp://59.124.75.156/sat/hk011
 
