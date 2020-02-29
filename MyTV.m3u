@@ -127,6 +127,11 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Bein 2 TH
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
+#EXTINF:-1, group-title="Sport", Setanta Sports
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sports +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
 #EXTINF:-1, group-title="Sport", Sky Sport 1 DE
 http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Sky Sport 2 DE
@@ -138,11 +143,6 @@ https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
 https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-
-#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
-http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, group-title="Sport", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
@@ -192,13 +192,14 @@ http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1, group-title="Sport", EPT Sports
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 
-#EXTINF:-1, group-title="Sport", Setanta Sports
-http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1, group-title="Sport", Setanta Sports +
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-
 #EXTINF:-1, group-title="Sport", Sport Digital
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
+
+#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
+http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
+
 
 
 
