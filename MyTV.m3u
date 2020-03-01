@@ -137,13 +137,6 @@ http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Sky Sport 2 DE
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
 
-#EXTINF:-1, group-title="Sport", Sky Sports Football UK
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1, group-title="Sport", Sky Sports Premier League UK
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-
 #EXTINF:-1, group-title="Sport", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1, group-title="Sport", CCTV 5 CN
@@ -189,18 +182,6 @@ http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 #EXTINF:-1, group-title="Sport", MBC Sports Plus KR
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 
-#EXTINF:-1, group-title="Sport", EPT Sports
-https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-
-#EXTINF:-1, group-title="Sport", Sport Digital
-http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
-
-#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
-http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
-
-
 
 
 Backup
@@ -215,6 +196,13 @@ https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
 #EXTINF:-1, group-title="Backup", Premier Football 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
 
-
+#EXTINF:-1, group-title="Backup", Bein Sports 1 AR
+http://67.205.132.0:25461/tvioo-VVNvIk59VIZHLQNvykx2/ZHLQNvykx2VVNvIk59VI-tvioo/161?token=TREOBEtbEA9GUgNbVQJQVwdWAw0EUVsFBVxVV1gIDABTVgMHXlIAAwIVGhpDQ0ZTVVluUFcSAlUEVRwWFEtdR2laAkcCEQMHUw4OCRIbFkJdWVQbCQENXAFUBwJQCwsZFEMPARoJEAFXBQQaHBVRTkBRQ1dSXGcAVxJZVwQaAltDXwpJGlxcagBSW1leUxYMFgQTFRFZSxQQXl5BDVQUF1RaEhdZR1cXXhUECgkEFhoWV15MXURKHRBeEmcmGhQXU0sSAFZAW1oKFQwaREQWGhZdQmZBVUsQQAFRWQRKGg8UAkRJGl5TTTtUWVZeUldCXVtfShEKGlUCVAAWTRpVWlhaEgpKbEJcABUMGgEBDAYWSQ==
+#EXTINF:-1, group-title="Backup", Bein Sports 2 AR
+http://67.205.132.0:25461/tvioo-VVNvIk59VIZHLQNvykx2/ZHLQNvykx2VVNvIk59VI-tvioo/162?token=TREOBEtbEA9GUg5ZAwRVVAJQV18DAg4HUQAFDVcLDwFTUQJWWVYCBVMVGhpDQ0ZTVVluUFcSAlUEVhwWFEtdR2laAkcCEQMHUw4OCRIbFkJdWVQbCQENXAFUBwFZAQ4ZFEMPARoJEAFWAAAaHBVRTkBRQ1dSXGcAVxJZVwQaAltDXwpJGlxcagBSW1leUxYMFgQTFRFZSxQQXl5BDVQUF1RaEhdZR1cXXhUHDQQGFhoWV15MXURKHRBeEmcmGhQXU0sSAFZAW1oKFQwaREQWGhZdQmZBVUsQQAFRWQRKGg8UAkRJGl5TTTtUWVZeUldCXVtfShEKGlUCVAAWTRpVWlhaEgpKbEJcABUMGgEABAIWSQ==
+#EXTINF:-1, group-title="Backup", Bein Sports 11 EN
+http://104.248.123.71:25461/tvioo-VVNvIk59VIZHLQNvykx2/ZHLQNvykx2VVNvIk59VI-tvioo/47?token=TREOBEtbEA9GUwEKAwNSVVINAFsGCQFXClIBAlMBXA1XVl4BDQcCUFIVGhpDQ0ZTVVluUFcSAlAFSBJBEl1Kal9XRF8aAgACXQ8HGhwVQF9ZURMDAgUAVwJTBgBZARQXRloCRwIRAAxQBAUaHBVRTkBRQ1dSXGcAVxJZVwQaAltDXwpJGlxcagBSW1leUxYMFgQTFRFZSxQQXl5BDVQUF1RaEhdZR1cXXhUDCAQFFhoWV15MXURKHRBeEmcmGhQXU0sSAFZAW1oKFQwaREQWGhZdQmZBVUsQQAFRWQRKGg8UAkRJGl5TTTtUWVZeUldCXVtfShEKGlUCVAAWTRpVWlhaEgpKbEJcABUMGgMFDA4WSQ==
+#EXTINF:-1, group-title="Backup", Bein Sports 12 EN
+http://104.248.123.71:25461/tvioo-VVNvIk59VIZHLQNvykx2/ZHLQNvykx2VVNvIk59VI-tvioo/49?token=TREOBEtbEA9GVlBeU1MEAQUBBwFXBAAHAlxWB1hbWQUPVQdXXAsAVlEVGhpDQ0ZTVVluUFcSAlALSBJBEl1Kal9XRF8aAgACXQ8HGhwVQF9ZURMDAgUAVwJTBg1YDRQXRloCRwIRBwdSABQUElJMQlFGX1hfb1wBRA1TUUMCVkBaX0pHV11tUQFaV1ZUFQ4UBBYdG1pDSEYICkVYDRQaV19HFARMVhAPRgUGDwUVGBRXW0RXR0JBRghGY3NDFBpQTkcDC0taXVtGDRRMQxUYFF1HbktWQ0wWVwVdURMaAhcHEUpHVVJKagdYWFZVVEBfW1pCGwkSCVQCVBIYQ1VXW19HCRdnQ1tRRg0UCwEGBhRJ
 
 
