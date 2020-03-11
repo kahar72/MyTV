@@ -168,6 +168,8 @@ http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, group-title="Sport", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
+#EXTINF:-1, group-title="Sport", Match TV
+http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
 #EXTINF:-1, group-title="Sport", Match Football 1 RU
 http://188.35.9.9:2010
 #EXTINF:-1, group-title="Sport", Match Football 2 RU
@@ -178,6 +180,18 @@ http://188.35.9.9:2012
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 #EXTINF:-1, group-title="Sport", Setanta Sport RU
 http://188.35.9.10:2028
+
+#EXTINF:-1, group-title="Sport", Arena Sports 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Sport", Arena Sports 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1, group-title="Sport", Arena Sports 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1, group-title="Sport", Arena Sports 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1, group-title="Sport", Arena Sports 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, group-title="Sport", SBS Sports KR
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
@@ -226,6 +240,8 @@ http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub2.hr.png" group-title="Sports",Sport Klub 2
 http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub3.hr.png" group-title="Sports",Sport Klub 3
+http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qr00OWI.png" group-title="Sports",Super Sports 1
 http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
