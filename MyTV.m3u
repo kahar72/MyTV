@@ -199,6 +199,10 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Arena Sports 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, group-title="Sport", MyCujoo 1
+https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/playlist.m3u8
+#EXTINF:-1, group-title="Sport", MyCujoo 2
+https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7xa0z64ozmy0hew57jv92ko/720p/playlist.m3u8
 
 #EXTINF:-1, group-title="Sport", SBS Sports KR
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
