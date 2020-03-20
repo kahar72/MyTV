@@ -25,8 +25,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1, group-title="Indonesia", MNC TV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1, group-title="Indonesia", Global TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", Indosiar
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
 #EXTINF:-1, group-title="Indonesia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
