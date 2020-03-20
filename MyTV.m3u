@@ -46,6 +46,8 @@ http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1, group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+#EXTINF:-1, group-title="News", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584756031/ei/3yB1Xr6ZL5GY1AaT7I2ABQ/ip/202.187.208.6/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/13360/mh/Yv/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pl/21/dover/11/keepalive/yes/fexp/23882513/mt/1584734314/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRQIgNqEW7QW179A2PATLRku1nxCuSUvV7ANI-nqHqtsk11kCIQDc1_R6Y-mr9Tn8jsB8QE0pmHHSG2hRAYxEpZB5ryUk3w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRAIgQI1rYFCpU8LXUnwEToQbOQYUdUfVhqpDFqENBvZ8Jl0CIEnmTDnishzyLXYITzQlBu7STY-yLRF9tJdzA5lsXLCC/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
 
 Documentary
