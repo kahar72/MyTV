@@ -27,6 +27,8 @@ https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_100000
 https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
 #EXTINF:-1, group-title="Indonesia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1, group-title="Indonesia", SCTV
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
 
 
 News
