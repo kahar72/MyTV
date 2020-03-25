@@ -107,23 +107,23 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
 
 Sports
-#EXTINF:-1, group-title="Sport", Premier Football 1
+#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
-#EXTINF:-1, group-title="Sport", Premier Football 2
+#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
-#EXTINF:-1, group-title="Sport", Premier Football 3
+#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
-#EXTINF:-1, group-title="Sport", Premier Football 4
+#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
-#EXTINF:-1, group-title="Sport", Premier Football 5
+#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
 #EXTINF:-1, group-title="Sport", BT Sport 1 TH
 https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1, group-title="Sport", BT Sport 2 TH
 https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport", PPTV TH
+#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Sport", PPTV TH
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
-#EXTINF:-1, group-title="Sport", Thairath TV TH
+#EXTINF:-1, tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Sport", Thairath TV TH
 http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
 #EXTINF:-1, group-title="Sport", Bein 1 TH
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
@@ -148,14 +148,12 @@ http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport5.al.png" group-title="Sport", Super Sports 5
 http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, group-title="Sport", RTM Sports
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Sport", Canal+ Sport
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/pl/CanalPlusSport.pl.png" group-title="Sport", Canal+ Sport
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
-#EXTINF:-1, group-title="Sport", RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 
-#EXTINF:-1, group-title="Sport", Match TV
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sport", Match TV
 http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
 #EXTINF:-1, group-title="Sport", Match Football 1 RU
 http://188.35.9.9:2010
@@ -177,9 +175,9 @@ http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1, group-title="Sport", BES TV CN
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 
-#EXTINF:-1, group-title="Sport", Setanta Sports
+#EXTINF:-1, tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaEn.ie.png" group-title="Sport", Setanta Sports
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1, group-title="Sport", Setanta Sports +
+#EXTINF:-1, tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sport", Setanta Sports +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
 #EXTINF:-1, group-title="Sport", Sky Sport 1 DE
@@ -187,22 +185,9 @@ http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
 #EXTINF:-1, group-title="Sport", Sky Sport 2 DE
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
 
-#EXTINF:-1, group-title="Sport", CCTV Sports CN
-rtmp://59.124.75.156/sat/cn041
-#EXTINF:-1, group-title="Sport", GDTY CN
-https://116.77.72.195/streams/d/gdty/playlist.m3u8
-#EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
-rtmp://59.124.75.156/sat/tv731
-#EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
-rtmp://59.124.75.156/sat/tv741
-#EXTINF:-1, group-title="Sport", Fox Sports 506 AU
-http://45.58.62.92:8081
-#EXTINF:-1, group-title="Sport", Bein Sports 2 HK
-rtmp://59.124.75.156/sat/hk011
-
-#EXTINF:-1, group-title="Sport", Eleven Sports 1 Polska
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/pl/ElevenSport1.pl.png" group-title="Sport", Eleven Sports 1 Polska
 http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1, group-title="Sport", Eleven Sports 2 Polska
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/pl/ElevenSport2.pl.png" group-title="Sport", Eleven Sports 2 Polska
 http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1, group-title="Sport", Arena Sports 1
@@ -302,5 +287,9 @@ https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Backup", Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORFSport.at.png" group-title="Backup", ORF Sport+
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+
 
 
