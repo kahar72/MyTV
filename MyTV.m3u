@@ -117,18 +117,10 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
 #EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
-#EXTINF:-1, group-title="Sport", BT Sport 1 TH
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1, group-title="Sport", BT Sport 2 TH
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Sport", PPTV TH
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
 #EXTINF:-1, tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Sport", Thairath TV TH
 http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
-#EXTINF:-1, group-title="Sport", Bein 1 TH
-https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
-#EXTINF:-1, group-title="Sport", Bein 2 TH
-https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub1.hr.png" group-title="Sport", Sport Klub 1
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
@@ -220,33 +212,20 @@ http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sport", beIN Sports 4
 http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sport", beIN Sport 1 Français
-http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sport", beIN Sport 2 Français
-http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sport", beIN Sport 3 Français
-http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sport", BT Sports 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sport", BT Sports 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sport", Fox Sports 1 Asia
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sport", Fox Sports 2 Asia
 http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sport", Fox Sports 3 Asia
 http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sport", Fox Sports 2 Brasil
-http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sport", Eurosport 1
 http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sport", Eurosport 2
 http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 
 
-
+Backup
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 1
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 2
