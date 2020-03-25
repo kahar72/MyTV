@@ -184,36 +184,10 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1, tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sport", Setanta Sports+
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
-#EXTINF:-1, group-title="Sport", Sky Sport 1 DE
-http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Sky Sport 2 DE
-http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
-
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/pl/ElevenSport1.pl.png" group-title="Sport", Eleven Sports 1 Polska
-http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/pl/ElevenSport2.pl.png" group-title="Sport", Eleven Sports 2 Polska
-http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-#EXTINF:-1, group-title="Sport", Arena Sports 1
-http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Sport", Arena Sports 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:-1, group-title="Sport", Arena Sports 5
-http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="Sport", MyCujoo 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/playlist.m3u8
 #EXTINF:-1, group-title="Sport", MyCujoo 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7xa0z64ozmy0hew57jv92ko/720p/playlist.m3u8
-
-#EXTINF:-1, group-title="Sport", SBS Sports KR
-http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
-#EXTINF:-1, group-title="Sport", MBC Sports Plus KR
-http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sport", beIN Sports 1
 http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
