@@ -11,37 +11,37 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Asia", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
-#EXTINF:-1, group-title="Asia", TV1
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Asia", TV1
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Asia", TV2
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Asia", TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Asia", TV9
+#EXTINF:-1, tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Asia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF:-1, group-title="Asia", OKEY
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Asia", OKEY
 https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1, group-title="Asia", AWANI
+#EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1, group-title="Asia", DRAMA SANGAT
+#EXTINF:-1, tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Asia", DRAMA SANGAT
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1, group-title="Asia", NAURA
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="Asia", NAURA
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
-#EXTINF:-1, group-title="Asia", RTB Sukmaindera
+#EXTINF:-1, tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1, group-title="Asia", Trans TV
+#EXTINF:-1, tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Asia", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Asia", Trans 7
+#EXTINF:-1, tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Asia", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-#EXTINF:-1, group-title="Asia", Metro TV
+#EXTINF:-1, tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="Asia", RCTI
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="Asia", RCTI
 https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, group-title="Asia", Indosiar
+#EXTINF:-1, tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Asia", Indosiar
 https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
-#EXTINF:-1, group-title="Asia", TVRI
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Asia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1, group-title="Asia", SCTV
+#EXTINF:-1, tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Asia", SCTV
 https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
 
 
@@ -86,11 +86,11 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
 
 Movies
-#EXTINF:-1, group-title="Movies", Star Gold
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="Movies", Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="Movies", Sony Max 2
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1, group-title="Movies", Fox Action Movies
+#EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1, group-title="Movies", MBC Max
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
@@ -98,9 +98,9 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1, group-title="Movies", Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1, group-title="Movies", Star World
+#EXTINF:-1, tvg-logo="http://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="Movies", Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1, group-title="Movies", Fox Movies
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="Movies", Fox Movies
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1, group-title="Movies", HBO Hits
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
