@@ -37,12 +37,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sle
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="Asia", RCTI
 https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Asia", Indosiar
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
 #EXTINF:-1, tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Asia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Asia", SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
 
 
 Al Haramain
@@ -56,7 +52,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 News
 #EXTINF:-1 ch-id="Al Jazeera" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News", Al Jazeera
-https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
