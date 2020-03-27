@@ -53,7 +53,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 News
 #EXTINF:-1 ch-id="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News", Channel NewsAsia
+#EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://en.m.wikipedia.org/wiki/File:CNA_new_logo.svg" group-title="News", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
