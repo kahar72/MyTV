@@ -2,11 +2,11 @@
 
 
 Asia
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Asia", Channel 5
+#EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel5.jpg" group-title="Asia", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Asia", Suria
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Asia", Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Asia", Channel 8
+#EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel8.jpg" group-title="Asia", Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Asia", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
@@ -14,7 +14,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Asia", TV1
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Asia", TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1, tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Asia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Asia", OKEY
