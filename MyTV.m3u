@@ -80,7 +80,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", National Geographic People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1200px-H2_TV_logo.svg.png" group-title="Documentary", History 2
+#EXTINF:-1, tvg-logo="tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/c9/History_2_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/70?cb=20190116195020" group-title="Documentary", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1, tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channeljpg.jpg" group-title="Documentary", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
@@ -151,17 +151,17 @@ http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sport", Match TV
 http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
-#EXTINF:-1, group-title="Sport", Match HD
+#EXTINF:-1, tvg-logo="https://satka.ttk.ru/upload/iblock/4e5/4e5a9219f42a39d8e0b9ec3400e079f0.png" group-title="Sport", Match HD
 http://188.35.9.9:2009
-#EXTINF:-1, group-title="Sport", Match Football 1
+#EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
 http://188.35.9.9:2010
-#EXTINF:-1, group-title="Sport", Match Football 2
+#EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-2-1.png" group-title="Sport", Match Football 2
 http://188.35.9.9:2011
-#EXTINF:-1, group-title="Sport", Match Football 3
+#EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/march-football-3.png" group-title="Sport", Match Football 3
 http://188.35.9.9:2012
-#EXTINF:-1, group-title="Sport", Match Premier
+#EXTINF:-1, tvg-logo="https://apollo-frankfurt.akamaized.net/v1/files/nh438q9guwh32-KZ/image" group-title="Sport", Match Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
-#EXTINF:-1, group-title="Sport", Setanta Sport RU
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", Setanta Sport RU
 http://188.35.9.10:2028
 
 #EXTINF:-1, tvg-logo="http://www.nettv.live/uploads/18/1-1P423200320U1.jpg" group-title="Sport", NewTV Super Sports CN
