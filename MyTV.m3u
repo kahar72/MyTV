@@ -133,7 +133,7 @@ http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub3.hr.png" group-title="Sport", Sport Klub 3
 http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/5cb9a76f0c334e32347553ff0cdbe39c.png" Super Sport 1
+#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/5cb9a76f0c334e32347553ff0cdbe39c.png" group-title="Sport", Super Sport 1
 http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport2.al.png" group-title="Sport", Super Sport 2
 http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
