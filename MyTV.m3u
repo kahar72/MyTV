@@ -179,9 +179,9 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1, tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sport", Setanta Sports+
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://cdn.shortpixel.ai/spai/w_291+q_glossy+ret_img+to_webp/https://worldfootballsummit.com/wp-content/uploads/2019/08/Mycujoo.png" group-title="Sport", MyCujoo 1
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l78LFaBkpzsJ9NGE26AX_AOzVNOLdBCZgCA0XA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sport", MyCujoo 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cdn.shortpixel.ai/spai/w_291+q_glossy+ret_img+to_webp/https://worldfootballsummit.com/wp-content/uploads/2019/08/Mycujoo.png" group-title="Sport", MyCujoo 2
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l78LFaBkpzsJ9NGE26AX_AOzVNOLdBCZgCA0XA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sport", MyCujoo 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7xa0z64ozmy0hew57jv92ko/720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sport", beIN Sports 1
