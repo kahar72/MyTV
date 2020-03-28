@@ -8,7 +8,7 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel8.jpg" group-title="Asia", Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Asia", Vasantham
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGOT_QAPwi0e3VsKTmMfxbt1P0SvzfhXAMlvCGNmodLo7VfFMU" group-title="Asia", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Asia", TV1
@@ -53,13 +53,13 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 News
 #EXTINF:-1 ch-id="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://themangrovelab.com/x/cdn/?https://storage.googleapis.com/wzukusers/user-29321638/images/5970749b5306f2CegOlQ/download.png" group-title="News", Channel NewsAsia
+#EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="News", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/220px-CNN_Indonesia.svg.png" group-title="News", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384000_sleng.m3u8
-#EXTINF:-1 ch-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="News", NHK World Japan
+#EXTINF:-1 ch-id="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 ch-id="RT" tvg-logo="http://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="News", RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
@@ -67,26 +67,26 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1, tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGvqo0GdT5r3Q/company-logo_200_200/0?e=2159024400&v=beta&t=N2-pAYRRTXSKvEzloeYO0EH5TskxLBkS2-9rKGJlaCo" group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/SkyNews.za.png" group-title="News", Sky News
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/05/5ce267b55a88a.png" group-title="News", Sky News
 http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #EXTINF:-1 ch-id="France24" tvg-logo="http://static.iptv-epg.com/fr/France24English.fr.png" group-title="News", France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 
 Documentary
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="Documentary", National Geographic
+#EXTINF:-1, tvg-logo="https://tv.bt.com/images/national-geographic-136409750337502601-160920230806.jpg" group-title="Documentary", National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1, tvg-logo="https://img2.pngdownload.id/20180724/fll/kisspng-logo-nat-geo-wild-national-geographic-television-c-5b57dd13174f56.5118415015324848830955.jpg" group-title="Documentary", National Geographic Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", National Geographic People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/c9/History_2_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/70?cb=20190116195020" group-title="Documentary", History 2
+#EXTINF:-1, tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1, tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channeljpg.jpg" group-title="Documentary", Discovery Channel
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/f3/75/6c/f3756c9508f3fea0d48db8ba6db63a14.jpg" group-title="Documentary", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 #EXTINF:-1, group-title="Documentary", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
+#EXTINF:-1, tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/07/25/Animal%20Planet.jpg?itok=qWglMmkQ" group-title="Documentary", Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/33/Docubox_%282013-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20191229094022" group-title="Documentary", DocuBox
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
@@ -96,7 +96,7 @@ https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 Movies
 #EXTINF:-1, tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="Movies", Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwASa8GF7RhRpCyBm21ijWRDP1c6juZFm2qjY_v1pChvmPaKft" group-title="Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -179,9 +179,9 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1, tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sport", Setanta Sports+
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l78LFaBkpzsJ9NGE26AX_AOzVNOLdBCZgCA0XA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sport", MyCujoo 1
+#EXTINF:-1, tvg-logo="https://www.conifa.org/en/wp-content/uploads/2019/05/MyCujoo-MainLogo.jpg" group-title="Sport", MyCujoo 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l78LFaBkpzsJ9NGE26AX_AOzVNOLdBCZgCA0XA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sport", MyCujoo 2
+#EXTINF:-1, tvg-logo="https://www.conifa.org/en/wp-content/uploads/2019/05/MyCujoo-MainLogo.jpg" group-title="Sport", MyCujoo 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7xa0z64ozmy0hew57jv92ko/720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sport", beIN Sports 1
