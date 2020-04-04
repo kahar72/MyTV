@@ -297,6 +297,9 @@ http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest/scale-to-width-down/300?cb=20160402190112" group-title="Sport", FOX SPORTS HK
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=20200308
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest/scale-to-width-down/300?cb=20160402190112" group-title="Sport", Fox Sports 1 Asia
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 
@@ -394,3 +397,10 @@ https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Backup", Astro SuperSport 4
 https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Backup", STAR SPORTS SELECT 1 HD
+http://175.41.46.16:8081/hls/4.m3u8
+
+
