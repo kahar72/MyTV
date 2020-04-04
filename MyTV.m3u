@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-Asia
+#Asia#
 #EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel5.jpg" group-title="Asia", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
@@ -65,7 +65,7 @@ https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan&v=20200202
 
 
 
-Al Haramain
+#Al Haramain#
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Al Haramain", Makkah al Mukarramah
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 
@@ -78,7 +78,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 
 
-News
+#News#
 #EXTINF:-1 ch-id="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -112,7 +112,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 
 
-Documentary
+#Documentary#
 #EXTINF:-1, tvg-logo="https://tv.bt.com/images/national-geographic-136409750337502601-160920230806.jpg" group-title="Documentary", National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
@@ -140,7 +140,7 @@ https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 
 
 
-Movies
+#Movies#
 #EXTINF:-1, tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="Movies", Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 
@@ -165,7 +165,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 
 
-Sports
+#Sports#
 #EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
 
@@ -315,7 +315,7 @@ http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 
 
 
-Backup
+#Backup#
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 1
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 
