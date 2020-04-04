@@ -67,10 +67,10 @@ https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan&v=20200202
 
 #Al Haramain#
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Al Haramain", Makkah al Mukarramah
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+https://streamer-1.toffeelive.com/live/quran_tv_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Al Haramain", Madinah al Munawwarah
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+https://streamer-1.toffeelive.com/live/sunnah_tv_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Al Haramain", Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
@@ -122,11 +122,14 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", National Geographic People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png", HISTORY TV
+https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/f3/75/6c/f3756c9508f3fea0d48db8ba6db63a14.jpg" group-title="Documentary", Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
 
 #EXTINF:-1, group-title="Documentary", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
@@ -366,16 +369,16 @@ https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Backup", Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Backup", Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="Backup", Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Backup", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 
 
 
