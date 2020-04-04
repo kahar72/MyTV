@@ -3,7 +3,7 @@
 
 Asia
 #EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel5.jpg" group-title="Asia", Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+https://raw.githubusercontent.com/kahar72/Individuals/master/Channel%205
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Asia", Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel8.jpg" group-title="Asia", Channel 8
