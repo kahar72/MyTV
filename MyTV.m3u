@@ -147,6 +147,9 @@ https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="Movies", Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="Movies", Sony Max
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwASa8GF7RhRpCyBm21ijWRDP1c6juZFm2qjY_v1pChvmPaKft" group-title="Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 
