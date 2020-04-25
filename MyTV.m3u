@@ -142,21 +142,56 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 
 
+
+
 #Sports#
-#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Sport", Sky Sports Football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
+https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Sport", True Sport 2
+https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 2
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 3
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 4
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 5
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Sport", Astro SuperSport 1
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Sport", Astro SuperSport 2
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="Sport", Astro SuperSport 3
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Sport", Astro SuperSport 4
+https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 1 HD
+http://175.41.46.16:8081/hls/4.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Sport", PPTV TH
 http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
@@ -295,86 +330,8 @@ http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 
 
 
-#Backup#
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 4
-http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 5
-http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.paselino.de/wp-content/uploads/2017/01/02_bl_logo_4c_com_partnersky_1c_dt_qf.jpg" group-title="Backup", Sky Bundesliga
-http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Backup", Sky Sports EPL
-https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Backup", Sky Sports Football
-https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Backup", Sky Sports Main Event
-https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Backup", True Sport 2
-https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 3
-https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 4
-https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Backup", Premier Football 5
-https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Backup", Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Backup", Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="Backup", Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Backup", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORFSport.at.png" group-title="Backup", ORF Sport+
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Backup", Astro SuperSport 1
-https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Backup", Astro SuperSport 2
-https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="Backup", Astro SuperSport 3
-https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Backup", Astro SuperSport 4
-https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Backup", STAR SPORTS SELECT 1 HD
-http://175.41.46.16:8081/hls/4.m3u8
 
 
