@@ -128,7 +128,6 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
 
 #Movies#
-
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwASa8GF7RhRpCyBm21ijWRDP1c6juZFm2qjY_v1pChvmPaKft" group-title="Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 
@@ -149,6 +148,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Movies", K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+
 
 
 
@@ -215,17 +215,6 @@ https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 1 HD
-http://175.41.46.16:8081/hls/4.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Sport", PPTV TH
-http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
-
-#EXTINF:-1, tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Sport", Thairath TV TH
-http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
-
-
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
@@ -233,12 +222,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 
 
-
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/proxy/E74cekxrxPUaKlhQVzpYHWV5u9RIBTRULNclDAnmXZnjH0QvfDGs4qB71kCZrf327bM2KdUVyeuOIDqivYb95vxZDDn-TfLmlm-8oUWpO0rVsG4fwWIu3HzmNIcajKWOJzcXTf2y5OFrZa-Sn4c_cTDVcJtvVxqDMA" group-title="Sport", Match TV
-http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
-
-#EXTINF:-1, tvg-logo="https://satka.ttk.ru/upload/iblock/4e5/4e5a9219f42a39d8e0b9ec3400e079f0.png" group-title="Sport", Match HD
-http://188.35.9.9:2009
 
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
 http://188.35.9.9:2010
@@ -251,6 +234,12 @@ http://188.35.9.9:2012
 
 #EXTINF:-1, tvg-logo="https://apollo-frankfurt.akamaized.net/v1/files/nh438q9guwh32-KZ/image" group-title="Sport", Match Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
+
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/proxy/E74cekxrxPUaKlhQVzpYHWV5u9RIBTRULNclDAnmXZnjH0QvfDGs4qB71kCZrf327bM2KdUVyeuOIDqivYb95vxZDDn-TfLmlm-8oUWpO0rVsG4fwWIu3HzmNIcajKWOJzcXTf2y5OFrZa-Sn4c_cTDVcJtvVxqDMA" group-title="Sport", Match TV
+http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
+
+#EXTINF:-1, tvg-logo="https://satka.ttk.ru/upload/iblock/4e5/4e5a9219f42a39d8e0b9ec3400e079f0.png" group-title="Sport", Match HD
+http://188.35.9.9:2009
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", Setanta Sport RU
 http://188.35.9.10:2028
@@ -270,6 +259,17 @@ http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 1 HD
+http://175.41.46.16:8081/hls/4.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Sport", PPTV TH
+http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
+
+#EXTINF:-1, tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Sport", Thairath TV TH
+http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
 
 
 
