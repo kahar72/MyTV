@@ -58,6 +58,8 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 
 
 
+
+
 #Al Haramain#
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Al Haramain", Makkah al Mukarramah
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
@@ -71,6 +73,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 
 
+
 #News#
 #EXTINF:-1 ch-id="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -78,7 +81,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
+#EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/220px-CNN_Indonesia.svg.png" group-title="News", CNN Indonesia
@@ -87,13 +90,13 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384
 #EXTINF:-1 ch-id="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 ch-id="RT" tvg-logo="http://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="News", RT
+#EXTINF:-1 ch-id="RT" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News", RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 ch-id="RTM BES" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="News", Berita RTM
 https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
-#EXTINF:-1 ch-id="France24" tvg-logo="http://static.iptv-epg.com/fr/France24English.fr.png" group-title="News", France24
+#EXTINF:-1 ch-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News", France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 
@@ -182,6 +185,22 @@ https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sports",Setanta Sports
+http://188.93.95.34:80/setanta_georgia/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
+http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
+https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
+https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Sport", Astro SuperSport 1
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 
@@ -207,43 +226,15 @@ http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
 
 
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub1.hr.png" group-title="Sport", Sport Klub 1
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub2.hr.png" group-title="Sport", Sport Klub 2
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub3.hr.png" group-title="Sport", Sport Klub 3
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-
-
-
-#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/5cb9a76f0c334e32347553ff0cdbe39c.png" group-title="Sport", Super Sport 1
-http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport2.al.png" group-title="Sport", Super Sport 2
-http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport3.al.png" group-title="Sport", Super Sport 3
-http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport4.al.png" group-title="Sport", Super Sport 4
-http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/SuperSport5.al.png" group-title="Sport", Super Sport 5
-http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/pl/CanalPlusSport.pl.png" group-title="Sport", Canal+ Sport
+#EXTINF:-1, tvg-logo="https://ocdn.eu/pulscms-transforms/1/vD9ktkqTURBXy85YmYyNmNkYmM5Yjk2ZDM1YjA5NDJlNjQ3ZGE5NWEwNC5qcGVnkpUDAMybzQSdzQKYkwXNAeDNAWg" group-title="Sport", Canal+ Sport
 http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sport", Match TV
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/proxy/E74cekxrxPUaKlhQVzpYHWV5u9RIBTRULNclDAnmXZnjH0QvfDGs4qB71kCZrf327bM2KdUVyeuOIDqivYb95vxZDDn-TfLmlm-8oUWpO0rVsG4fwWIu3HzmNIcajKWOJzcXTf2y5OFrZa-Sn4c_cTDVcJtvVxqDMA" group-title="Sport", Match TV
 http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
 
 #EXTINF:-1, tvg-logo="https://satka.ttk.ru/upload/iblock/4e5/4e5a9219f42a39d8e0b9ec3400e079f0.png" group-title="Sport", Match HD
@@ -282,53 +273,11 @@ http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sports",Setanta Sports
-http://188.93.95.34:80/setanta_georgia/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
-http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
-
-
-
 #EXTINF:-1, tvg-logo="https://www.conifa.org/en/wp-content/uploads/2019/05/MyCujoo-MainLogo.jpg" group-title="Sport", MyCujoo 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.conifa.org/en/wp-content/uploads/2019/05/MyCujoo-MainLogo.jpg" group-title="Sport", MyCujoo 2
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7xa0z64ozmy0hew57jv92ko/720p/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest/scale-to-width-down/300?cb=20160402190112" group-title="Sport", Fox Sports 1 Asia
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160413213908" group-title="Sport", Fox Sports 2 Asia
-http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/250?cb=20160412195331" group-title="Sport", Fox Sports 3 Asia
-http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sport", Eurosport 1
-http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sport", Eurosport 2
-http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
-
-
-
-
-
-
-
 
 
 
