@@ -65,6 +65,9 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 #EXTINF:-1, tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png", tvOne
+https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybDQgEot5GYPMRENX2iQxF5w)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
+
 #EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Asia", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 
@@ -74,6 +77,11 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1246589674.m3u8
 #EXTINF:-1, tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="Asia", Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
 
+#EXTINF:-1, tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="Asia", Rodja TV
+http://210.210.155.35/session/5a80a878-8fa1-11ea-ab08-ac2c90e2389c/qwr9ew/s/s14/01.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/971252512744452098/RgO-UEru_400x400.jpg" group-title="Asia", Tahfidz TV
+http://119.235.249.58:1935/tahfidztv/live/chunklist_w113180428.m3u8
 
 
 
@@ -119,6 +127,9 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/skynews.png", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1588788056/ei/-KayXrXLMPCCssUPnpmxoAg/ip/202.187.191.52/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10350/mh/Yv/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/15/dover/11/keepalive/yes/mt/1588766364/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAOimZlvg-UyZXrT3jTp33rWcx1gthpcs7uOwR_ssD8SGAiAHiclj6H5Pge4mAqa6R4xL6NRLPkUSeDWXJ3VXY0A3jA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRAIgd9vC8iyYD7BuWiOTbUnfnp-Lm4x-IhETCO5koEIrWzACIAxXZe_SzFYwt6Xzo2XizTz2JyVVKKK18r4w7tHUdZBB/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
 
 
@@ -172,6 +183,12 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Movies", K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1, group-title="Movies", IN: SONY MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+#EXTINF:-1, group-title="Movies", UK: SONY MAX 2
+http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
 
 
 
