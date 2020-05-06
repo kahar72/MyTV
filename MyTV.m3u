@@ -62,6 +62,18 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-trans7-png-1.png" group-title="Asia", Trans7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
+#EXTINF:-1, tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="Asia", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Asia", Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/wesaltv-id-1024x376.png" group-title="Asia", Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1246589674.m3u8
+
+#EXTINF:-1, tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="Asia", Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
+
 
 
 
@@ -104,6 +116,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.
 
 #EXTINF:-1 ch-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News", France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News", TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 
 
@@ -151,6 +166,9 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/9c316dr.png" group-title="Movies", Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="Movies", Star Gold
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Movies", K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
@@ -263,6 +281,30 @@ http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/255.png", group-title="Sport", RMC Sport 1 HD
+http://ndasat.net:2052/243790250289176/1593574628/15817
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/253.png", group-title="Sport", RMC Sport 2 HD
+http://ndasat.net:2052/243790250289176/1593574628/15818
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/254.png", group-title="Sport", RMC Sport 3 HD
+http://ndasat.net:2052/243790250289176/1593574628/15819
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/243.png", group-title="Sport", RMC Sport 4 HD
+http://ndasat.net:2052/243790250289176/1593574628/20606
+
+
+
+#EXTINF:-1 tvg-logo="https://iaspr.tmgrup.com.tr/2019/11/11/1573422564129.png" group-title="Sport", A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sport", PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 
@@ -286,15 +328,6 @@ https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/pla
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7xa0z64ozmy0hew57jv92ko/720p/playlist.m3u8
 
 
-
-#EXTINF:-1, group-title="Sport", RMC 1
-http://frryacineuuk.ddns.net:25461/yacineff0020/yacineff0020/48
-
-#EXTINF:-1, group-title="Sport", RMC 2
-http://frryacineuuk.ddns.net:25461/yacineff0020/yacineff0020/47
-
-#EXTINF:-1, group-title="Sport", RMC 3
-http://frryacineuuk.ddns.net:25461/yacineff0020/yacineff0020/46
 
 
 
