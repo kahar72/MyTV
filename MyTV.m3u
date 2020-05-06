@@ -128,8 +128,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/skynews.png", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1588788056/ei/-KayXrXLMPCCssUPnpmxoAg/ip/202.187.191.52/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10350/mh/Yv/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/15/dover/11/keepalive/yes/mt/1588766364/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAOimZlvg-UyZXrT3jTp33rWcx1gthpcs7uOwR_ssD8SGAiAHiclj6H5Pge4mAqa6R4xL6NRLPkUSeDWXJ3VXY0A3jA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRAIgd9vC8iyYD7BuWiOTbUnfnp-Lm4x-IhETCO5koEIrWzACIAxXZe_SzFYwt6Xzo2XizTz2JyVVKKK18r4w7tHUdZBB/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
+
 
 
 
@@ -184,11 +183,6 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Movies", K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1, group-title="Movies", IN: SONY MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1, group-title="Movies", UK: SONY MAX 2
-http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
 
 
 
@@ -276,12 +270,6 @@ http://188.35.9.9:2012
 #EXTINF:-1, tvg-logo="https://apollo-frankfurt.akamaized.net/v1/files/nh438q9guwh32-KZ/image" group-title="Sport", Match Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/proxy/E74cekxrxPUaKlhQVzpYHWV5u9RIBTRULNclDAnmXZnjH0QvfDGs4qB71kCZrf327bM2KdUVyeuOIDqivYb95vxZDDn-TfLmlm-8oUWpO0rVsG4fwWIu3HzmNIcajKWOJzcXTf2y5OFrZa-Sn4c_cTDVcJtvVxqDMA" group-title="Sport", Match TV
-http://streamer-1.obozrenie.tv/18/f3661b29885fae3a4c482122/260/stream.m3u8
-
-#EXTINF:-1, tvg-logo="https://satka.ttk.ru/upload/iblock/4e5/4e5a9219f42a39d8e0b9ec3400e079f0.png" group-title="Sport", Match HD
-http://188.35.9.9:2009
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", Setanta Sport RU
 http://188.35.9.10:2028
 
@@ -319,22 +307,6 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sport", PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
-http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 1 HD
-http://175.41.46.16:8081/hls/4.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Sport", PPTV TH
-http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
-
-#EXTINF:-1, tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Sport", Thairath TV TH
-http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
 
 
 
