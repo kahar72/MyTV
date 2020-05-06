@@ -1,1 +1,11 @@
-ttt
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* DIRECTV SPORTS 1" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="(DEPORTES)",DEPORTES* DIRECTV SPORTS 1
+http://relaxplease.xyz:25461/m3ufree/dia5mayo/132
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* FOX Deportes opc 2" tvg-logo="https://pbs.twimg.com/profile_images/1212793409972428802/GOVO09Xq_400x400.png" group-title="(DEPORTES)",DEPORTES* FOX Deportes opc 2
+http://relaxplease.xyz:25461/m3ufree/dia5mayo/133
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* Univision Deportes OPC 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/UDN-Image-1.jpg/revision/latest/scale-to-width-down/340?cb=20190405094925" group-title="(DEPORTES)",DEPORTES* Univision Deportes OPC 2
+http://relaxplease.xyz:25461/m3ufree/dia5mayo/134
+
+
