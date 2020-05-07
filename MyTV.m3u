@@ -157,6 +157,9 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/07/25/Animal%20Planet.jpg?itok=qWglMmkQ" group-title="Documentary", Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cbronline.com/wp-content/uploads/2016/07/what-is-nasa.png" group-title="Documentary", NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
 
 
 
