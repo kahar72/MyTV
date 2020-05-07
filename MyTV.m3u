@@ -128,6 +128,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2014/10/Australia-channel-300x169.jpg" group-title="News", Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 
 
@@ -144,7 +146,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png", History TV
-https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/playlist.m3u8
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary", History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
@@ -307,6 +309,14 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sport", PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sport", Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/3/2019/06/sports.png" group-title="Sport", BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 
 
