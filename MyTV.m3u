@@ -160,6 +160,9 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbronline.com/wp-content/uploads/2016/07/what-is-nasa.png" group-title="Documentary", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary", Discovery Asia
+https://cdn-laos.workpoint.news/hd-discoveryeng_720/index.m3u8
+
 
 
 
@@ -290,24 +293,8 @@ http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/255.png", group-title="Sport", RMC Sport 1 HD
-http://ndasat.net:2052/243790250289176/1593574628/15817
-
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/253.png", group-title="Sport", RMC Sport 2 HD
-http://ndasat.net:2052/243790250289176/1593574628/15818
-
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/254.png", group-title="Sport", RMC Sport 3 HD
-http://ndasat.net:2052/243790250289176/1593574628/15819
-
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/243.png", group-title="Sport", RMC Sport 4 HD
-http://ndasat.net:2052/243790250289176/1593574628/20606
-
-
-
 #EXTINF:-1 tvg-logo="https://iaspr.tmgrup.com.tr/2019/11/11/1573422564129.png" group-title="Sport", A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sport", PTV Sports
@@ -318,9 +305,8 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/3/2019/06/sports.png" group-title="Sport", BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
+#EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/by-belarus-5.jpg" group-title="Sport", BELARUS 5
+http://87.120.36.62:8115/hls/streama120910/index.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://www.conifa.org/en/wp-content/uploads/2019/05/MyCujoo-MainLogo.jpg" group-title="Sport", MyCujoo 1
