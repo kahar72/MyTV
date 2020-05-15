@@ -23,10 +23,13 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Asia",NTV 7
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS6HJIQ7RCxQn1Oz-mubjcs)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Asia", TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcmiZMK9s_RSUPlx43zLOWc)/dm/3/x6qqja6/s/live-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Asia", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", AWANI
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
