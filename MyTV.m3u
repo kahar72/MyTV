@@ -312,6 +312,26 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://87.120.36.62:8115/hls/streama120910/index.m3u8
 
 
+#EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORTV1FHD.png" group-title="Sport", Sport TV 1
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1582
+
+#EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORTV2FHD.png" group-title="Sport", Sport TV 2
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3786
+
+#EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORTV3FHD.png" group-title="Sport", Sport TV 3
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1585
+
+#EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORTV4FHD.png" group-title="Sport", Sport TV 4
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1584
+
+#EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORTV5FHD.png" group-title="Sport", Sport TV 5
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3788
+
+#EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORT%20TV+.png" group-title="Sport", Sport TV+
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3502
+
+
+
 #EXTINF:-1, tvg-logo="https://www.conifa.org/en/wp-content/uploads/2019/05/MyCujoo-MainLogo.jpg" group-title="Sport", MyCujoo 1
 https://dc9jagk60w3y3mt6171f-brszga.p5cdn.com/ck7vqn5k9mf7g0h9jp2axboq6/720p/playlist.m3u8
 
