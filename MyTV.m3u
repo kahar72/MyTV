@@ -37,9 +37,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", NAURA
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.tvikim.my/images/logo-header-02.png" group-title="Asia", TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
-
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
@@ -80,8 +77,6 @@ http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
 #EXTINF:-1, tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="Asia", Rodja TV
 http://210.210.155.35/session/5a80a878-8fa1-11ea-ab08-ac2c90e2389c/qwr9ew/s/s14/01.m3u8
 
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/971252512744452098/RgO-UEru_400x400.jpg" group-title="Asia", Tahfidz TV
-http://119.235.249.58:1935/tahfidztv/live/chunklist_w113180428.m3u8
 
 
 
