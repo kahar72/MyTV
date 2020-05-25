@@ -83,13 +83,10 @@ http://210.210.155.35/session/5a80a878-8fa1-11ea-ab08-ac2c90e2389c/qwr9ew/s/s14/
 
 #Al Haramain#
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Al Haramain", Makkah al Mukarramah
-http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
+http://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Al Haramain", Madinah al Munawwarah
-http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Al Haramain", Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+http://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
 
 
