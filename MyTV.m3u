@@ -138,28 +138,31 @@ http://live.highstream.club/live/MSNBC/playlist.m3u8
 
 #Documentary#
 #EXTINF:-1, tvg-logo="https://tv.bt.com/images/national-geographic-136409750337502601-160920230806.jpg" group-title="Documentary", National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+http://185.69.28.194:9090/play/natgeo
 
 #EXTINF:-1, tvg-logo="https://img2.pngdownload.id/20180724/fll/kisspng-logo-nat-geo-wild-national-geographic-television-c-5b57dd13174f56.5118415015324848830955.jpg" group-title="Documentary", National Geographic Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+http://185.69.28.194:9090/play/natgeowild
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", National Geographic People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png", History TV
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+http://185.69.28.194:9090/play/history
 
 #EXTINF:-1, tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary", History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+http://185.69.28.194:9090/play/history2
 
 #EXTINF:-1, group-title="Documentary", Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/07/25/Animal%20Planet.jpg?itok=qWglMmkQ" group-title="Documentary", Animal Planet
-http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+http://185.69.28.194:9090/play/animalplanet
 
 #EXTINF:-1 tvg-logo="https://www.cbronline.com/wp-content/uploads/2016/07/what-is-nasa.png" group-title="Documentary", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="Documentary", Discovery Channel
+http://185.69.28.194:9090/play/discovery
 
 #EXTINF:-1, tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary", Discovery Asia
 https://cdn-laos.workpoint.news/hd-discoveryeng_720/index.m3u8
