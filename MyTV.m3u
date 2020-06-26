@@ -331,6 +331,21 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://87.120.36.62:8115/hls/streama120910/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
+http://ndasat.net:2052/243790250289176/1593574628/15817
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
+http://ndasat.net:2052/243790250289176/1593574628/15818
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
+http://ndasat.net:2052/243790250289176/1593574628/15819
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
+http://ndasat.net:2052/243790250289176/1593574628/20606
+
+
+
 #EXTINF:-1, tvg-logo="http://163.172.96.72/picon/SPORTV1FHD.png" group-title="Sport", Sport TV 1
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1582
 
