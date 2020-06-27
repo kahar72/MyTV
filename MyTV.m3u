@@ -249,7 +249,7 @@ https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sport",NBCSN
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f3/3d/f9/f33df94871bd3bf81245f30d0c36a112.jpg" group-title="Sport",NBCSN
 http://34.120.130.236/live/nbc/chunks.m3u8
 
 
