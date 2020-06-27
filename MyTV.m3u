@@ -249,6 +249,9 @@ https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sport",NBCSN
+http://34.120.130.236/live/nbc/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sport",Setanta Sports
 http://188.93.95.34:80/setanta_georgia/index.m3u8
