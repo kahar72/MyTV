@@ -38,14 +38,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
-
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RCTI_Logo_2012_New.gif" group-title="Asia", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -62,17 +57,8 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 #EXTINF:-1, tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png", tvOne
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/05.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.infotelevisi.com/asset/images/tv/HOME-LIVING.jpg" group-title="Asia", Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-
 #EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Asia", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-
-#EXTINF:-1, tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/wesaltv-id-1024x376.png" group-title="Asia", Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1246589674.m3u8
 
 #EXTINF:-1, tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="Asia", Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
@@ -129,39 +115,42 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="News",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+
 
 
 
 #Documentary#
 #EXTINF:-1, tvg-logo="https://tv.bt.com/images/national-geographic-136409750337502601-160920230806.jpg" group-title="Documentary", National Geographic
-http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://img2.pngdownload.id/20180724/fll/kisspng-logo-nat-geo-wild-national-geographic-television-c-5b57dd13174f56.5118415015324848830955.jpg" group-title="Documentary", National Geographic Wild
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18569
+http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", National Geographic People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png", History TV
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary", History TV
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary", History 2
 http://185.69.28.194:9090/play/history2
 
-#EXTINF:-1, group-title="Documentary", Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Documentary", Crime + Investigation
+http://103.47.132.164/PLTV/88888888/224/3221227341/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/07/25/Animal%20Planet.jpg?itok=qWglMmkQ" group-title="Documentary", Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227173/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cbronline.com/wp-content/uploads/2016/07/what-is-nasa.png" group-title="Documentary", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="Documentary", Discovery Channel
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227169/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary", Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227161/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Documentary", UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
