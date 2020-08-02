@@ -242,13 +242,13 @@ http://188.93.95.34:80/setanta_georgia/index.m3u8
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Sport", Astro SuperSport 1
-https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp1hd_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Sport", Astro SuperSport 2
-https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp2hd_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="Sport", Astro SuperSport 3
-https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp3hd_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Sport", Astro SuperSport 4
-https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/my-asp4_720/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
@@ -283,6 +283,21 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sport", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="Sport", Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+
+
+
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
+
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein2_480/playlist.m3u8
+
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein3_480/playlist.m3u8
+
+
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 
 
