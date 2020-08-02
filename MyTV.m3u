@@ -28,10 +28,17 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Asia", OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", AWANI
+#EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg" group-title="Asia", DRAMA SANGAT
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Asia", Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Asia", Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Asia", Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg" group-title="Asia", Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", NAURA
@@ -44,6 +51,9 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-sctv.jpg" group-title="Asia", SCTV
 http://210.210.155.35/session/304879c0-7fbe-11ea-bb10-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -93,6 +103,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.
 
 #EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 ch-id="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
