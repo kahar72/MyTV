@@ -34,9 +34,9 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 #EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="" group-title="Asia",Astro Oasis
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-logo-png-4.png" group-title="Asia",Astro Oasis
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18628
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="" group-title="Asia",Astro Prima
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-png-3.png" group-title="Asia",Astro Prima
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18627
 #EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Asia", Astro Ria
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18625
