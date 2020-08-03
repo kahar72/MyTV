@@ -59,7 +59,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia", RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.okeinfo.net/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" group-title="Indonesia",GTV HD
+#EXTINF:-1 tvg-logo="https://img.okeinfo.net/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" group-title="Asia",GTV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-sctv.jpg" group-title="Asia", SCTV
@@ -226,11 +226,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sport",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
+#EXTINF:-1 tvg-id="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
 http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671278
-#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
+#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2
 http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671279
-#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sports",BT Sports 3
+#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sport",BT Sports 3
 http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671281
 
 #EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
@@ -274,7 +274,7 @@ http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/9125
 #EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://pici.life/skysport2hd_2.png" group-title="Sport",Sky Sport 2 FHD DE
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/7362
 
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="Liverpool FC FHD UK" tvg-logo="http://pici.life/UK/liverpoolfctv.png" group-title="United Kingdom",Liverpool FC FHD UK
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="Liverpool FC FHD UK" tvg-logo="http://pici.life/UK/liverpoolfctv.png" group-title="Sport",Liverpool FC FHD UK
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/656978
 
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
