@@ -199,11 +199,11 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #Sports#
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105474
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105474
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sport", Sky Sports Football
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105479
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105479
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105477
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105477
 
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Sport", True Sport 2
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
@@ -227,17 +227,17 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105492
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105492
 #EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105493
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105493
 #EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sport",BT Sports 3
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105494
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105494
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",Premier Sports 1
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105485
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105485
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",Premier Sports 2
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:31313/oicAkH5HiA/105486
+http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105486
 
 #EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
