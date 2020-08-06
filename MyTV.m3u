@@ -28,27 +28,27 @@ http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/29594
 #EXTINF:-1, tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Asia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Asia", OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-
 #EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-logo-png-4.png" group-title="Asia",Astro Oasis
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg" group-title="Asia", Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-logo-png-4.png" group-title="Asia",Astro Oasis
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18628
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-png-3.png" group-title="Asia",Astro Prima
+#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-png-3.png" group-title="Asia",Astro Prima
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18627
-#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Asia", Astro Ria
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Asia", Astro Ria
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18625
-#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Asia", Astro Warna
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Asia", Astro Warna
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18616
-#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Asia", Astro Ceria
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Asia", Astro Ceria
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18630
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/29535
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg" group-title="Asia", Drama Sangat
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -56,10 +56,10 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia", RCTI
+#EXTINF:-1, tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia", RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.okeinfo.net/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" group-title="Asia",GTV HD
+#EXTINF:-1, tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Asia", GTV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-sctv.jpg" group-title="Asia", SCTV
@@ -71,8 +71,19 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-trans7-png-1.png" group-title="Asia", Trans7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1, tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="Asia", Metro TV
+#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/metro-tv-png-5.png" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+
+
+
+
+#Islam TV#
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Al Haramain", Makkah al Mukarramah
+http://playlive.goonj.pk/makkahweb_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Al Haramain", Madinah al Munawwarah
+http://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Asia", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
@@ -87,58 +98,38 @@ http://210.210.155.35/session/5a80a878-8fa1-11ea-ab08-ac2c90e2389c/qwr9ew/s/s14/
 
 
 
-#Al Haramain#
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Al Haramain", Makkah al Mukarramah
-http://playlive.goonj.pk/makkahweb_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Al Haramain", Madinah al Munawwarah
-http://playlive.goonj.pk/madinaweb_480p/index.m3u8
-
-
-
-
-
 #News#
-#EXTINF:-1 ch-id="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", Al Jazeera
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News", Channel NewsAsia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 ch-id="RTM BES" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="News", Berita RTM
-https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-
-#EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC World News
 http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105397
 
-#EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News", Berita Satu
+#EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 ch-id="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 ch-id="RT" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News", RT
+#EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News", RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-
-#EXTINF:-1 ch-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News", France24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News", TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2014/10/Australia-channel-300x169.jpg" group-title="News", Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
-#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="News",Arirang
+#EXTINF:-1 logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="News",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="News",CGTN
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="News",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
 http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105456
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="" group-title="News",Sky News
+#EXTINF:-1 tvg-logo="" group-title="News",Sky News
 http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105457
 
 
@@ -174,12 +165,6 @@ http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105521
 
 #EXTINF:-1, tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary", Discovery Asia
 http://103.47.132.164/PLTV/88888888/224/3221227161/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Documentary", UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l2OoKhw.png" group-title="Documentary", Let's Build TV
-https://nimble.dashstreams.net/onestudio/letsbuildtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Documentary", Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -256,9 +241,6 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="beiN Sports HD US" tvg-logo="http://pici.life/us/beINSports.us.png" group-title="Sport",beiN Sports HD US
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/4902
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f3/3d/f9/f33df94871bd3bf81245f30d0c36a112.jpg" group-title="Sport",NBCSN
-http://34.120.130.236/live/nbc/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="skynet sport HD" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
@@ -274,17 +256,17 @@ http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18620
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Sport",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Sport",Sky Sport Bundesliga 1
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/620245
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD DE" tvg-logo="http://pici.life/DE/skysportbundesliga2.png" group-title="Sport",Sky Sport Bundesliga 2
+#EXTINF:-1 tvg-logo="http://pici.life/DE/skysportbundesliga2.png" group-title="Sport",Sky Sport Bundesliga 2
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/62223
 
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="http://pici.life/DE/skysport11hd.png" group-title="Sport",Sky Sport 1 DE
+#EXTINF:-1 tvg-logo="http://pici.life/DE/skysport11hd.png" group-title="Sport",Sky Sport 1 DE
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/9125
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://pici.life/skysport2hd_2.png" group-title="Sport",Sky Sport 2 FHD DE
+#EXTINF:-1 tvg-logo="http://pici.life/skysport2hd_2.png" group-title="Sport",Sky Sport 2 FHD DE
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/7362
 
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="Liverpool FC FHD UK" tvg-logo="http://pici.life/UK/liverpoolfctv.png" group-title="Sport",Liverpool FC FHD UK
+#EXTINF:-1 tvg-logo="http://pici.life/UK/liverpoolfctv.png" group-title="Sport",Liverpool FC FHD UK
 http://mytv.fun:8080/e3njgh3lwd/gcsiv18g3/656978
 
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
@@ -296,9 +278,6 @@ http://188.35.9.9:2012
 #EXTINF:-1, tvg-logo="https://apollo-frankfurt.akamaized.net/v1/files/nh438q9guwh32-KZ/image" group-title="Sport", Match Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 
-#EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="Sport", GolTV
-https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1, tvg-logo="http://www.nettv.live/uploads/18/1-1P423200320U1.jpg" group-title="Sport", NewTV Super Sports CN
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/200px-CCTV-5_Logo.png" group-title="Sport", CCTV 5 CN
@@ -306,18 +285,8 @@ http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/300px-CCTV-5%2B_Logo.png" group-title="Sport", CCTV 5+ CN
 http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iaspr.tmgrup.com.tr/2019/11/11/1573422564129.png" group-title="Sport", A Spor
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Sport", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="Sport", Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-
-
-
-
-
-
-
