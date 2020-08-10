@@ -118,6 +118,9 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
 http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105456
 
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/skynews.png",Sky News
+https://fvtv.mywire.org/playlist/aeukxvsxen-6zzdxf31bw.m3u8|Referer=https://www.youtube.com
+
 
 
 #Documentary#
