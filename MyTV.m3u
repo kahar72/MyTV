@@ -257,7 +257,6 @@ http://188.35.9.9:2012
 #EXTINF:-1, tvg-logo="https://apollo-frankfurt.akamaized.net/v1/files/nh438q9guwh32-KZ/image" group-title="Sport", Match Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/46-462953_red-bull-tv-logo-red-bull-tv-logo.png" group-title="Sport", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
