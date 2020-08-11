@@ -220,17 +220,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105492
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5716
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105493
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5715
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sport",BT Sports 3
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105494
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a95.png" group-title="Sport",Premier Sports 1
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105485
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1442.png" group-title="Sport",Premier Sports 2
-http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105486
-
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5714
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
@@ -284,3 +278,21 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport10/liveori
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport11/liveorigin/af-supersport11_480/chunks.m3u8
 #EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport12.png", SUPER SPORT 12
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport12/liveorigin/af-supersport12_480/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ZtuB3q4KWCpO8145y3chWfm2caxoeMZ6qmfApeNa_Fk4mzSHfRHqLBlxtTP39i5dJ9j-ComQ3gGr4g8Sa6bfSCcbsLHsjA" group-title="Sport", DAZN 1
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18392
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/HfC2wLh5oePrmmvtz_MXLkLQq4n1KzfNvx3Do5xjPwCQ73zn_ANRtn5uq_vo8KIBQ742CzN_WpNj0ohF0mHTT-jvTjkPOQ" group-title="Sport", DAZN 2
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18393
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sport", RMC Sport 1
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4086
+
+#EXTINF:-1 tvg-logo="" group-title="Sport", RMC Sport 2
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4085
+
+#EXTINF:-1 tvg-logo="" group-title="Sport", RMC Sport 3
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4084
