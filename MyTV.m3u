@@ -77,7 +77,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Islam TV", Madinah al Munawwarah
-http://playlive.goonj.pk/madinaweb_480p/index.m3u8
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/07/Live-Ahsan-TV-390x205.png" group-title="Islam TV", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
