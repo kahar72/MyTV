@@ -74,7 +74,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 
 #Islam TV#
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Islam TV", Makkah al Mukarramah
-http://playlive.goonj.pk/makkahweb_480p/index.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Islam TV", Madinah al Munawwarah
 http://playlive.goonj.pk/madinaweb_480p/index.m3u8
