@@ -43,6 +43,9 @@ http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18627
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/29535
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/1200px-Logo_of_the_TV_Alhijrah.svg.png" group-title="Asia", TV Alhijrah
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18554
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
