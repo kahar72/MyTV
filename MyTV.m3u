@@ -25,11 +25,20 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1, tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Asia", TV3
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/29594
 
+#EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/ntv7.png",NTV7
+https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/8tv.png",8TV
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.dailymotion.com
+
 #EXTINF:-1, tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Asia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest/scale-to-width-down/340?cb=20191016084737" group-title="Asia", Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
@@ -137,6 +146,9 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-natgeowild_720/playlist.
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary", National Geographic People
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-natgeopeopleeng_480/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/cgtndoc.png",CGTN Documentary
+https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary", History TV
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
