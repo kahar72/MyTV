@@ -71,14 +71,20 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-sctv.jpg" group-title="Asia", SCTV
 http://210.210.155.35/session/304879c0-7fbe-11ea-bb10-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
+#EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/kompas.png",Kompas TV
+https://fvtv.mywire.org/playlist/id/006.m3u8|Referer=https://www.vidio.com 
+
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans-tv-png.png" group-title="Asia", TransTV
-https://delivery.macan.live/stream/id_transtv/index.m3u8?token=macangratisan
+https://fvtv.mywire.org/playlist/id/010.m3u8|Referer=https://www.vidio.com
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans7-png.png" group-title="Asia", Trans7
-https://delivery.macan.live/stream/id_trans7/index.m3u8?token=macangratisan
+https://fvtv.mywire.org/playlist/id/009.m3u8|Referer=https://www.vidio.com
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1070878904859017216/Co7xyl8g_400x400.jpg" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/tvone.png",tVOne
+https://fvtv.mywire.org/playlist/id/020.m3u8|Referer=https://www.youtube.com
 
 
 
