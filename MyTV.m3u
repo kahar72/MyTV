@@ -144,6 +144,21 @@ https://fvtv.mywire.org/playlist/aeukxvsxen-6zzdxf31bw.m3u8|Referer=https://www.
 
 
 #Documentary#
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Documentary", Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary", Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Documentary", BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Documentary", Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://freeview.github.io/logos/cgtndoc.png",CGTN Documentary
+https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
+
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/national-geographic-png-3.png" group-title="Documentary", National Geographic
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-natgeo_720/playlist.m3u8
 
@@ -152,9 +167,6 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-natgeowild_720/playlist.
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary", National Geographic People
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-natgeopeopleeng_480/playlist.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://freeview.github.io/logos/cgtndoc.png",CGTN Documentary
-https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary", History TV
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
@@ -180,27 +192,45 @@ https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary", Discovery Asia
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Documentary", Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary", Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Documentary", BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Documentary", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-
 
 
 
 #Sports#
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Sport", Astro SuperSport 1
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18623
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Sport", Astro SuperSport 2
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18622
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="Sport", Astro SuperSport 3
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18621
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Sport", Astro SuperSport 4
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18620
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sport", beIN Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www4.mewatch.sg/about-mewatch/static/media/bein-max.db15df12.png" group-title="Sport", Bein Max MY
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18633
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein2_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sport",beIN Sports 3
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein3_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sport",beIN Sports 4
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein4_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein11_480/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-skysports-epl_720/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sport", Sky Sports Football
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-skysports-football_720/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-skysports-mainevent_720/playlist.m3u8
 
@@ -218,24 +248,6 @@ https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
-https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
-https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein2_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sport",beIN Sports 3
-https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein3_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sport",beIN Sports 4
-https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein4_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
-https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein11_480/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www4.mewatch.sg/about-mewatch/static/media/bein-max.db15df12.png" group-title="Sport", Bein Max MY
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18633
-
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sport", beIN Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sport",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sport",Fox Sports 2 Asia
@@ -252,18 +264,6 @@ http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5714
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Sport", Astro SuperSport 1
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18623
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Sport", Astro SuperSport 2
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18622
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="Sport", Astro SuperSport 3
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18621
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Sport", Astro SuperSport 4
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18620
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
 http://188.35.9.9:2010
