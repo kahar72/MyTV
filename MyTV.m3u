@@ -138,6 +138,9 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
 http://sab20.superstream.best:8080/WHMCSMAG:WHMCS:49752/tdBYi3IHPA/105456
 
+#EXTINF:-1 tvg-logo="" group-title="News",NBC News Now
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/skynews.png",Sky News
 https://fvtv.mywire.org/playlist/aeukxvsxen-6zzdxf31bw.m3u8|Referer=https://www.youtube.com
 
@@ -226,6 +229,15 @@ http://139.99.17.52:8081/liveorigin/hd-bein3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-bein4_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
 http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports.png" group-title="Sport",DIRECTV SPORTS
+http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65970
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports_2.png" group-title="Sport",DIRECTV SPORTS 2
+http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65968
+
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports_Plus.png" group-title="Sport",DIRECTV PLUS
+http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65969
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
 http://139.99.17.52:8081/liveorigin/uk-skysports-epl_720/playlist.m3u8
