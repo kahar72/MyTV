@@ -236,6 +236,11 @@ http://139.99.17.52:8081/liveorigin/uk-skysports-football_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
 http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_720/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sport",CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sport",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Sport", True Sport 2
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 
@@ -250,12 +255,18 @@ http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 5
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Sport",Fox Soccer Plus
+https://e10.julinewr.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sport",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sport",Fox Sports 2 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sport",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sport",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5716
@@ -280,45 +291,6 @@ http://188.191.36.106:8080/hls/nashfutbol.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport1.png", SUPER SPORT 1
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport1/liveorigin/af-supersport1_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport2.png", SUPER SPORT 2
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport2/liveorigin/af-supersport2_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport3.png", SUPER SPORT 3
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport3/liveorigin/af-supersport3_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport4.png", SUPER SPORT 4
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport4/liveorigin/af-supersport4_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport5.png", SUPER SPORT 5
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport5/liveorigin/af-supersport5_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport6.png", SUPER SPORT 6
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport6/liveorigin/af-supersport6_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport7.png", SUPER SPORT 7
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport7/liveorigin/af-supersport7_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport8.png", SUPER SPORT 8
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport8/liveorigin/af-supersport8_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport9.png", SUPER SPORT 9
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport9/liveorigin/af-supersport9_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport10.png", SUPER SPORT 10
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport10/liveorigin/af-supersport10_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport11.png", SUPER SPORT 11
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport11/liveorigin/af-supersport11_480/chunks.m3u8
-#EXTINF: -1 group-title = "Sport" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport12.png", SUPER SPORT 12
-https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport12/liveorigin/af-supersport12_480/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ZtuB3q4KWCpO8145y3chWfm2caxoeMZ6qmfApeNa_Fk4mzSHfRHqLBlxtTP39i5dJ9j-ComQ3gGr4g8Sa6bfSCcbsLHsjA" group-title="Sport", DAZN 1
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18392
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/HfC2wLh5oePrmmvtz_MXLkLQq4n1KzfNvx3Do5xjPwCQ73zn_ANRtn5uq_vo8KIBQ742CzN_WpNj0ohF0mHTT-jvTjkPOQ" group-title="Sport", DAZN 2
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18393
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Sport", RMC Sport 1
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4086
-
-#EXTINF:-1 tvg-logo="" group-title="Sport", RMC Sport 2
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4085
-
-#EXTINF:-1 tvg-logo="" group-title="Sport", RMC Sport 3
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4084
