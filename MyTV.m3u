@@ -43,17 +43,8 @@ https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest/scale-to-width-down/340?cb=20191016084737" group-title="Asia", Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
-#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-logo-png-4.png" group-title="Asia",Astro Oasis
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18628
-
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-png-3.png" group-title="Asia",Astro Prima
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18627
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/29535
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/1200px-Logo_of_the_TV_Alhijrah.svg.png" group-title="Asia", TV Alhijrah
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18554
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -96,6 +87,18 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Islam TV", Madinah al Munawwarah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwEnoit.png" group-title="Islam TV",TV Ikim
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-logo-png-4.png" group-title="Asia",Astro Oasis
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18628
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/29535
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/1200px-Logo_of_the_TV_Alhijrah.svg.png" group-title="Asia", TV Alhijrah
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18554
 
 #EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/07/Live-Ahsan-TV-390x205.png" group-title="Islam TV", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
@@ -149,6 +152,9 @@ https://fvtv.mywire.org/playlist/aeukxvsxen-6zzdxf31bw.m3u8|Referer=https://www.
 #Documentary#
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Documentary", Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary", Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
