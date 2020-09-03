@@ -2,19 +2,6 @@
 
 
 #Asia#
-#EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel5.jpg" group-title="Asia", Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Asia", Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://enacademic.com/pictures/enwiki/77/MediaCorp_Channel8.jpg" group-title="Asia", Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGOT_QAPwi0e3VsKTmMfxbt1P0SvzfhXAMlvCGNmodLo7VfFMU" group-title="Asia", Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
-
-
 
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Asia", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
@@ -63,30 +50,21 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 http://210.210.155.35/session/304879c0-7fbe-11ea-bb10-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/kompas.png",Kompas TV
-https://fvtv.mywire.org/playlist/id/006.m3u8|Referer=https://www.vidio.com 
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/62229
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans-tv-png.png" group-title="Asia", TransTV
-https://fvtv.mywire.org/playlist/id/010.m3u8|Referer=https://www.vidio.com
-
-#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans7-png.png" group-title="Asia", Trans7
-https://fvtv.mywire.org/playlist/id/009.m3u8|Referer=https://www.vidio.com
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1070878904859017216/Co7xyl8g_400x400.jpg" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://freeview.github.io/logos/tvone.png",tVOne
-https://fvtv.mywire.org/playlist/id/020.m3u8|Referer=https://www.youtube.com
-
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/62181
 
 
 
 
 #Islam TV#
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Islam TV", Makkah al Mukarramah
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="Islam TV", Madinah al Munawwarah
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwEnoit.png" group-title="Islam TV",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
