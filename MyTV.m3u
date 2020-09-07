@@ -199,7 +199,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www4.mewatch.sg/about-mewatch/static/media/bein-max.db15df12.png" group-title="Sport", Bein Max MY
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18633
+http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/18633
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 AIS Play
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -213,6 +213,16 @@ http://139.99.17.52:8081/liveorigin/hd-bein3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-bein4_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
 http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 1
+http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/4086
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 2
+http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/4085
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 3
+http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/4084
+
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports.png" group-title="Sport",DIRECTV SPORTS
 http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65970
