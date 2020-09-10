@@ -229,6 +229,9 @@ http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/33
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/40
 
+#EXTINF:-1 tvg-logo="" group-title="Sport",NBCSN
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8548
+
 #EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 1
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31277
 
@@ -303,11 +306,11 @@ http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8618
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
-http://188.35.9.9:2010
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/4927
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-2-1.png" group-title="Sport", Match Football 2
-http://188.35.9.9:2011
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/4928
 #EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/march-football-3.png" group-title="Sport", Match Football 3
-http://188.35.9.9:2012
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/4929
 #EXTINF:-1, tvg-logo="https://apollo-frankfurt.akamaized.net/v1/files/nh438q9guwh32-KZ/image" group-title="Sport", Match Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 
