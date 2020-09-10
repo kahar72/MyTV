@@ -218,22 +218,25 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 AIS Play
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/30
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sport",beIN Sports 3
-http://139.99.17.52:8081/liveorigin/hd-bein3_480/playlist.m3u8
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/32
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sport",beIN Sports 4
-http://139.99.17.52:8081/liveorigin/hd-bein4_480/playlist.m3u8
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/33
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
-http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/40
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 1
-http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/4086
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31277
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 2
-http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/4085
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31276
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",RMC Sport 3
-http://portal.geniptv.com:8080/Jt5CTojSmu/4IjSPH6a7b/4084
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31275
 
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/DirecTV_Sports.png" group-title="Sport",DIRECTV SPORTS
@@ -246,13 +249,13 @@ http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65968
 http://flowfhd.xyz:25461/IPTV31JF01SNCK/sdlpefeflrmdowp26f1r564f3/65969
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
-http://139.99.17.52:8081/liveorigin/uk-skysports-epl_720/playlist.m3u8
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8616
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sport", Sky Sports Football
-http://139.99.17.52:8081/liveorigin/uk-skysports-football_720/playlist.m3u8
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/54400
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
-http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_720/playlist.m3u8
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/54398
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="Sport",Now Sports
 http://teslagram.com/live/channel_630.m3u8
@@ -290,11 +293,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5716
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8620
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5715
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8619
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sport",BT Sports 3
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/5714
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8618
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
