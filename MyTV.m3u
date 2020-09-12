@@ -225,13 +225,6 @@ http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/40
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8548
 
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/luxembourg/logo/rmc_sport_1.png" group-title="Sport",RMC Sport 1
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31277
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/luxembourg/logo/rmc_sport_2.png" group-title="Sport",RMC Sport 2
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31276
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/luxembourg/logo/rmc_sport_3.png" group-title="Sport",RMC Sport 3
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/31275
-
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8616
@@ -239,10 +232,6 @@ http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8616
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/54400
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/54398
-
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="Sport",Now Sports
-http://teslagram.com/live/channel_630.m3u8
 
 
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sport",CCTV-5
@@ -278,9 +267,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sport",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sport",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8620
@@ -288,18 +274,6 @@ http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8620
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8619
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sport",BT Sports 3
 http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8618
-
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-1.png" group-title="Sport", Match Football 1
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/4927
-#EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/match-futbol-2-1.png" group-title="Sport", Match Football 2
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/4928
-#EXTINF:-1, tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/march-football-3.png" group-title="Sport", Match Football 3
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/4929
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/46-462953_red-bull-tv-logo-red-bull-tv-logo.png" group-title="Sport", Red Bull TV HD
