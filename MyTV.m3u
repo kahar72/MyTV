@@ -3,18 +3,6 @@
 
 #Asia#
 
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Asia", Channel 5
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/329
-
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Asia", Suria
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/334
-
-#EXTINF:-1, tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Asia", Channel 8
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/330
-
-#EXTINF:-1, tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Asia", Vasantham
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/335
-
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Asia", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
