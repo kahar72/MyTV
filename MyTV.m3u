@@ -53,6 +53,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
 https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Asia",Astro Prima
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -67,8 +70,10 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4
 #EXTINF:-1, tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Asia", GTV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-sctv.jpg" group-title="Asia", SCTV
-http://210.210.155.35/session/304879c0-7fbe-11ea-bb10-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Asia",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans-tv-png.png" group-title="Asia", TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
