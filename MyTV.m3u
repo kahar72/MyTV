@@ -250,3 +250,10 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="MPD" tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png" group-title="Sport",FOX SPORTS ID 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/633444293194092544/1JqcR4LE_200x200.png" group-title="Sport",SPOTV
+http://121.159.183.222:9981/stream/channelid/2065308481
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/633444293194092544/1JqcR4LE_200x200.png" group-title="Sport",SPOTV2
+http://121.159.183.222:9981/stream/channelid/2073395174
+
