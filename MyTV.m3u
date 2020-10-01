@@ -257,3 +257,10 @@ http://121.159.183.222:9981/stream/channelid/2065308481
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/633444293194092544/1JqcR4LE_200x200.png" group-title="Sport",SPOTV2
 http://121.159.183.222:9981/stream/channelid/2073395174
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://127.0.0.1:48996/play/Colors_HD/master.m3u8?hls=packagerx_mpd3
+#EXTINF:0 tvg-id="291" tvg-name="Sony HD" group-title="Entertainment;HD Channels" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" radio="false" catchup="default" catchup-source="plugin://plugin.video.jiotv/catchup/Sony_HD/{utc}" catchup-days="7",Sony HD
