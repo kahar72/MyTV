@@ -263,25 +263,28 @@ http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/54398
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.192.208.255
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 1
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport1.png" group-title="Sport",UNIFI SPORT 1
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 2
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport2.png" group-title="Sport",UNIFI SPORT 2
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 3
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport3.png" group-title="Sport",UNIFI SPORT 3
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 4
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport4.png" group-title="Sport",UNIFI SPORT 4
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 5
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport5.png" group-title="Sport",UNIFI SPORT 5
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
 
@@ -291,5 +294,34 @@ https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Mewatch Live 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26280234.mpd
+#EXTINF:-1 tvg-id="460" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sport",Star Sports Select 1 HD
+https://delta14tatasky.akamaized.net/out/i/16686.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26279556.mpd
+#EXTINF:-1 tvg-id="461" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sport",Star Sports Select 2 HD
+https://delta41tatasky.akamaized.net/out/i/2238883.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Sport",TRANS
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Sport",TRANS 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Sport",AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 
 
