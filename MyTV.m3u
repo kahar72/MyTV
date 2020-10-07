@@ -298,30 +298,3 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26280234.mpd
-#EXTINF:-1 tvg-id="460" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sport",Star Sports Select 1 HD
-https://delta14tatasky.akamaized.net/out/i/16686.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26279556.mpd
-#EXTINF:-1 tvg-id="461" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sport",Star Sports Select 2 HD
-https://delta41tatasky.akamaized.net/out/i/2238883.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Sport",TRANS
-https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Sport",TRANS 7
-https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Sport",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-
-
