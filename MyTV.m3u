@@ -256,6 +256,12 @@ http://159.69.66.114:8080/skysports6/mpegts
 http://159.69.66.114:8080/ukskysportmainevent2/mpegts
 
 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sport", Eleven Sport 1
+http://77.54.145.209:81/play/a00a
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sport", Eleven Sport 2
+http://77.54.145.209:81/play/a03d
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport1.png" group-title="Sport",UNIFI SPORT 1
