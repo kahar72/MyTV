@@ -84,7 +84,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #Islam TV#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Islam TV",Al Quran Al Kareem (Mecca)
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/337102.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/827832042482257920/KoMebnM_.jpg" group-title="Islam TV", SAUDI SUNNAH TV
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151538.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwEnoit.png" group-title="Islam TV",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
