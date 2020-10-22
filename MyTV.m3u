@@ -278,6 +278,9 @@ http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=32630d8bd6461c8eaabc079c45d1ac7dd5b7bf85e200b4efed77cbcbb7de4aae071a5ff6445aea241449cc1874827be7aae91e5c0cbbd7a05f244067479e0d5d
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport (2)
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
+
 
 
 #EXTINF:-1, tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DIGI SPORTS 1
