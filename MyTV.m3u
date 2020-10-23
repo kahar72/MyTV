@@ -200,8 +200,6 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238.ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sport",beIN Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sport",beIN Sports Xtra (2)
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv1.jpg" group-title="Sport",Sport TV 1
@@ -252,6 +250,12 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137.ts
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg" group-title="Sport", ZIGGO SPORTS VOETBAL
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11287.ts
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lREBK_sEBiA/Vk1EDjeb6hI/AAAAAAAAl_U/umw2gsX2DQU/s1600/Ziggo-Sport-logo-2015.png" group-title="Sport", ZIGGO SPORTS EXTRA 
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11288.ts
+
+
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 2
@@ -282,14 +286,19 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=32630d8bd6461c8eaa
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DIGI SPORTS 1
+
+#EXTINF:-1, tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport", DIGI SPORTS 1
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14910.ts
-#EXTINF:-1, tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DIGI SPORTS 2
+#EXTINF:-1, tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport", DIGI SPORTS 2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14909.ts
-#EXTINF:-1, tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DIGI SPORTS 3
+#EXTINF:-1, tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport", DIGI SPORTS 3
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14874.ts
-#EXTINF:-1, tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DIGI SPORTS 4
+#EXTINF:-1, tvg-logo="https://p1.hiclipart.com/preview/896/833/81/logo-blue-digi-sport-rcs-rds-electric-blue-png-clipart-thumbnail.jpg" group-title="Sport", DIGI SPORTS 4
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14872.ts
 
 
@@ -327,12 +336,6 @@ http://livegopanel.club:8080/peter/Peter/19171
 http://livegopanel.club:8080/peter/Peter/19172
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Sport", Astro SuperSport 4
 http://livegopanel.club:8080/peter/Peter/19173
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Mewatch Live 1
