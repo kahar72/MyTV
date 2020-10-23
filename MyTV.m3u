@@ -323,6 +323,12 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14874.ts
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14872.ts
 
 
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-1-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 1
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7247.ts
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-2-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 2
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7246.ts
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/633444293194092544/1JqcR4LE_200x200.png" group-title="Sport",SPOTV
 http://121.159.183.222:9981/stream/channelid/2065308481
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/633444293194092544/1JqcR4LE_200x200.png" group-title="Sport",SPOTV2
