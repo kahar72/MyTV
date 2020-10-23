@@ -257,6 +257,10 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920.ts
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2 (2)
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921.ts
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1 (3)
+http://159.69.66.114:8080/btsport1hd/mpegts
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2 (3)
+http://159.69.66.114:8080/btsport2hd/mpegts
 
 
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png" group-title="Sport", NBCSN
