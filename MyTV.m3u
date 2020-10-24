@@ -313,6 +313,11 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=32630d8bd6461c8eaa
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport (2)
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
 
+#EXTINF:-1 logo="http://polskafajna.eu:3129/imagecache/123" tvg-id="efa7a9ed96d535b3fbac3d458ebbc2a2" group-title="Sport",Canal+ Sport (3)
+http://roku:roku@polskafajna.eu:3129/stream/channelid/1839835119.mkv
+#EXTINF:-1 logo="http://polskafajna.eu:3129/imagecache/100" tvg-id="ef4bb35ec333dfd66e078f9c505c9bd3" group-title="Sport",Canal+ Sport 2
+http://roku:roku@polskafajna.eu:3129/stream/channelid/1588808687.mkv
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
@@ -378,5 +383,10 @@ https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png",Mewatch Live 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/888/829/png-clipart-espn-brasil-logo-espn-films-espn-inc-espn-brasil-logo.png" group-title="Sport", ESPN Brazil
+http://189.91.128.150:5555/udp/227.10.20.81:1234
+
 
 
