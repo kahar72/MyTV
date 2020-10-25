@@ -359,6 +359,16 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/logos/football/tours/spanish-laliga.png", Supersport LaLiga
+http://magco.rip/live/41246671289321/41604451921808/78991.m3u8
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/logos/football/tours/premier-league.png", Supersport Premier League
+http://magco.rip/live/41246671289321/41604451921808/78994.m3u8
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png", Supersport Football
+http://magco.rip/live/41246671289321/41604451921808/78999.m3u8
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/maximo-1.png", Supersport Maximo 1
+http://magco.rip/live/41246671289321/41604451921808/79004.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Sport",Fox Soccer Plus
 https://e10.habrox.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sport",Fox Sports 1 Asia
