@@ -203,9 +203,9 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
-http://dx4.gcdn.co/UKS1747/index.m3u8
+http://138.201.145.136:8080/live/MAXAPK/MAXAPK/205.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
-http://dx4.gcdn.co/UKS1748/index.m3u8
+http://138.201.145.136:8080/live/MAXAPK/MAXAPK/206.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 (2)
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 (2)
@@ -215,8 +215,10 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924.ts
 http://mytv.fun:8080/xz8jartnp/oh0p3z6h7/677819
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11 (2)
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11 (3)
-http://dx4.gcdn.co/UKS1757/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", beIN Sports US
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7866.ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sport",beIN Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
@@ -319,9 +321,13 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148453.ts
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148452.ts
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiMOtxKzLaGmvBUuZsNF2wWJCG7zsmQZ_lhA&usqp=CAU" group-title="Sport", SKY SPORT 1 DE
+http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67269
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiMOtxKzLaGmvBUuZsNF2wWJCG7zsmQZ_lhA&usqp=CAU" group-title="Sport", SKY SPORT 2 DE
+http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67497
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DAZN 1 BAR
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar2.png" group-title="Sport", DAZN 2 BAR
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
 
