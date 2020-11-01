@@ -203,17 +203,17 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
-http://138.201.145.136:8080/live/MAXAPK/MAXAPK/205.ts
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24697
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
-http://138.201.145.136:8080/live/MAXAPK/MAXAPK/206.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 (2)
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 (2)
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924.ts
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24696
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14980
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14982
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
-http://mytv.fun:8080/xz8jartnp/oh0p3z6h7/677819
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11 (2)
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/15000
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238.ts
 
 
@@ -418,3 +418,89 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
+
+
+#EXTINF:-1,beIN SPORTS 1 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24697
+#EXTINF:-1,beIN SPORTS 1 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22157
+#EXTINF:-1,beIN SPORTS 1 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14980
+#EXTINF:-1,beIN SPORTS 1 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14981
+#EXTINF:-1,beIN SPORTS 2 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24696
+#EXTINF:-1,beIN SPORTS 2 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22158
+#EXTINF:-1,beIN SPORTS 2 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14982
+#EXTINF:-1,beIN SPORTS 2 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14983
+#EXTINF:-1,beIN SPORTS 3 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24695
+#EXTINF:-1,beIN SPORTS 3 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22159
+#EXTINF:-1,beIN SPORTS 3 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14984
+#EXTINF:-1,beIN SPORTS 3 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14985
+#EXTINF:-1,beIN SPORTS 4 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24694
+#EXTINF:-1,beIN SPORTS 4 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22160
+#EXTINF:-1,beIN SPORTS 4 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14986
+#EXTINF:-1,beIN SPORTS 4 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14987
+#EXTINF:-1,bein SPORTS 5 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24693
+#EXTINF:-1,beIN SPORTS 5 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22161
+#EXTINF:-1,beIN SPORTS 5 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14988
+#EXTINF:-1,beIN SPORTS 5 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14989
+#EXTINF:-1,beIN SPORTS 6 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24692
+#EXTINF:-1,beIN SPORTS 6 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22162
+#EXTINF:-1,beIN SPORTS 6 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14990
+#EXTINF:-1,beIN SPORTS 6 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14991
+#EXTINF:-1,beIN SPORTS 7 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24691
+#EXTINF:-1,beIN SPORTS 7 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22163
+#EXTINF:-1,beIN SPORTS 7 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14992
+#EXTINF:-1,beIN SPORTS 7 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14993
+#EXTINF:-1,beIN SPORTS 8 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24690
+#EXTINF:-1,beIN SPORTS 8 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/18284
+#EXTINF:-1,beIN SPORTS 8 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14994
+#EXTINF:-1,beIN SPORTS 8 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14995
+#EXTINF:-1,beIN SPORTS 9 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24689
+#EXTINF:-1,beIN SPORTS 9 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/21515
+#EXTINF:-1,beIN SPORTS 9 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14996
+#EXTINF:-1,beIN SPORTS 9 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14997
+#EXTINF:-1,beIN SPORTS 10 4K QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24688
+#EXTINF:-1,beIN SPORTS 10 FHD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/21516
+#EXTINF:-1,beIN SPORTS 10 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14998
+#EXTINF:-1,beIN SPORTS 10 SD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14999
+#EXTINF:-1,beIN SPORTS 11 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/15000
+#EXTINF:-1,beIN SPORTS 12 HD QA
+http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/15001
