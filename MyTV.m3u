@@ -53,6 +53,11 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
 https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Asia",ALHIJRAH
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -430,5 +435,7 @@ http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/16970
 http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/4458
 #EXTINF:-1,Sky Sports Premier League UK
 http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14742
+
+
 
 
