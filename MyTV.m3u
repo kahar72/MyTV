@@ -232,6 +232,13 @@ http://iptvmedia.live:8080/test-5775d5/071a/225215
 http://iptvmedia.live:8080/test-5775d5/071a/193636
 
 
+#EXTINF:-1 group-title="Sport",NBCSN
+http://m3u.theragetv.com:25461/2929644873/1573971113/71271
+#EXTINF:-1 group-title="Sport",NBCSN
+http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DAZN 1 BAR
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar2.png" group-title="Sport", DAZN 2 BAR
@@ -317,6 +324,29 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 AIS Play
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sport",BeIN SPORT 1
+http://m3u.theragetv.com:25461/2929644873/1573971113/72245
+#EXTINF:-1 group-title="Sport",BeIN SPORT 2
+http://m3u.theragetv.com:25461/2929644873/1573971113/72246
+#EXTINF:-1 group-title="Sport",BeIN SPORT 11
+http://m3u.theragetv.com:25461/2929644873/1573971113/72255
+#EXTINF:-1 group-title="Sport",BeIN SPORT 11
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Sport",RMC SPORT1
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="Sport",RMC SPORT2
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="Sport",RMC SPORT3
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="Sport",DIGI SPORT1
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2523/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="Sport",DIGI SPORT2
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2522/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="Sport",DIGI SPORT3
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2524/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="Sport",DIGI SPORT4
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2538/index.m3u8
 
