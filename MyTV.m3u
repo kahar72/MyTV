@@ -275,15 +275,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110252?play_token=IYgywpzjqo
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
-http://iptvtree.net:8080/13354/27c12697/157556
+http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110253?play_token=E2utWwt17k
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110254?play_token=HWdXpTxNXP
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
-http://iptvtree.net:8080/13354/27c12697/157558
+http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110255?play_token=Ln1l8l670D
 
 
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/V6xWZTgY/zeebioskop.png" group-title="Sport", Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
