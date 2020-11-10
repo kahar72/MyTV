@@ -284,4 +284,7 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://iptvtree.net:8080/13354/27c12697/157558
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+#EXTINF:-1 tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png" group-title="Sport", FOX SPORTS HD
+http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
