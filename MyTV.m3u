@@ -285,10 +285,5 @@ http://iptvtree.net:8080/13354/27c12697/157558
 
 
 
-"name": "FOX SPORTS 3 HD",
-        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
-        
-        
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/V6xWZTgY/zeebioskop.png" group-title="Sport", Zee Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
