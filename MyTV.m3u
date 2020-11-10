@@ -76,7 +76,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1070878904859017216/Co7xyl8g_400x400.jpg" group-title="Asia", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_.m3u8 
 
 
 
@@ -284,7 +284,11 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://iptvtree.net:8080/13354/27c12697/157558
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-#EXTINF:-1 tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png" group-title="Sport", FOX SPORTS HD
-http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
+
+"name": "FOX SPORTS 3 HD",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
+        
+        
