@@ -53,11 +53,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="Asia", Astro Naura
 https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Asia",ALHIJRAH
-http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
-
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -78,7 +73,7 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="Asia", Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1070878904859017216/Co7xyl8g_400x400.jpg" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -87,12 +82,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 
 
 #Islam TV#
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Islam TV",Al Quran Al Kareem (Mecca)
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/337102.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/827832042482257920/KoMebnM_.jpg" group-title="Islam TV", SAUDI SUNNAH TV
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151538.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwEnoit.png" group-title="Islam TV",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
@@ -207,24 +196,6 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 AIS Play
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24697
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24696
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14980
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14982
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/15000
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports11.qa.png" group-title="Sport",beIN Sports 11
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238.ts
-
-
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sport",beIN Sports Xtra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv1.jpg" group-title="Sport",Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -236,30 +207,10 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sport", Sky Sports EPL
-http://159.69.66.114:8080/skysports5/mpegts
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sport", Sky Sports Football
-http://159.69.66.114:8080/skysports6/mpegts
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sport", Sky Sports Main Event
-http://159.69.66.114:8080/ukskysportmainevent2/mpegts
-
-
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sport",BT Sports 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sport",BT Sports 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png" group-title="Sport", NBCSN
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137.ts
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181109/eeu/kisspng-logo-of-nbc-nbc-sports-nbcsn-5be5a842af6853.1115912215417774747185.jpg" group-title="Sport", NBC SPORTS NETWORK
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg" group-title="Sport", ZIGGO SPORTS VOETBAL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11287.ts
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lREBK_sEBiA/Vk1EDjeb6hI/AAAAAAAAl_U/umw2gsX2DQU/s1600/Ziggo-Sport-logo-2015.png" group-title="Sport", ZIGGO SPORTS EXTRA 
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11288.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -279,20 +230,6 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=d2f67eb91b3818c1ee8931a5b
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/eleven-sports-4.png" ,Eleven Sports 4
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
 
-#EXTINF:-1 ,Sky Sports 1
-http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67269
-#EXTINF:-1 ,Sky Sports 2
-http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67271
-#EXTINF:-1 ,DAZN 1
-http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67272
-#EXTINF:-1 ,DAZN 2
-http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67273
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiMOtxKzLaGmvBUuZsNF2wWJCG7zsmQZ_lhA&usqp=CAU" group-title="Sport", SKY SPORT 1 DE
-http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67269
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiMOtxKzLaGmvBUuZsNF2wWJCG7zsmQZ_lhA&usqp=CAU" group-title="Sport", SKY SPORT 2 DE
-http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/67497
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DAZN 1 BAR
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
@@ -301,9 +238,6 @@ http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=32630d8bd6461c8eaabc079c45d1ac7dd5b7bf85e200b4efed77cbcbb7de4aae071a5ff6445aea241449cc1874827be7aae91e5c0cbbd7a05f244067479e0d5d
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
-
 #EXTINF:-1 logo="http://polskafajna.eu:3129/imagecache/123" tvg-id="efa7a9ed96d535b3fbac3d458ebbc2a2" group-title="Sport",Canal+ Sport
 http://roku:roku@polskafajna.eu:3129/stream/channelid/1839835119.mkv
 #EXTINF:-1 logo="http://polskafajna.eu:3129/imagecache/100" tvg-id="ef4bb35ec333dfd66e078f9c505c9bd3" group-title="Sport",Canal+ Sport 2
@@ -332,8 +266,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Sport",Fox Soccer Plus
-https://e10.habrox.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sport",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sport",Fox Sports 2 Asia
@@ -350,92 +282,6 @@ http://iptvtree.net:8080/13354/27c12697/157556
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
 http://iptvtree.net:8080/13354/27c12697/157558
-
-
-
-
-
-#EXTINF:-1,beIN SPORTS 1 4K QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24697
-#EXTINF:-1,beIN SPORTS 1 FHD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22157
-#EXTINF:-1,beIN SPORTS 1 HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14980
-
-#EXTINF:-1,beIN SPORTS 2 4K QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24696
-#EXTINF:-1,beIN SPORTS 2 FHD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22158
-#EXTINF:-1,beIN SPORTS 2 HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14982
-
-#EXTINF:-1,beIN SPORTS 3 4K QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24695
-#EXTINF:-1,beIN SPORTS 3 FHD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22159
-#EXTINF:-1,beIN SPORTS 3 HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14984
-
-#EXTINF:-1,beIN SPORTS 4 4K QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/24694
-#EXTINF:-1,beIN SPORTS 4 FHD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/22160
-#EXTINF:-1,beIN SPORTS 4 HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14986
-
-#EXTINF:-1,beIN SPORTS 11 HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/15000
-#EXTINF:-1,beIN SPORTS 12 HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/15001
-
-#EXTINF:-1,beIN SPORTS MAX MY
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/27937
-#EXTINF:-1,beIN SPORTS HD MY
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/27938
-#EXTINF:-1,beIN SPORTS HD QA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/29604
-#EXTINF:-1,beIN LaLiga HD US
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/32747
-
-#EXTINF:-1,beIN SPORTS 1 HD AU
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/33648
-#EXTINF:-1,beIN SPORTS 2 HD AU
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/33649
-#EXTINF:-1,beIN SPORTS 3 HD AU
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/33650
-#EXTINF:-1,beIN SPORTS Canada HD CA
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/51290
-
-
-#EXTINF:-1,BT Sport 1 FHD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14657
-#EXTINF:-1,BT Sport 1 HD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/1991
-#EXTINF:-1,BT Sport 1 UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/3586
-#EXTINF:-1,BT Sport 2 FHD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14658
-#EXTINF:-1,BT Sport 2 HD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/1992
-#EXTINF:-1,BT Sport 2 UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/3588
-
-
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/5600
-#EXTINF:-1,Sky Sports Main Event UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14753
-
-#EXTINF:-1,Sky Sports Football HD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/20024
-#EXTINF:-1,Sky Sports Football FHD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/16970
-
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/4458
-#EXTINF:-1,Sky Sports Premier League UK
-http://cloudcdn.tk:80/cVyFK2o2406/3mV6wc8271/14742
-
 
 
 
