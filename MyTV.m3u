@@ -62,7 +62,7 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -133,7 +133,7 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/national-geographic-png-3.png" group-title="Documentary", National Geographic
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7899.ts
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -156,46 +156,17 @@ http://159.69.66.114:8080/ukh2/mpegts
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_1000.stream/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail.jpg" group-title="Documentary", DISCOVERY SCIENCE
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21104.ts
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://pbs.twimg.com/profile_images/913105665991745536/BawDfdMd_400x400.jpg",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="https://mpng.subpng.com/20180519/wvt/kisspng-diy-network-television-channel-food-network-logo-5b00ea89cb7f71.9313397515267866978335.jpg" group-title="Documentary", DIY NETWORK
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7864.ts
-
-#EXTINF:-1, tvg-logo="https://img2.pngio.com/travel-channel-logo-png-picture-752204-travel-channel-logo-png-travel-channel-png-2400_2400.png" group-title="Documentary", TRAVEL CHANNEL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/59255.ts
-
-#EXTINF:-1, tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/12/FYI_Logo.jpg" group-title="Documentary", FYI
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5023.ts
-
-#EXTINF:-1, tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Documentary", TRAVEL XP
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21032.ts
-
 
 
 
 #Sports#
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
-http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110252?play_token=IYgywpzjqo
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
 http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
-http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110253?play_token=E2utWwt17k
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
 http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
-http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110254?play_token=HWdXpTxNXP
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
 http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
-http://iptv-line.com:7899/AH1SAqlMbV/IwUTdaX402/110255?play_token=Ln1l8l670D
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
 http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
 
