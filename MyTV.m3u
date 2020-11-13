@@ -59,7 +59,7 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia", TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Asia", RCTI
 https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8
@@ -83,8 +83,8 @@ https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_.m3u8
 
 #Islam TV#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwEnoit.png" group-title="Islam TV",TV Ikim
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Islam TV",AlHijra TV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55472
 
 #EXTINF:-1, tvg-logo="https://ahsan.tv/wp-content/uploads/2017/07/Live-Ahsan-TV-390x205.png" group-title="Islam TV", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
@@ -174,40 +174,23 @@ http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",UK Sky Sports EPL
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",UK Sky Sports EPL
-http://iptvmedia.live:8080/test-5775d5/071a/145796
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
-http://iptvmedia.live:8080/test-5775d5/071a/37180
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",UK Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",UK Sky Sports Football
-http://iptvmedia.live:8080/test-5775d5/071a/145799
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
-http://iptvmedia.live:8080/test-5775d5/071a/15131
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
-http://iptvmedia.live:8080/test-5775d5/071a/15132
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",UK BT Sport Extra 1
 http://160.119.77.116:8081/iptv/uk-btsportextra1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",UK BT Sport Extra 1
-http://iptvmedia.live:8080/test-5775d5/071a/225215
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",UK BT Sport Extra 2
 http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",UK BT Sport Extra 2
-http://iptvmedia.live:8080/test-5775d5/071a/193636
-
 
 
 #EXTINF:-1 group-title="Sport",NBCSN
-http://m3u.theragetv.com:25461/2929644873/1573971113/71271
-#EXTINF:-1 group-title="Sport",NBCSN
-http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
-
+http://iptv-line.com:7899/8hEPUVk43e/RGQdWf25M7/17200
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -216,8 +199,6 @@ http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",beIN Sports 1
-http://m3u.theragetv.com:25461/2929644873/1573971113/72245
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -225,11 +206,7 @@ http://m3u.theragetv.com:25461/2929644873/1573971113/72245
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",beIN Sports 2
-http://m3u.theragetv.com:25461/2929644873/1573971113/72246
 
-#EXTINF:-1 group-title="Sport",beIN Sports 11
-http://m3u.theragetv.com:25461/2929644873/1573971113/72255
 #EXTINF:-1 group-title="Sport",beIN Sports 11
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8
 
@@ -280,12 +257,6 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sport",Premier Sports 1
-http://iptvmedia.live:8080/test-5775d5/071a/4722
-#EXTINF:-1 group-title="Sport",Premier Sports 2
-http://iptvmedia.live:8080/test-5775d5/071a/4723
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 2
@@ -316,4 +287,41 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/72028a28fe
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/8bf3a35e924bc91.ts|User-Agent=1m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Setanta Sports 1
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Sport", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 group-title="Sport",beIN Sports XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",FOX SPORT 1
+https://cloud-service.best/hplus.php?play&id=3681
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport",FOX SPORT 2
+https://cloud-service.best/hplus.php?play&id=3781
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="Sport",Fox Sport 3
+https://cloud-service.best/hplus.php?play&id=87672
+
+
+#EXTINF:-1 group-title="Sport",polsatsportpremium1
+http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
+#EXTINF:-1 group-title="Sport",polsatsportpremium2
+http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
