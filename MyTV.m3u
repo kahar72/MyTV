@@ -218,11 +218,9 @@ http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport
-http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=32630d8bd6461c8eaabc079c45d1ac7dd5b7bf85e200b4efed77cbcbb7de4aae071a5ff6445aea241449cc1874827be7aae91e5c0cbbd7a05f244067479e0d5d
-#EXTINF:-1 logo="http://polskafajna.eu:3129/imagecache/123" tvg-id="efa7a9ed96d535b3fbac3d458ebbc2a2" group-title="Sport",Canal+ Sport
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="Sport",Canal+ Sport
 http://roku:roku@polskafajna.eu:3129/stream/channelid/1839835119.mkv
-#EXTINF:-1 logo="http://polskafajna.eu:3129/imagecache/100" tvg-id="ef4bb35ec333dfd66e078f9c505c9bd3" group-title="Sport",Canal+ Sport 2
+#EXTINF:-1 logo="https://www.dstvafrica.com/media/4737/canalplus-sport-2.png" group-title="Sport",Canal+ Sport 2
 http://roku:roku@polskafajna.eu:3129/stream/channelid/1588808687.mkv
 
 
@@ -277,39 +275,39 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=d2f67eb91b3818c1ee8931a5b
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 
-#EXTINF:-1,ZIGGO VOETBAL
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a286.png" group-title="Sport",ZIGGO VOETBAL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/146c4d50236212a.ts|User-Agent=1m3u8
-#EXTINF:-1,ZIGGO SELECT
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a285.png" group-title="Sport",ZIGGO SELECT
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/79e6236019d4ca8.ts|User-Agent=1m3u8
-#EXTINF:-1,ZIGGO EXTRA 1
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a289.png" group-title="Sport",ZIGGO EXTRA 1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/72028a28fec5668.ts|User-Agent=1m3u8
-#EXTINF:-1,ZIGGO EXTRA 2
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a290.png" group-title="Sport",ZIGGO EXTRA 2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/8bf3a35e924bc91.ts|User-Agent=1m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Setanta Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport",Setanta Sports 1
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Setanta Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport",Setanta Sports 2
 http://92.43.140.200/s82/04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 1
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport",Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 2
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport",Sport TV 2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 3
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport",Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 4
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport",Sport TV 4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Sport",Sport TV 5
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Sport", Redbull TV
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 group-title="Sport",beIN Sports XTRA
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport",beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
@@ -321,7 +319,7 @@ https://cloud-service.best/hplus.php?play&id=3781
 https://cloud-service.best/hplus.php?play&id=87672
 
 
-#EXTINF:-1 group-title="Sport",polsatsportpremium1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/POLSAT_SPORT_PREMIUM_1_SUPER_HD.jpg" group-title="Sport",Polsat Sport Premium 1
 http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
-#EXTINF:-1 group-title="Sport",polsatsportpremium2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/POLSAT_SPORT_PREMIUM_2_SUPER_HD.jpg" group-title="Sport",Polsat Sport Premium 2
 http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
