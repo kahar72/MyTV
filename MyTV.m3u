@@ -76,13 +76,16 @@ https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans-tv-png.png" group-title="Asia", TransTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="Asia", Trans7
 http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1070878904859017216/Co7xyl8g_400x400.jpg" group-title="Asia", Metro TV
 https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Asia",GTV 
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 
 
@@ -320,8 +323,8 @@ http://160.119.77.116:8081/iptv/uk-btsportextra1.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sport",NBCSN
-http://iptv-line.com:7899/8hEPUVk43e/RGQdWf25M7/17200
+#EXTINF:-1 group-title="Sport" tvg-logo="http://ustvgo.tv/wp-content/uploads/2019/01/nbcsn-269x151.jpg",NBCSN
+http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -464,6 +467,1075 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 
 #EXTINF:-1 group-title="Sport",SKY SPORTS AUSTRIA DE
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/920103a8ec87bcd.ts|User-Agent=1m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####### VOD MOVIES ##########
+
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/39.jpg" group-title="VOD MOVIE ALL",JOKER (2018)
+https://www.googleapis.com/drive/v3/files/1hSy4C4GNuXzkTSoynyU3rp0Tx5qoDGB9?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/331.jpg" group-title="VOD MOVIE ALL",SAMSON (2018)
+https://www.googleapis.com/drive/v3/files/1f3ye8vZoAXrnnUGcE9DAfUqBkj-CnhHG?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/612.jpg" group-title="VOD MOVIE ALL",INSIDIOUS
+https://www.googleapis.com/drive/v3/files/1rnwJUIWqcUxy9DHmRMhbgy8hjXsnQbqc?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/611.jpg" group-title="VOD MOVIE ALL",pan (2015)
+https://www.googleapis.com/drive/v3/files/1PWXauS3Ses6JxfSawlu2ZF9GWkAMnorV?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/610.jpg" group-title="VOD MOVIE ALL",whiplash (2014)
+http://srv28.nf21.net/360p/15-2019-02-15-dd28f5aee119c3b284e4e2466d59ccbf.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/608.jpg" group-title="VOD MOVIE ALL",NIGHT AT THE MUSEUM: SECRET OF THE TOMB (2014)
+https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/607.jpg" group-title="VOD MOVIE ALL",BILAL: A NEW BREED OF HERO (2014)
+https://www.googleapis.com/drive/v3/files/1L0YuM9zIgI3kaXbb38zbwZK7zBaEUb90?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/594.jpg" group-title="VOD MOVIE ALL",DADDY'S HOME (2014)
+https://www.googleapis.com/drive/v3/files/1nIuBPu9EBz--pp1wYC0zCWHfdFYX4N3h?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/593.jpg" group-title="VOD MOVIE ALL",VICTOR FRANKENSTEIN (2015)
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/592.jpg" group-title="VOD MOVIE ALL",RETURN OF XANDER CAGE (2017)
+http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/591.jpg" group-title="VOD MOVIE ALL",MORTAL ENGINES (2018)
+https://www.googleapis.com/drive/v3/files/1BK75mxpQP8zsCtTaXiY5XVR86eMZXJkg?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/590.jpg" group-title="VOD MOVIE ALL",FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD (2018)
+https://www.googleapis.com/drive/v3/files/1ueBcd30nR8F9-5SXRHw0_ieiuXM2ljXe?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/589.jpg" group-title="VOD MOVIE ALL",GREEN BOOK (2018)
+https://www.googleapis.com/drive/v3/files/1YPWoh4F4RmC-NHqLeFIM4bF5xHXqWgmH?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/588.jpg" group-title="VOD MOVIE ALL",MARY POPPINS RETURNS (2018)
+http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/587.jpg" group-title="VOD MOVIE ALL",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/586.jpg" group-title="VOD MOVIE ALL",BIG HERO (2014)
+https://bitball.b-cdn.net/movies/03-03-2020/03-09-2020/Big.Hero.6.2014.1080p.UHD.BluRay.x264.DD5.1-Pahe.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/585.jpg" group-title="VOD MOVIE ALL",RALPH BREAKS THE INTERNET (2018)
+http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/574.jpg" group-title="VOD MOVIE ALL",AQUAMAN (2018)
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/573.jpg" group-title="VOD MOVIE ALL",vice (2018)
+https://www.googleapis.com/drive/v3/files/1uPZCKy8Hz9l4kHNq9l3_N3ZQdIe4p4eI?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/572.jpg" group-title="VOD MOVIE ALL",RACETIME (2019)
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/565.jpg" group-title="VOD MOVIE ALL",GLASS (2019
+https://www.googleapis.com/drive/v3/files/1P_xeIp-mIH1-BleYpEr-xpsh0JReP_nd?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/552.jpg" group-title="VOD MOVIE ALL",HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD (2019)
+http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/551.jpg" group-title="VOD MOVIE ALL",DESTROYER (2018)
+https://www.googleapis.com/drive/v3/files/1tgXoVweA7jhzD8MBUhErVQLWquVcsjZF?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="VOD MOVIE ALL",DRAGON BALL SUPER: BROLY (2019)
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/546.jpg" group-title="VOD MOVIE ALL",BLACK PANTHER (2018)
+https://www.googleapis.com/drive/v3/files/1NOZeW1n_jLzl7H1f4HznCJDWI2O2ihZF?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/545.jpg" group-title="VOD MOVIE ALL",TAKEN 3 (2015)
+http://srv42.nf21.net/files/19-2020-07-09-8ade51002df9b68fe4348b8b6bf3c262.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/544.jpg" group-title="VOD MOVIE ALL",RESIDENT EVIL: VENDETTA (2017)
+https://www.googleapis.com/drive/v3/files/1SuRDH856ujsMR2j8FvxU_0bjSr4CS15t?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/543.jpg" group-title="VOD MOVIE ALL",THE PRODIGY (2019)
+https://www.googleapis.com/drive/v3/files/1IdHm083twks8-Hx4tmZp27rocbZ41Pq4?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/531.jpg" group-title="VOD MOVIE ALL",CRAZY RICH ASIANS (2018)
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/530.jpg" group-title="VOD MOVIE ALL",ESCAPE ROOM (2019)
+https://www.googleapis.com/drive/v3/files/1a-leJQXD6yUhiiLfYRr2_UuANAspb0CL?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/529.jpg" group-title="VOD MOVIE ALL",BEN-HUR (2016)
+https://www.googleapis.com/drive/v3/files/1bgIyDLi5pVUduTLuaGVYcNDb3AKHdaEw?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/527.jpg" group-title="VOD MOVIE ALL",THE MAGNIFICENT SEVEN (2016)
+http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/523.jpg" group-title="VOD MOVIE ALL",BABY DRIVER (2017)
+https://www.googleapis.com/drive/v3/files/1VRGxjEy2o8T2JnUUdaAP8p1k-Vao6Yyr?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/522.jpg" group-title="VOD MOVIE ALL",RIDE ALONG 2 (2016)
+https://www.googleapis.com/drive/v3/files/1dyDqEa1c6dhRVZOsLl9JII4EYPFE9Yxt?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/521.jpg" group-title="VOD MOVIE ALL",FENCES (2016)
+https://www.googleapis.com/drive/v3/files/1UTZuGUAT9PXkLQWvp4BuVYEmJi805EPf?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/505.jpg" group-title="VOD MOVIE ALL",FINDING DORY (2016)
+https://www.googleapis.com/drive/v3/files/12Ne-XldGjsyfJgnwxy6F4B34C7z9CWYV?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/504.jpg" group-title="VOD MOVIE ALL",ROGUE ONE: A STAR WARS STORY (2016)
+https://www.googleapis.com/drive/v3/files/1PWGUA_NJVCa7fP8C-NVEob9avtco1Psu?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/503.jpg" group-title="VOD MOVIE ALL",MULAN (2020)
+https://www.googleapis.com/drive/v3/files/1Q_1c7FQ_Wfu1-Tzzt8z7Y0ivMR5gPqtO?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/500.jpg" group-title="VOD MOVIE ALL",SOUTHPAW (2015)
+https://www.googleapis.com/drive/v3/files/1UAaF_cQerSsxnWqlL4r09knQ54dvqZTY?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/499.jpg" group-title="VOD MOVIE ALL",BILL & TED FACE THE MUSIC (2020)
+https://www.googleapis.com/drive/v3/files/1Phhy0rjSt3XCtLSh0y8N0wyfDogbNbhN?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/498.jpg" group-title="VOD MOVIE ALL",UNBROKEN  (2014)
+https://www.googleapis.com/drive/v3/files/138ULN0bJjVURpAFY28LEcnYSbtM3ivtD?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/497.jpg" group-title="VOD MOVIE ALL",SULLY (2016)
+https://www.googleapis.com/drive/v3/files/1CMlsBsbTOgvQLKrxhMH7pmpL2jiiQfKI?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/496.jpg" group-title="VOD MOVIE ALL",ZOOLANDER 2 (2016)
+https://www.googleapis.com/drive/v3/files/1TOHqJvRvFRdbPj4bZC8VqnsqHDP4ry7x?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/495.jpg" group-title="VOD MOVIE ALL",ME BEFORE YOU (2016)
+https://www.googleapis.com/drive/v3/files/1u0Hko0l_B9IsSBUHX9AYNoYveiHEsdkb?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/494.jpg" group-title="VOD MOVIE ALL",THE SHALLOWS (2016)
+https://www.googleapis.com/drive/v3/files/1wM9kM4gL7lHsdMR_dAf1CrM3JWqu1ihV?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/483.jpg" group-title="VOD MOVIE ALL",WAR DOGS (2016)
+https://www.googleapis.com/drive/v3/files/1EKSFMRjZTk7EIinSorKUVdyY49QlimHe?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/481.jpg" group-title="VOD MOVIE ALL",BLAIR WITCH (2016)
+https://www.googleapis.com/drive/v3/files/10-DL5QPnbvxI0lB-LQOSTVzkjpovbijv?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/480.jpg" group-title="VOD MOVIE ALL",PATRIOTS DAY (2017)
+https://www.googleapis.com/drive/v3/files/13A_5w-z5jQJMyXYqdW-UTLLHbsyZaN5W?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/479.jpg" group-title="VOD MOVIE ALL",SUICIDE SQUAD (2016)
+https://www.googleapis.com/drive/v3/files/1kBxH8WpDTKiU1JBoJsT3ISnomp6-DcIa?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg" group-title="VOD MOVIE ALL",THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg" group-title="VOD MOVIE ALL",CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/475.jpg" group-title="VOD MOVIE ALL",COLD PURSUIT (2019)
+https://www.googleapis.com/drive/v3/files/1B6TuCgDMlJrhZG7IchzWkOwSJvn_oAoM?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg" group-title="VOD MOVIE ALL",MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/462.jpg" group-title="VOD MOVIE ALL",HOTEL MUMBAI (2019)
+https://www.googleapis.com/drive/v3/files/1zjA2HtHFux9g2YFDzK_KmNZu4D2dD7DW?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg" group-title="VOD MOVIE ALL",CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD MOVIE ALL",COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD MOVIE ALL",MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg" group-title="VOD MOVIE ALL",THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/457.jpg" group-title="VOD MOVIE ALL",DUMBO (2019)
+https://www.googleapis.com/drive/v3/files/1tW8h5pZMNJZM3cNQnVgaSJMMlVeyjvGD?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD MOVIE ALL",US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http:////185.238.0.145:1313/uploads/video_thumb/455.jpg" group-title="VOD MOVIE ALL",LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg" group-title="VOD MOVIE ALL",THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg" group-title="VOD MOVIE ALL",THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="VOD MOVIE ALL",THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="VOD MOVIE ALL",MOANA (2016)
+https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD MOVIE ALL",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD MOVIE ALL",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/436.jpg" group-title="VOD MOVIE ALL",THE AGE OF ADALINE (2015)
+https://www.googleapis.com/drive/v3/files/1O8NJfbfDG_FbzAq9qzDj9RiIm8SVxnJO?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/435.jpg" group-title="VOD MOVIE ALL",KINGSMAN: THE SECRET SERVICE (2015)
+https://www.googleapis.com/drive/v3/files/1w9w-2Hmlu_SDumVUzfeOGJWjn4PTHqMa?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg" group-title="VOD MOVIE ALL",A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/433.jpg" group-title="VOD MOVIE ALL",THE BEST OF ENEMIES (2019)
+https://www.googleapis.com/drive/v3/files/1o5I0eTT-oGvywvSzTVzeU2Of1-lcrIrk?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/432.jpg" group-title="VOD MOVIE ALL",ARRIVAL (2016)
+https://www.googleapis.com/drive/v3/files/17AN04HLod-Zr4F8MRzuHbp5BEooqGe55?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg" group-title="VOD MOVIE ALL",KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg" group-title="VOD MOVIE ALL",shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg" group-title="VOD MOVIE ALL",AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/428.jpg" group-title="VOD MOVIE ALL",THE MUMMY (2017)
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/425.jpg" group-title="VOD MOVIE ALL",THE WATER DIVINER (2014)
+https://www.googleapis.com/drive/v3/files/1iBsQ5yLpEo6PycFz9CAONmBhuY5RjmMm?alt=media&key=AIzaSyBCE4gSg4gNZ2_86fz-LjZv-FrwNMbFHBE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/424.jpg" group-title="VOD MOVIE ALL",PENINSULA (2020)
+https://www.googleapis.com/drive/v3/files/15XS2hVAkqzvpyWFumbEaEaY3mvqxmXtI?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/411.jpg" group-title="VOD MOVIE ALL",SILENCE (2017)
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/410.jpg" group-title="VOD MOVIE ALL",RISEN (2016)
+https://www.googleapis.com/drive/v3/files/1m95jF58a1MGOzJUN8yE4YRYOIRiuQI-a?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/409.jpg" group-title="VOD MOVIE ALL",STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://www.googleapis.com/drive/v3/files/1Itw7BPmhV5qHge_HCa3aRl2X7magQraR?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/407.jpg" group-title="VOD MOVIE ALL",THE SHACK (2017)
+https://www.googleapis.com/drive/v3/files/1_uwkPJlY8WbGHVdpywctfOTqq0q5MQhc?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/406.jpg" group-title="VOD MOVIE ALL",12 STRONG (2018)
+https://www.googleapis.com/drive/v3/files/1LNRVj7vNywMoWQTkd493xlPTno3rAJCr?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg" group-title="VOD MOVIE ALL",THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg" group-title="VOD MOVIE ALL",CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/475.jpg" group-title="VOD MOVIE ALL",COLD PURSUIT (2019)
+https://www.googleapis.com/drive/v3/files/1B6TuCgDMlJrhZG7IchzWkOwSJvn_oAoM?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg" group-title="VOD MOVIE ALL",MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg" group-title="VOD MOVIE ALL",CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD MOVIE ALL",COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD MOVIE ALL",MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg" group-title="VOD MOVIE ALL",THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/457.jpg" group-title="VOD MOVIE ALL",DUMBO (2019)
+https://www.googleapis.com/drive/v3/files/1tW8h5pZMNJZM3cNQnVgaSJMMlVeyjvGD?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="VOD MOVIE ALL",US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/455.jpg" group-title="VOD MOVIE ALL",LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg" group-title="VOD MOVIE ALL",THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg" group-title="VOD MOVIE ALL",THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="VOD MOVIE ALL",THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="VOD MOVIE ALL",MOANA (2016)
+https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD MOVIE ALL",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="VOD MOVIE ALL",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/436.jpg" group-title="VOD MOVIE ALL",THE AGE OF ADALINE (2015)
+https://www.googleapis.com/drive/v3/files/1O8NJfbfDG_FbzAq9qzDj9RiIm8SVxnJO?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/435.jpg" group-title="VOD MOVIE ALL",KINGSMAN: THE SECRET SERVICE (2015)
+https://www.googleapis.com/drive/v3/files/1w9w-2Hmlu_SDumVUzfeOGJWjn4PTHqMa?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg" group-title="VOD MOVIE ALL",A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/433.jpg" group-title="VOD MOVIE ALL",THE BEST OF ENEMIES (2019)
+https://www.googleapis.com/drive/v3/files/1o5I0eTT-oGvywvSzTVzeU2Of1-lcrIrk?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/432.jpg" group-title="VOD MOVIE ALL",ARRIVAL (2016)
+https://www.googleapis.com/drive/v3/files/17AN04HLod-Zr4F8MRzuHbp5BEooqGe55?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg" group-title="VOD MOVIE ALL",KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg" group-title="VOD MOVIE ALL",shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg" group-title="VOD MOVIE ALL",AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/428.jpg" group-title="VOD MOVIE ALL",THE MUMMY (2017)
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/425.jpg" group-title="VOD MOVIE ALL",THE WATER DIVINER (2014)
+https://www.googleapis.com/drive/v3/files/1iBsQ5yLpEo6PycFz9CAONmBhuY5RjmMm?alt=media&key=AIzaSyBCE4gSg4gNZ2_86fz-LjZv-FrwNMbFHBE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/424.jpg" group-title="VOD MOVIE ALL",PENINSULA (2020)
+https://www.googleapis.com/drive/v3/files/15XS2hVAkqzvpyWFumbEaEaY3mvqxmXtI?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/411.jpg" group-title="VOD MOVIE ALL",SILENCE (2017)
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/410.jpg" group-title="VOD MOVIE ALL",RISEN (2016)
+https://www.googleapis.com/drive/v3/files/1m95jF58a1MGOzJUN8yE4YRYOIRiuQI-a?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/409.jpg" group-title="VOD MOVIE ALL",STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://www.googleapis.com/drive/v3/files/1Itw7BPmhV5qHge_HCa3aRl2X7magQraR?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/407.jpg" group-title="VOD MOVIE ALL",THE SHACK (2017)
+https://www.googleapis.com/drive/v3/files/1_uwkPJlY8WbGHVdpywctfOTqq0q5MQhc?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/619.jpg" group-title="VOD MOVIE ALL",GOOSEBUMPS 2: HAUNTED HALLOWEEN (2018)
+https://www.googleapis.com/drive/v3/files/1y3HEZYWANDAENkmfc2fyY34uf5h4_cXt?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/622.jpg" group-title="VOD MOVIE ALL",A-X-L (2018)
+https://www.googleapis.com/drive/v3/files/1pXHOMlBDEWv_HKjwYTauoFUvyd81QFmM?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/374.jpg" group-title="VOD MOVIE ALL",KONG: SKULL ISLAND (2017)
+https://www.googleapis.com/drive/v3/files/1QUGUyO31LdS82esdNejiZJCCk4YpDuXj?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/194.jpg" group-title="VOD MOVIE ALL",DUNKIRK (2017)
+https://www.googleapis.com/drive/v3/files/1KdRSx6GMPgSoRe6jJR9WU0t4ZFeUsET6?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/193.jpg" group-title="VOD MOVIE ALL",FIRST MAN (2018)
+https://www.googleapis.com/drive/v3/files/14rZeVp6V_k1jsUs5YCfh69nDLud1le0b?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/49.jpg" group-title="VOD MOVIE ALL",JUSTICE LEAGUE DARK: APOKOLIPS WAR (2020)
+https://www.googleapis.com/drive/v3/files/1WWJCIZqPKmrDTcrQuoUcjcuMVP-MZEX7?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/50.jpg" group-title="VOD MOVIE ALL",EXTRACTION (2020)
+https://www.googleapis.com/drive/v3/files/1EKH3FAOHQ5cxxHBsRqJXGUayZCv-UALz?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/6.jpg" group-title="VOD MOVIE ALL",EMMA (2020)
+https://www.googleapis.com/drive/v3/files/1qEt5nb2vX20H3sEyLxqefOpaPf6l7MB6?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+
+
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Runners (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-26-2020/The.Runners.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",TEKKEN (2010)
+https://bitball.b-cdn.net/movies/2020-07/07-26-2020/Tekken.2010.720p.BluRay.x264.AAC-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Fearless Hyena 2 (1983)
+https://bitball.b-cdn.net/movies/2020-07/07-20-2020/Fearless.Hyena.2.1983.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Outpost (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/The.Outpost.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Old Guard (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Greyhound (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Disturbing the Peace (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Disturbing.The.Peace.2020.720p.WEBRip.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Spy Intervention (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Spy.Intervention.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Heavenquest: A Pilgrim’s Progress (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Heavenquest.A.Pilgrim\'s.Progress.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Final Kill (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Final.Kill.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Wishmas Tree (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/The.Wishmas.Tree.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Tanhaji: The Unsung Warrior (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Tanhaji.The.Unsung.Warrior.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Top Gunner (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-30-2020/Top.Gunner.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Punching and Stealing (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/Punching.And.Stealing.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Psy 3: W imi? zasad (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-26-2020/Psy.3.W.Imie.Zasad.2020.720p.BluRay.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Lost Bullet (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-26-2020/Lost.Bullet.2020.720p.WEBRip.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Fast and Fierce: Death Race (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/Fast.And.Fierce.Death.Race.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Devil’s Night: Dawn of the Nain Rouge (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/Devils.Night.Dawn.Of.The.Nain.Rouge.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Tainted (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-21-2020/Tainted.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Force of Nature (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-19-2020/Force.of.Nature.2020.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Da 5 Bloods (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-15-2020/Da.5.Bloods.2020.720p.NF.WEB-DL.x264.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Last Days of American Crime (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-10-2020/The.Last.Days.of.American.Crime.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Sniper: Assassin’s End (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-10-2020/Sniper.Assassins.End.2020.BluRay.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Becky (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-09-2020/Becky.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Ancestral World (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-07-2020/Ancestral.World.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Rev (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Rev.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Debt Collectors (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Debt.Collectors.2020.PROPER.720p.WEBRip.x264-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Code of Thieves (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Code.Of.Thieves.2020.720p.WEBRip.x264-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Survive the Night (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-25-2020/Survive.The.Night.2020.720p.WEBRip.x264-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Malang (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-18-2020/Malang.2020.WEB-DL.480p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Dragon Soldiers (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-15-2020/Dragon.Soldiers.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Legion (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-15-2020/The.Legion.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",'Walkaway Joe (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-13-2020/Walkaway.Joe.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Justice League Dark: Apokolips War (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-06-2020/Justice.League.Dark.Apokolips.War.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Suraya (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-05-2020/Suraya.2020.HD.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Agent Jade Black (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-04-2020/Agent.Jade.Black.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",A Perfect Plan (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-04-2020/A.Perfect.Plan.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Enter the Fat Dragon (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-03-2020/Enter.the.Fat.Dragon.2020.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Baaghi 3 (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-03-2020/Baaghi.3.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Enemy Lines (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Enemy.Lines.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Extraction (2020)
+https://bitball.se/movies/APRIL/04-26-2020/Extraction.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Earth and Blood (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Earth.and.Blood.2020.WEB-DL.480p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Scorpion’s Revenge (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Mortal.Kombat.Legends.Scorpions.Revenge.2020.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",My Spy (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-12-2020/My.Spy.2020.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Rhythm Section (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-10-2020/The.Rhythm.Section.2020.WEB-DL.480p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Underwater (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Underwater.2020.HDRip.720p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Bad Boys for Life (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Bad.Boys.for.Life.2020.HDRip.720p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Bloodshot (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Hunt (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Hunt.2020.WEBRip.x264-ION10.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Man Standing Next (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/The.Man.Standing.Next.2020.720p.HDRip.H264.AAC-NonDRM.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Hitman: Agent Jun (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/Hitman.Agent.Jun.2020.1080p.FHDRip.H264.AAC-NonDRM.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Mr. Zoo: The Missing VIP (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-12-2020/Mr.Zoo.The.Missing.VIP.HDRip.720p.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",spenser confidential (2020)
+https://bitball.b-cdn.net/movies/03-01-2020/Spenser.Confidential.2020.WEBRip.x264-ION10.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Arena of the Street Fighter (2012)
+https://bitball.se/movies/APRIL/04-06-2020/Urban.Fighter.2012.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Sonic the Hedgehog (2020) 1080p TrueHD Atmos 5.1
+https://bitball.b-cdn.net/movies/2020-05/05-06-2020/Sonic%20The%20Hedgehog%202020%201080p%20BluRay%20x264%20DD5.1-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Birds of Prey (2020)
+https://bitball.b-cdn.net/movies/03-01-2020/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Superman: Red Son (2020)
+https://bitball.b-cdn.net/movies/03-01-2020/Superman.Red.Son.2020.WEB-DL.720p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Guns Akimbo (2019)
+https://bitball.b-cdn.net/movies/03-01-2020/Guns.Akimbo.2019.720p.WEB-HD.x264.850MB-Pahe.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Dolittle (2020)
+https://bitball.b-cdn.net/movies/02-08-2020/Dolittle.2020.HDRip.x264-STUTTERSHIT.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Mercenary (2019)
+https://bitball.b-cdn.net/movies/01-18-2020/The.Mercenary.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Elvis from Outer Space (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Elvis.From.Outer.Space.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Nathan’s Kingdom (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-07-2020/Nathan\'s.Kingdom.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Timmy Failure: Mistakes Were Made (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Timmy.Failure.Mistakes.Were.Made.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Spy Intervention (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Spy.Intervention.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Heavenquest: A Pilgrim’s Progress (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Heavenquest.A.Pilgrim\'s.Progress.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",The Adventures of Açela (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Adventures.Of.Acela.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Wendy (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Wendy.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Agent Toby Barks (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Agent.Toby.Barks.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Gold Dust (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Gold.Dust.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",The Magic Kids: Three Unlikely Heroes (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/The.Magic.Kids.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",We Bare Bears: The Movie (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-14-2020/We.Bare.Bears.The.Movie.2020.WEB-DL.480p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Artemis Fowl (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-15-2020/Artemis.Fowl.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Adventures of Rufus: The Fantastic Pet (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Adventures.Of.Rufus.The.Fantastic.Pet.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Chinese Ghost Story: Human Love (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-25-2020/Chinese.Ghost.Story.Human.Love.2020.720p.WEB-DL.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Scoob! (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-17-2020/Scoob.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",The Call of the Wild (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/The.Call.Of.The.Wild.2020.WEBRip.x264-ION10.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Onward (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-25-2020/Onward.2020.720p.WEB-DL.DD5.1.H264-FGT.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Maid (2020)
+https://bitball.b-cdn.net/movies/2020-08/08-02-2020/The.Maid.2020.720p.NF.WEB-DL.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Vibration (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Vibration.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Rental (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/The.Rental.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Murder Death Koreatown (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Murder.Death.Koreatown.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Don’t Let Them In (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Dont.Let.Them.In.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Amulet (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Amulet.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Spirits in the Dark (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-16-2020/Spirits.In.The.Dark.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Unsubscribe (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Unsubscribe.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Subferatu (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Subferatu.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Dead Voices (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Dead.Voices.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Fat Ass Zombies (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/American.Zombieland.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Relic (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Relic.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Choke (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Choke.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Bone Breaker (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Bone.Breaker.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Alien Outbreak (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Alien.Outbreak.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Don’t Speak (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Silent.Place.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",I Am Fear (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/I.Am.Fear.2020.720p.BluRay.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Clown Fear (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Clown.Fear.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Jonestown Haunting (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Jonestown.Haunting.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Haunting of Alcatraz (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Haunting.Of.Alcatraz.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Reawakened (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/Reawakened.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.pngg" group-title="VOD MOVIE HORROR",Possessor (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/Possessor.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Source of Shadows (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/The.Source.Of.Shadows.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Penance Lane (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Penance.Lane.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Dead by Dawn (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Dead.By.Dawn.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",An English Haunting (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/An.English.Haunting.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Hunter’s Moon (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Hunters.Moon.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Bulbbul (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Bulbbul.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Days of Violence (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-29-2020/Days.Of.Violence.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Clearing (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/The.Clearing.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Candy Witch (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/The.Candy.Witch.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Her Name Was Christa (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-25-2020/Her.Name.Was.Christa.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",A Nun’s Curse (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/A.Nuns.Curse.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Bhoot: Part One – The Haunted Ship (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-01-2020/Bhoot.Part.One.The.Haunted.Ship.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",X-TRA ABSURD (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/X-tra.Absurd.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",The One
+http://srv36.nf21.net/files/15-2020-06-01-4435fb82d4a8747e71bffb2847fc8dcd.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Are We in Love? (2020)
+http://srv33.nf21.net/files/15-2020-05-30-1fe64e22cfd23e4c3c1a0cbb982b4c83.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Chinese Ghost Story 3: The Enchanting Phantom (2020)
+http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Reborn
+http://srv30.nf21.net/files/11-2018-12-25-8bbff1bc38c625aaf74804dbdfb73fe7.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Running Man
+http://srv32.nf21.net/files/15-2020-04-25-945da31d92d773f1ceea59cdc7549368.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Long Long Time Ago 2
+https://yi.jingdianzuida.com/20191030/02bdBfzl/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Scoob! (2020)
+http://srv32.nf21.net/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Skyscraper (2018)
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Mission Impossible: Fallout (2018)
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",The Meg (2018)
+http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Jurassic World: Fallen Kingdom (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Jumanji: Welcome To The Jungle (2017)
+http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Tomb Raider (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Runner
+https://bitball.b-cdn.net/movies/2020-08/08-02-2020/The.Maid.2020.720p.NF.WEB-DL.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Dil Bechara (2020)
+https://bitball.b-cdn.net/movies/2020-08/08-01-2020/Dil.Bechara.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Turnt (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Turnt.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Theatre: A Love Story (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Theater.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Big Ugly (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/The.Big.Ugly.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Never Too Late (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Never.Too.Late.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Buffaloed (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-27-2020/Buffaloed.2019.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",First Cow (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-26-2020/First.Cow.2019.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Military Wives (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-23-2020/Military.Wives.2019.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Spirits in the Dark (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-16-2020/Spirits.In.The.Dark.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Measure for Measure (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-15-2020/Measure.For.Measure.2019.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Outpost (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/The.Outpost.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png"    group-title="VOD MOVIE DRAMA",Lady Driver (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Lady.Driver.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Open Season (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Jagdzeit.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Hamilton (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Hamilton.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",To the Beat! Back 2 School (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/To.The.Beat!.Back.2.School.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Windermere Children (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/The.Windermere.Children.2020.720p.BluRay.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Redemption (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Redemption.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Pemburu di Manchester Biru (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Pemburu.di.Manchester.Biru.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Dark Side of Opulent (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Dark.Side.Of.Opulent.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Aerialist (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Aerialist.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",For the Love of Jessee (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/For.The.Love.Of.Jessee.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Viena and the Fantomes (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Viena.And.The.Fantomes.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Roads Not Taken (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/The.Roads.Not.Taken.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Rich in Love (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Rich.In.Love.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Murder RX (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Murder.RX.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Finding Grace (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Finding.Grace.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",What Love Looks Like (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/What.Love.Looks.Like.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Photograph (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/The.Photograph.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Hater (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/The.Hater.2020.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Tanhaji: The Unsung Warrior (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Tanhaji.The.Unsung.Warrior.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Rising High (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Rising.High.2020.720p.NF.WEB-DL-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Misbehaviour (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Misbehaviour.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Becoming (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Becoming.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Arkansas (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Arkansas.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Temptation of Christ (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/40.The.Temptation.Of.Christ.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Nikah Yuk! (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Nikah.Yuk.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",TemanTapiMenikah 2 (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/TemanTapiMenikah.2.2020.1080p.NF.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Classic Again (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Classic.Again.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Chintu Ka Birthday (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Chintu.Ka.Birthday.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",American Woman (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/American.Woman.2019.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Adú (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Adu.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Nobody Knows I’m Here (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-29-2020/Nobody.Knows.Im.Here.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", BEGIN AGAIN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/11990/19084/2c9c55d7-93e9-4604-8f6c-c366e9b555ba/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", CLOUD ATLAS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/dd6cfe49-53c0-455f-bc4c-bd7e8b09c7e6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", IMAGINAERUM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d-3005cb4e04ec/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", PREDESTINATION
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", ESCAPE PLAN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e27947a8-4d65-4693-b485-903b69d674e4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", THE IMPOSSIBLE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/82ac8bc6-5179-4ceb-b9a2-06e0c360aad6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUNYI(2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || POCONG THE ORIGIN (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || PUSAKA (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROY KIYOSHI : THE UNTOLD STORY (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DANUR 3 : SUNYARURI (2019)
+https://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROH FASIK (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || MATA BATIN 2 (2019)
+https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SEKTE (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || REVA : GUNA GUNA (2019)
+https://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RASUK (2018)
+https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BISISKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEMBANG KANTIL (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || JAGA POCONG (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BAYI GAIB (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUZANNA : BURIED A LIVE (2018)
+https://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SESAT (2018)
+https://bitball.b-cdn.net/movies/indonesia/sesat.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BISIKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/indonesia/bisikaniblis.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ARWAH TUMBAL NYAI (2018)
+https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || GASING TENGKORAK (2017)
+https://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RUMAH MALAIKAT (2016)
+https://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KAKAK (2015)
+https://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DANAU HITAM (2014)
+https://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || MALL KLENDER (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DRAKULA CINTA (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SARANG HANTU JAKARTA (2014)
+https://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KAFAN SUNDEL BOLONG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BANGKITNYA SISTER GEPENG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RUMAH BEKAS KUBURAN (2012)
+https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ADA APA DENGAN POCONG (2011)
+https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || POCONG JUGA POCONG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEPELET KUNITLANAK (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KALUNG JELANGKUNG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || 13 CARA MEMANGGIL SETAN (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Prodigy (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-29-2020/The.Prodigy.2019.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Riki-Oh: The Story of Ricky (1991)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Riki-Oh.The.Story.of.Ricky.1991.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Cold Prey II (2008)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Fritt.Vilt.2.2008.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", My Soul to Take (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Hannibal (2001)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Hannibal.2001.REMASTERED.720p.BluRay.x264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Dark (2018)
+https://bitball.se/movies/APRIL/04-26-2020/The.Dark.2018.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Polaroid (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/Polaroid.2019.720p.BluRay.x264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", A Girl Walks Home Alone at Night (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/A.Girl.Walks.Home.Alone.at.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Shallows (2016)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/The.Shallows.2016.720p.UHD.BluRay.x264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Killer Sofa (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Killer.Sofa.2019.BluRay.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Flatliners (1990)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Flatliners.1990.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Blade II (2002)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.II.2002.BluRay.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Blade (1998)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.1998.BluRay.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Perfection (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/The.Perfection.2018.480p.NF.WEB-DL.x264.300MB-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Zoo (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Den (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Salò -  or the 120 Days of Sodom (1975)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Poker Night (2014)
+https://bitball.se/movies/APRIL/04-22-2020/Poker.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Await Further Instructions (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Await.Further.Instructions.2018.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Us (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/us.2019.480p.bluray.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Funny Games (1997)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/Funny.Games.1997.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Another (2012)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/ANOTHER.2012.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", 12 Feet Deep (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/12.Feet.Deep.2017.720p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Ginger Snaps (2000)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Evil Angel (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Evil.Angel.2009.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Near Dark (1987)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Near.Dark.1987.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Mutant Girls Squad (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Mutant.Girls.Squad.2010.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Leprechaun Returns (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Leprechaun.Returns.2018.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Isabelle (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Isabelle.2019.480p.WEB-HD.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Tokyo Slaves (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tokyo.Slaves.2014.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Innocents (1961)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/The.Innocents.1961.REMASTERED.480p.BluRay.X264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Antichrist (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/Antichrist.2009.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Book of Monsters (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Silent House (2011)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Silent.House.2011.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Piranha (1978)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Piranha.1978.Remastered.720p.BluRay.x26.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Horns (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-08-2020/Horns.2013.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Inhuman Kiss (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-06-2020/Inhuman.Kiss.2019.480p.NF.WEB-DL.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Granny of the Dead (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-03-2020/Granny.of.the.Dead.2017.480p.WEB-HD.x264.300MB-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Vampire Hunter D: Bloodlust (2000)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/Vampire.Hunter.D.Bloodlust.2000.480p.BluRay.x264.300MB-Pahe.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Deception of the Novelist (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-02-2020/Deception.Of.The.Novelist.2019.720p.BluRay.X264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Satu Suro (2019)
+https://bitball.se/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", MatiAnak (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Makmum (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Makmum.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Sekte (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Sekte.2019.WEB-HD.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Reuni Z (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-16-2020/Reuni.Z.2018.720p.WEB-DL.AAC2.0.H.264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Tembang Lingsir (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tembang.Lingsir.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Reva: Guna Guna (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-12-2020/Reva.Guna.Guna.2019.WEBRip.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Serpent and the Rainbow (1988)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Serpent.And.The.Rainbow.1988.REMASTERED.720p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Clinic (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Clinic.2010.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Munafik 2 (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
 
 
 
