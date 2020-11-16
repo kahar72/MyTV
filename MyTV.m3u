@@ -322,6 +322,11 @@ http://skylogic.site:8080/live/13319/d3238650/11511.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png" group-title="Entertainment",SONY MOVIES
 http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/4708.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png" group-title="Entertainment",SONY MAX
+http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+
 
 
 #Sports#
