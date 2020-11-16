@@ -47,6 +47,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1, tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Asia", TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_300.png" group-title="Asia", TV Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
 #EXTINF:-1, tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Asia", Astro Awani
 https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 
@@ -69,25 +72,14 @@ http://iptvtree.net:8080/test-2dbbab/a422/157489?play_token=REDmK6xBe2
 http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/157492.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Asia", ASTRO RIA
-http://iptv-line.com:7899/blqfOOashL/qv41XdVN6B/110155
-
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asia", ASTRO CITRA
-http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/110270?token=GRdRWUpbQV9BVVxRUVpSBQMAXFcLBVdXBgdSAAJUCQYABwBeW1EGXVARFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIAVlNbVFAWTRoSW1pWQwlSUgIAVwADWwUNFBtDCgFBCRpUVlJQVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIAUQ9EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFYFUQlETw==
+http://iptvtree.net:8080/Line1051/f4fffd47/158347?play_token=2CRjfTjUfg
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asia", ASTRO PRIMA
 http://skylogic.site:8080/live/82a28920/ce46da4c/157467.ts
 
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Asia", ASTRO RANIA
-http://skylogic.site:8080/live/13319/d3238650/171984.ts
-
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Asia", ASTRO AURA
-http://skylogic.site:8080/live/13319/d3238650/171986.ts
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="Asia", TAYANGAN HEBAT
 http://skylogic.site:8080/live/13319/d3238650/195647.ts
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXRBjBGR/400x400.png" group-title="Asia", ASTRO BOO
-http://iptvtree.net:8080/test-2dbbab/a422/171958?play_token=CxU10pLCGY
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -319,28 +311,17 @@ http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/82603.ts
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/422751_preview.png" group-title="Entertainment",STAR MOVIES
 http://skylogic.site:8080/live/13319/d3238650/11511.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png" group-title="Entertainment",SONY MOVIES
-http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/4708.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png" group-title="Entertainment",BOLLYONE
+http://bestbuyiptv.link:7899/live/aRyEseFdeE/79IYPkPu69/1102.ts
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png" group-title="Entertainment",SONY MAX
-http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" group-title="Entertainment",Star Movies Select
+http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175
+
+
 
 
 
 #Sports#
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
-
-
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",UK Sky Sports EPL
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
@@ -505,6 +486,15 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/920103a8ec87bcd.ts|User-Agent=1m3u8
 
 
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
 
 
 
