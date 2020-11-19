@@ -145,6 +145,10 @@ http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
 #EXTINF:-1, tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="Islam TV", Rodja TV
 http://210.210.155.35/session/5a80a878-8fa1-11ea-ab08-ac2c90e2389c/qwr9ew/s/s14/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+
 
 
 
