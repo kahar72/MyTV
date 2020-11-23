@@ -67,7 +67,7 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Malaysia",AWANI
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Asia",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
