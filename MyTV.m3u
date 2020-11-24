@@ -178,6 +178,17 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby
 
+#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="News",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="News",EuroNews
+https://exodiver.github.io/IPTV/M3U8/Token/EuroNews.m3u8
+
+#EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+
+
 
 
 
@@ -414,27 +425,8 @@ http://roku:roku@polskafajna.eu:3129/stream/channelid/1839835119.mkv
 http://roku:roku@polskafajna.eu:3129/stream/channelid/1588808687.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Sport",RMC SPORT1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="Sport",RMC SPORT2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="Sport",RMC SPORT3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="Sport",DIGI SPORT1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2523/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="Sport",DIGI SPORT2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2522/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="Sport",DIGI SPORT3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2524/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="Sport",DIGI SPORT4
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2538/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar1.png" group-title="Sport", DAZN 1 BAR
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/daznbar2.png" group-title="Sport", DAZN 2 BAR
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
+#EXTINF:-1 tvg-logo="https://url.gratis/57nu2" group-title="Sport",ESPN Brasil FHD
+http://esrv.cc:80/7oecel/u0H9Tl/31820
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -443,12 +435,6 @@ http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 3
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKvuxrbteol_TZ02mQZOVQJRyZ1OXDFr9nLQ&usqp=CAU" group-title="Sport", Adjara Sports 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/elevensport-1.png" ,Eleven Sports 1
@@ -465,20 +451,21 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=d2f67eb91b3818c1ee8931a5b
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a286.png" group-title="Sport",ZIGGO VOETBAL
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/146c4d50236212a.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a285.png" group-title="Sport",ZIGGO SELECT
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/79e6236019d4ca8.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a289.png" group-title="Sport",ZIGGO EXTRA 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/72028a28fec5668.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a290.png" group-title="Sport",ZIGGO EXTRA 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Netherland/8bf3a35e924bc91.ts|User-Agent=1m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport",Setanta Sports 1
 http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport",Setanta Sports 2
 http://92.43.140.200/s82/04.m3u8
+
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
+#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
+http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport",Sport TV 1
@@ -493,8 +480,6 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
@@ -511,22 +496,14 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 
 
-#EXTINF:-1 group-title="Sport",SKY SPORTS AUSTRIA DE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/920103a8ec87bcd.ts|User-Agent=1m3u8
 
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110253
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110254
-#EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
-http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110255
+#EXTINF:-1 tvg-id="LDC.ES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Sukan",Liga de Campeones
+http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
