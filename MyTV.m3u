@@ -131,6 +131,12 @@ https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Asia",GTV 
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1  tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="Asia",TVKU
+http://103.30.1.14:8080/hls/live.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="Asia",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:hlscat.com
+
 
 
 
@@ -457,7 +463,6 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 http://92.43.140.200/s82/04.m3u8
 
 
-
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
 http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110252
 #EXTINF:-1 group-title="Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
@@ -478,8 +483,6 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
@@ -504,6 +507,9 @@ http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSa9fl-nOWNZBc9bM-VonjqUwprdieefThl5oBnSDJaEDQFHJem",Movistar Deportes
+http://54.39.51.30:25461/live/Javier/cjzcjz5392/12656.ts
 
 
 
