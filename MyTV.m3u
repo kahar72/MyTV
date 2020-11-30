@@ -70,10 +70,8 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Asia",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",HELLO
-https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/71088
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -83,13 +81,13 @@ https://github.com/exodiver/IPTV/raw/master/M3U8/Token/DramaSangat.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Asia",NAURA
-https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+http://skylogic.site:8080/live/test-dd2f8f/5f27/157490.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Asia", ASTRO CERIA
 http://iptvtree.net:8080/test-2dbbab/a422/157481?play_token=vFGjhoZIdL
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Asia", ASTRO OASIS
-http://iptvtree.net:8080/test-2dbbab/a422/157489?play_token=REDmK6xBe2
+http://iptvtree.net:8080/live/14709/873066f7/157489.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia", ASTRO WARNA
 http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/157492.ts
@@ -98,10 +96,11 @@ http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/157492.ts
 http://iptvtree.net:8080/Line1051/f4fffd47/158347?play_token=2CRjfTjUfg
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asia", ASTRO PRIMA
-http://skylogic.site:8080/live/82a28920/ce46da4c/157467.ts
+http://m3ulink.com:7899/live/ojeanorson1/5IeqcUFF/110156.ts
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="Asia", TAYANGAN HEBAT
-http://skylogic.site:8080/live/13319/d3238650/195647.ts
+#EXTINF:-1, tvg-logo="" group-title="Asia",ASTRO Box Office Tayangan Hebat
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/71147
+
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
@@ -479,6 +478,10 @@ http://54.39.51.30:25461/live/Javier/cjzcjz5392/12656.ts
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sport",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
 
 
 
