@@ -221,7 +221,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-name="Discovry ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Documentary",Discovry ASIA HD
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
@@ -305,7 +305,7 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="Entertainment",KBS WORLD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -386,9 +386,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sport",beIN Sports 11
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport",beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
@@ -448,6 +445,16 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
+http://newhostshare.ddns.net:9981/stream/service/6c7cadd7615014a39488bba1af1af7fe?ticket=f221GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi53
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
+http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/POLSAT_SPORT_PREMIUM_1_SUPER_HD.jpg" group-title="Sport",Polsat Sport Premium 1
 http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/POLSAT_SPORT_PREMIUM_2_SUPER_HD.jpg" group-title="Sport",Polsat Sport Premium 2
@@ -478,29 +485,6 @@ http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sport",Star Sports 2 HD
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sport",SKYNET SPORT1
-https://rebrand.ly/2020/Skynetsport1-playlist_m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sport",SKYNET SPORT2
-https://rebrand.ly/2020/Skynetsport2-playlist_m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sport",SKYNET SPORT3
-https://rebrand.ly/2020/Skynetsport3-playlist_m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sport",SKYNET SPORT4
-https://rebrand.ly/2020/Skynetsport4-playlist_m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sport",SKYNET SPORT5
-https://rebrand.ly/2020/Skynetsport5-playlist_m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport",SKYNET SPORT6
-https://rebrand.ly/2020/Skynetsport6-playlist_m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
-http://newhostshare.ddns.net:9981/stream/service/6c7cadd7615014a39488bba1af1af7fe?ticket=f221GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi53
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
-http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
 
 
 
