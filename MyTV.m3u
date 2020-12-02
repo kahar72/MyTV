@@ -222,11 +222,11 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
-https://cloud-service.best/hplus.php?play&id=83481
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png" group-title="Documentary",HISTORY2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="Documentary",Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
@@ -350,19 +350,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:-1 tvg-id=".ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zing.png" group-title="Entertainment",ZING
 https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png" group-title="Entertainment",HBO
-http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/82603.ts
-
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/422751_preview.png" group-title="Entertainment",STAR MOVIES
-http://skylogic.site:8080/live/13319/d3238650/11511.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png" group-title="Entertainment",BOLLYONE
-http://bestbuyiptv.link:7899/live/aRyEseFdeE/79IYPkPu69/1102.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" group-title="Entertainment",Star Movies Select
-http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175
-
-
 
 
 
@@ -415,9 +402,9 @@ http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="Sport",Canal+ Sport
-http://roku:roku@polskafajna.eu:3129/stream/channelid/1839835119.mkv
+http://digitalxpress.gcdn.co/live1/canalsport/index.m3u8
 #EXTINF:-1 logo="https://www.dstvafrica.com/media/4737/canalplus-sport-2.png" group-title="Sport",Canal+ Sport 2
-http://roku:roku@polskafajna.eu:3129/stream/channelid/1588808687.mkv
+http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -426,6 +413,10 @@ http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 3
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/333abf6d4b2281e.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
@@ -470,15 +461,14 @@ http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSa9fl-nOWNZBc9bM-VonjqUwprdieefThl5oBnSDJaEDQFHJem",Movistar Deportes
-http://54.39.51.30:25461/live/Javier/cjzcjz5392/12656.ts
-
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sport",CCTV-5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sport",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSa9fl-nOWNZBc9bM-VonjqUwprdieefThl5oBnSDJaEDQFHJem",Movistar Deportes
+http://54.39.51.30:25461/live/Javier/cjzcjz5392/12656.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
