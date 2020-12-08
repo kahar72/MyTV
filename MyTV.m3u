@@ -159,10 +159,8 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN International
+http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=5d256d061251e8cf921e447d100a05995f4a46fb2f7c193790d6aa622099c744
 
 #EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
