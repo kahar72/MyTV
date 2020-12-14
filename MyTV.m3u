@@ -166,10 +166,13 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?c
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="News",EuroNews
-https://exodiver.github.io/IPTV/M3U8/Token/EuroNews.m3u8
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
 
 
 
@@ -289,6 +292,9 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg", Lotus Macau
+http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 
 
 
