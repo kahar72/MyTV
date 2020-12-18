@@ -115,21 +115,32 @@ http://103.30.1.14:8080/hls/live.m3u8?checkedby:hlscat.com
 
 #Islam TV#
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="Islam TV",Saudi Qur'an
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
+
+#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-C5u06cpXOQU/VxTk5G-6T-I/AAAAAAAAdV8/v4riT27ztz00VQhTsb85OFlFZeXm37QCQCLcB/s1600/surau-tv-logo.png" group-title="Islam TV", Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="Islam TV",Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="Islam TV",Ajwa TV
+https://etslive-2-vidio-com.akamaized.net/exp=1608276679~acl=/hls-p/ingest_7464_*/*~hmac=f286fa0d8be0297f71e3508f8b06f39b71112e5bd82d64af962a226ac7e5636e/hls-p/ingest_7464_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5nGUbz.png" group-title="Islam TV",Muadz TV 
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnZBhl8.jpg" group-title="Islam TV",Ashiil TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/yRPBhbL.jpg" group-title="Islam TV",Salam TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Islam TV",NAURA
 http://iptvtree.net:8080/live/14709/873066f7/157490.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Islam TV", ASTRO OASIS
 http://iptvtree.net:8080/live/14709/873066f7/157489.ts
-
-#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-C5u06cpXOQU/VxTk5G-6T-I/AAAAAAAAdV8/v4riT27ztz00VQhTsb85OFlFZeXm37QCQCLcB/s1600/surau-tv-logo.png" group-title="Islam TV", Surau TV
-http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
-
-#EXTINF:-1, tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="Islam TV", Rodja TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=rodjatv
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="Islam TV",WESAL TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
-
 
 
 
