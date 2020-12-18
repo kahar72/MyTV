@@ -95,7 +95,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans-tv-png.png" group-title="Asia", TransTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1110356017_b744100_sleng.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1608273891~acl=/vp9/733_stream.mpd!/vp9/733/*~hmac=acae72383e85806e547060c9f663d2ef2f2012a2e44cdbec3259e96e022978b0/vp9/733_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="Asia", Trans7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
