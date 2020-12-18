@@ -162,7 +162,7 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w563795103_b384000_sleng.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
@@ -208,6 +208,9 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Documentary",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 
 
 
@@ -352,16 +355,13 @@ http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
 http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport",BEIN SPORTS ENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN HD
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 http://mytotaltv.zapto.org:33612/Sofia/Sofia123/263
-
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="Sport",Canal+ Sport
-http://digitalxpress.gcdn.co/live1/canalsport/index.m3u8
-#EXTINF:-1 logo="https://www.dstvafrica.com/media/4737/canalplus-sport-2.png" group-title="Sport",Canal+ Sport 2
-http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -438,5 +438,12 @@ http://54.39.51.30:25461/live/Javier/cjzcjz5392/12656.ts
 http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sport",Star Sports Select 2
 http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=Live-TV™.live
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",UNIVISION SPORTS ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+
+
+
 
 
