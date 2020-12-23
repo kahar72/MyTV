@@ -100,6 +100,33 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1555954700_b744100_
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="Asia", Trans7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="Asia",NET
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png" group-title="Asia",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="Asia",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Asia",TRANS
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Asia",TRANS 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+
 #EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="Asia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
@@ -123,9 +150,6 @@ http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="Islam TV",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="Islam TV",Ajwa TV
-https://etslive-2-vidio-com.akamaized.net/exp=1608276679~acl=/hls-p/ingest_7464_*/*~hmac=f286fa0d8be0297f71e3508f8b06f39b71112e5bd82d64af962a226ac7e5636e/hls-p/ingest_7464_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y5nGUbz.png" group-title="Islam TV",Muadz TV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
@@ -160,6 +184,9 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -199,6 +226,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png" group-title="Documentary",Crime & Investigation
+http://203.154.243.31:15001
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
