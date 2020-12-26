@@ -143,8 +143,11 @@ http://103.30.1.14:8080/hls/live.m3u8?checkedby:hlscat.com
 
 #Islam TV#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="Islam TV",Saudi Qur'an
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="Islam TV",MAKKAH LIVE
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="Islam TV",MADINAH LIVE
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-C5u06cpXOQU/VxTk5G-6T-I/AAAAAAAAdV8/v4riT27ztz00VQhTsb85OFlFZeXm37QCQCLcB/s1600/surau-tv-logo.png" group-title="Islam TV", Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
@@ -165,8 +168,7 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 http://vp2p2s.my6868.cc/20474/freenet-ipTV.m3u8.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Islam TV", ASTRO OASIS
-http://iptvtree.net:8080/live/14709/873066f7/157489.ts
-
+http://vp2p2s.my6868.cc/20471/freenet-ipTV.m3u8.ts
 
 
 
