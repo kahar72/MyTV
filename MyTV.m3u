@@ -63,23 +63,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro-Box-Office-Movies-Tayangan-Hebat-logo.png/revision/latest?cb=20181017145622" group-title="Asia",ASTRO Box Office Tayangan Hebat
 http://skylogic.site:8080/live/11892/4eae5165/247407.ts
 
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png" group-title="Asia",Pesona
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png" group-title="Asia",Inspirasi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png" group-title="Asia",Sensasi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
-
-
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Asia", ASTRO CERIA
 http://iptvtree.net:8080/test-2dbbab/a422/157481?play_token=vFGjhoZIdL
 
@@ -97,6 +80,23 @@ http://vp2p2s.my6868.cc/20425/MaN-ipTV.m3u8.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asia", ASTRO BOO
 http://vp2p2s.my6868.cc/20420/MaN-ipTV.m3u8.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png" group-title="Asia",Pesona
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png" group-title="Asia",Inspirasi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png" group-title="Asia",Sensasi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
