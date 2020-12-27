@@ -358,11 +358,11 @@ http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 
 #Sport#
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",UK Sky Sports EPL
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports EPL
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",Sky Sports Main Event
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",UK Sky Sports Football
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
@@ -376,19 +376,24 @@ http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",|best|BEINSPORTS 1 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport",|best|BEINSPORTS 2 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport",|best|BEINSPORTS 3 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport",|best|BEINSPORTS 4 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1436.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport",beIN Sports 2
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1437.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport",beIN Sports 3
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1438.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport",beIN Sports 4
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1439.ts
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport",beIN Sports 11
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1446.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports 12
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1447.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD13-1.png" group-title="Sport",beIN Sports 13
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1448.ts
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -403,20 +408,29 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport",beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",Bein Sport 2 France
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
-http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",beIN Sports 1 France
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1460.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",beIN Sports 2 France
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1461.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",beIN Sports 3 France
+http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1462.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Sport",BEIN SPORTS ENG
+#EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-http://mytotaltv.zapto.org:33612/Sofia/Sofia123/263
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
+http://vp2p2s.my6868.cc/20415/MaN-ipTV.m3u8.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
+http://vp2p2s.my6868.cc/20417/MaN-ipTV.m3u8.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -457,16 +471,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
-http://185.39.8.88:8088/live/CjPmGSYrnn/hYxe1Qkbnj/40599.mp2t?token=QhVcUhcJRggXAA1UAQdUVgUBBlFTX1JXVAZTVVVSVAcIVVFXBQMAU1dGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVUDUwJXEhhDQl9eBEReUlNUBlFVUVdVChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI  
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
-http://185.39.8.88:8088/live/CjPmGSYrnn/hYxe1Qkbnj/40601.mp2t?token=QhVcUhcJRggXAA1UAQdUVgUBBlFTX1JXVAZTVVVSVAcIVVFXBQMAU1dGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVUDUwJXEhhDQl9eBEReUlNUBlFVUVdVChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI  
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/POLSAT_SPORT_PREMIUM_1_SUPER_HD.jpg" group-title="Sport",Polsat Sport Premium 1
 http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/POLSAT_SPORT_PREMIUM_2_SUPER_HD.jpg" group-title="Sport",Polsat Sport Premium 2
@@ -485,18 +489,16 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSa9fl-nOWNZBc9bM-VonjqUwprdieefThl5oBnSDJaEDQFHJem",Movistar Deportes
-http://54.39.51.30:25461/live/Javier/cjzcjz5392/12656.ts
-
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sport",Star Sports Select 1
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=Live-TV™.live
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sport",Star Sports Select 2
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=Live-TV™.live
-
-
 #EXTINF:-1 tvg-logo="" group-title="Sport",UNIVISION SPORTS ULTIMO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png" group-title="Sport", RMC Sport 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png" group-title="Sport", RMC Sport 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png" group-title="Sport", RMC Sport 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EXTRASport",Optus Sport [Match Time] HD AU
@@ -509,5 +511,6 @@ http://78.142.29.70:8080/9ysfarkh4/wkveeaho8/683979
 http://78.142.29.70:8080/9ysfarkh4/wkveeaho8/683980
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EXTRASport",Optus 5 [Match Time] HD AU
 http://78.142.29.70:8080/9ysfarkh4/wkveeaho8/683981
+
 
 
