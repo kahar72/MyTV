@@ -496,3 +496,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport", Star Sports Select 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sport",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+
+
