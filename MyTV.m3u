@@ -484,16 +484,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Sport",UNIVISION SPORTS ULTIMO
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport",UNIVISION SPORTS ULTIMO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png" group-title="Sport", RMC Sport 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png" group-title="Sport", RMC Sport 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png" group-title="Sport", RMC Sport 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Sport",DAZN 1
+http://mytv.fun/live/whxlsnndms/zzia8icrde/661088.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Sport",DAZN 2
+http://mytv.fun/live/whxlsnndms/zzia8icrde/661089.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sport", Star Sports Select 1
@@ -501,9 +499,5 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport", Star Sports Select 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sport",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
 
