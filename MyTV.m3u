@@ -261,6 +261,11 @@ https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png" group-title="Asia",BBC EARTH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+
 
 
 
