@@ -426,6 +426,14 @@ http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1461.ts
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",beIN Sports 3 France
 http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1462.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="TURKEY",beIN Sports 1 TR
+http://p5.giffy.be:8080/8kt1BOhStF/pfULk8XVka/54539
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD2.png" group-title="TURKEY",beIN Sports 2 TR
+http://p5.giffy.be:8080/8kt1BOhStF/pfULk8XVka/54540
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD3.png" group-title="TURKEY",beIN Sports 3 TR
+http://p5.giffy.be:8080/8kt1BOhStF/pfULk8XVka/54541
+
+
 #EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
@@ -496,7 +504,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Sport",DAZN 1
-http://mytv.fun/live/whxlsnndms/zzia8icrde/661088.m3u8
+http://p5.giffy.be:8080/8kt1BOhStF/pfULk8XVka/63529
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Sport",DAZN 2
 http://mytv.fun/live/whxlsnndms/zzia8icrde/661089.m3u8
 
