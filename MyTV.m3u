@@ -266,6 +266,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
 http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="Documentary",Smithsonian Channel
+http://iptvtree.net:8080/qVXeKPjVIu/9DvGhbBgfI/8585
 
 
 
