@@ -369,22 +369,40 @@ http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 
 #Sport#
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports EPL
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports Premier League
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683793
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",Sky Sports Main Event
-http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683738
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683761
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",UK BT Sport Extra 1
-http://160.119.77.116:8081/iptv/uk-btsportextra1.stream/playlist.m3u8
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683826
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",UK BT Sport Extra 2
-http://160.119.77.116:8081/iptv/uk-btsportextra2.stream/playlist.m3u8
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683827
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/15018
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport",beIN Sports 2
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/15017
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport",beIN Sports 3
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/53269
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport",beIN Sports 4
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/15015
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport",beIN Sports 11
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/668059
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports 12
+http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/15007
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
