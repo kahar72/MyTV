@@ -384,13 +384,27 @@ http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683738
 http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683761
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+http://194.40.241.218:83/directline76598/35222AM0203424421468352020/116
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png",UK BT Sport Extra 1
 http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683826
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/stations/a1921.png",UK BT Sport Extra 2
 http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683827
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
+http://vp2p2s.my6868.cc/20415/freenetTV.m3u8.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
+http://vp2p2s.my6868.cc/20417/freenetTV.m3u8.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
@@ -433,20 +447,6 @@ http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1462.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
-http://vp2p2s.my6868.cc/20415/freenetTV.m3u8.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
-http://vp2p2s.my6868.cc/20417/freenetTV.m3u8.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -531,5 +531,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1  tvg-logo="https://livetvscreen.com/wp-content/uploads/2012/09/Gol-TV-Soccer.jpg" group-title="Sport", Gol TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+
+#EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman-can.png" group-title="Sport", Sportsman Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+
+
 
 
