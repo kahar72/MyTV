@@ -44,13 +44,13 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
 
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Asia",NTV 7
-https://exodiver.github.io/IPTV/M3U8/Token/NTV7.m3u8
+http://vp2p2s.my6868.cc/20405/MaN-ipTV.m3u8.ts
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Asia",8TV
-https://exodiver.github.io/IPTV/M3U8/Token/8TV.m3u8
+http://vp2p2s.my6868.cc/20406/MaN-ipTV.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Asia",TV9
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
+http://vp2p2s.my6868.cc/20407/MaN-ipTV.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Asia",TV OKEY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -58,7 +58,7 @@ https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",HELLO
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+http://vp2p2s.my6868.cc/20468/MaN-ipTV.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia",DRAMA SANGAT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -132,6 +132,11 @@ https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Channel-mncinfotainment.png" group-title="Asia",MNC Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="Asia",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -222,7 +227,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Documentary", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/national-geographic-png-3.png" group-title="Documentary", National Geographic
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
@@ -245,26 +250,20 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Documentary",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 
-#EXTINF:-1 tvg-logo="" group-title="Documentary",TRAVEL HD
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary",Travel HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="Documentary",The Design Network
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" group-title="Documentary",AFV Family
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Documentary",Unidentified TV
-https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
-
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Documentary",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png" group-title="Documentary",BBC EARTH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.png" group-title="Documentary",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -380,9 +379,9 @@ http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683761
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",UK BT Sport Extra 1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png",UK BT Sport Extra 1
 http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683826
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",UK BT Sport Extra 2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/stations/a1921.png",UK BT Sport Extra 2
 http://mytv.fun:8080/jylk9xh3hs/mxe4lg12tk/683827
 
 
@@ -512,6 +511,17 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
 
 
+#EXTINF:-1  tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Sport", ESPN 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
+#EXTINF:-1  tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Sport", ESPN 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+
+
+#EXTINF:-1  tvg-logo="https://livetvscreen.com/wp-content/uploads/2012/09/Gol-TV-Soccer.jpg" group-title="Sport", Gol TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
 
