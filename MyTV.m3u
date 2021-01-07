@@ -528,6 +528,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Brasil
+http://rec2.distv.net:80/app/app/144
+
 
 #EXTINF:-1  tvg-logo="https://livetvscreen.com/wp-content/uploads/2012/09/Gol-TV-Soccer.jpg" group-title="Sport", Gol TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
