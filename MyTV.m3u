@@ -368,23 +368,39 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports Premier League
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28942.m3u8.ts
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/4458
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",Sky Sports Main Event
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28919.m3u8.ts
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/5600
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2870.m3u8.ts
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/20024
+
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
 http://194.40.241.218:83/directline76598/35222AM0203424421468352020/116
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/1991
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/1992
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png",UK BT Sport Extra 1
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28937.m3u8.ts
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/14778
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/stations/a1921.png",UK BT Sport Extra 2
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28938.m3u8.ts
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/14809
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/9008
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
@@ -515,12 +531,15 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf
 
 #EXTINF:-1  tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Sport", ESPN 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/9023
 
 #EXTINF:-1  tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Sport", ESPN 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/9022
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/23260
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Brasil
 http://rec2.distv.net:80/app/app/144
@@ -528,6 +547,7 @@ http://rec2.distv.net:80/app/app/144
 
 #EXTINF:-1  tvg-logo="https://livetvscreen.com/wp-content/uploads/2012/09/Gol-TV-Soccer.jpg" group-title="Sport", Gol TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/27455
 
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman-can.png" group-title="Sport", Sportsman Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
