@@ -525,6 +525,31 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
 
 
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Sport", Arena Sport 1 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Sport", Arena Sport 2 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="Sport", Arena Sport 3 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="Sport", Arena Sport 4 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
+
+
+#EXTINF:-1  tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-1-logo.png" group-title="Sport", Sport Klub 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
+
+#EXTINF:-1  tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-2-logo.png" group-title="Sport", Sport Klub 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
+
+#EXTINF:-1  tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-3-logo.png" group-title="Sport", Sport Klub 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
+
+
+
+
 #EXTINF:-1  tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Sport", ESPN 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/9023
