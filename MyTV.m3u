@@ -410,20 +410,15 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59217.m3u8.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59271.m3u8.ts
-
+http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/63541
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport",beIN Sports 2
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59270.m3u8.ts
-
+http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/15170
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport",beIN Sports 3
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59269.m3u8.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport",beIN Sports 4
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59268.m3u8.ts
-
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport",beIN Sports 11
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59261.m3u8.ts
-
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports 12
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59260.m3u8.ts
 
@@ -527,25 +522,29 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf
 
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Sport", Arena Sport 1 HR
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
-
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Sport", Arena Sport 2 HR
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
-
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="Sport", Arena Sport 3 HR
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
-
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="Sport", Arena Sport 4 HR
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
 
 
 #EXTINF:-1  tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-1-logo.png" group-title="Sport", Sport Klub 1
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
-
 #EXTINF:-1  tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-2-logo.png" group-title="Sport", Sport Klub 2
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
-
 #EXTINF:-1  tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-3-logo.png" group-title="Sport", Sport Klub 3
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
+
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
+http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/15183
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
+http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/15184
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
+http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/15185
+
 
 
 
@@ -562,8 +561,6 @@ http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/9022
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/23260
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Brasil
-http://rec2.distv.net:80/app/app/144
 
 
 #EXTINF:-1  tvg-logo="https://livetvscreen.com/wp-content/uploads/2012/09/Gol-TV-Soccer.jpg" group-title="Sport", Gol TV
