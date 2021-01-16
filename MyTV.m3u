@@ -526,6 +526,12 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2783.m3u8.ts
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/23260
 
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sport",TNT Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+
 #EXTINF:-1  tvg-logo="https://livetvscreen.com/wp-content/uploads/2012/09/Gol-TV-Soccer.jpg" group-title="Sport", Gol TV
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/27455
 
@@ -533,4 +539,5 @@ http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/27455
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/28391
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports USA TEST
+http://tv.wakds.xyz:8080/live/hls/ke97979/3964.m3u8
