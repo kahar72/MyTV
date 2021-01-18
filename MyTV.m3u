@@ -59,9 +59,6 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71088.m3u8.ts
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71117.m3u8.ts
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Astro-Box-Office-Movies-Tayangan-Hebat-logo.png/revision/latest?cb=20181017145622" group-title="Asia",ASTRO Box Office Tayangan Hebat
-http://skylogic.site:8080/live/11892/4eae5165/247407.ts
-
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia", ASTRO WARNA
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71022.m3u8.ts
 
@@ -164,7 +161,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
@@ -190,16 +187,16 @@ http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Documentary", Outdoor Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/national-geographic-png-3.png" group-title="Documentary", National Geographic
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png" group-title="Documentary",Crime & Investigation
 http://203.154.243.31:15001
@@ -216,20 +213,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary",Travel HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="Documentary",The Design Network
-https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Documentary",UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.png" group-title="Documentary",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 
 
