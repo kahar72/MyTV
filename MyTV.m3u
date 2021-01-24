@@ -44,19 +44,15 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Asia",TV9
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUG3xSxkoHjO17hY9k_pQyw)/dm/3/x6qqja6/s/live-4.m3u8
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/1729.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Asia",TV OKEY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",HELLO
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71088.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia",DRAMA SANGAT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71117.m3u8.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia", ASTRO WARNA
@@ -329,16 +325,16 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #Kids#
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="Kids",ANIMAX
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="Kids",Animax
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71100.m3u8.ts
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png" group-title="Kids",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png" group-title="Kids",Disney Channel
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/3142.m3u8.ts
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png" group-title="Kids",DISNEY JR
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png" group-title="Kids",Disney Jr
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/3141.m3u8.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="Kids",Cartoon Network
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/30218.m3u8.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/shYYVk8.png",Boomerang
@@ -346,6 +342,9 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/64364.m3u8.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.dlpng.com/static/png/6953189_preview.png",Nickelodeon
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/30049.m3u8.ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://c0.klipartz.com/pngpicture/78/206/sticker-png-nick-jr-nickelodeon-television-channel-viacom-international-media-networks-europe-nickelodeon.png",Nick Jr
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71086.m3u8.ts
 
 
 
