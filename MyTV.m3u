@@ -217,6 +217,11 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.png" group-title="Documentary",TLC
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Documentary", CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+
+
 
 
 #Entertainment#
@@ -349,17 +354,21 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71086.m3u8.ts
 
 
 
+
+
 #Sport#
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports Premier League
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28942.m3u8.ts
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/213
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/4458
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/124186
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",Sky Sports Main Event
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28919.m3u8.ts
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/7641
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/5600
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/124184
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2870.m3u8.ts
@@ -369,11 +378,13 @@ http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/20024
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/1991
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11484
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/124166
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/1992
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11485
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/124167
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png",UK BT Sport Extra 1
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/14778
@@ -540,8 +551,23 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", Setanta Ukraine
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", Setanta UK
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68486
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Belarus_5.svg/revision/latest/scale-to-width-down/340?cb=20191008123422" group-title="Sport", Belarus 5
+https://95-213-224-181.livesports24.online/belarusss5.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman-can.png" group-title="Sport", Sportsman Channel
 http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/28391
+
+
+
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png" group-title="Sport",  CCTV 5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
