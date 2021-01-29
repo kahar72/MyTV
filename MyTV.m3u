@@ -260,10 +260,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary",Travel HD
 http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68495
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
-http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68479
-
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.png" group-title="Documentary",TLC
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/640-6402731_png-tlc-transparent-png.png" group-title="Documentary",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
