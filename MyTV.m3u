@@ -147,6 +147,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="News",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
@@ -180,7 +183,9 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
@@ -198,7 +203,9 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Documentary",HGTV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary",Travel HD
 http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68495
@@ -207,7 +214,9 @@ http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68495
 http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68479
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.png" group-title="Documentary",TLC
-http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Documentary", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
