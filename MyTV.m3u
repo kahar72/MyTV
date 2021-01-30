@@ -524,20 +524,18 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport",Sport TV 1
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1575
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/864
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport",Sport TV 2
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1581
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/13184
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport",Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/862
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport",Sport TV 4
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1584
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1021
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1022
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
