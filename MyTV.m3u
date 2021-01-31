@@ -278,6 +278,9 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://img.favpng.com/2/10/16/love-nature-4k-resolution-television-blue-ant-media-png-favpng-RY7LZXfJKyeC7jiHSX0PK1Br3.jpg", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="Entertainment",LIFETIME
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
