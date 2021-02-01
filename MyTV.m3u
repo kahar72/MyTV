@@ -466,33 +466,27 @@ http://tv.nousiptv.com:8080/Glen/Glen1/53905
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59220.m3u8.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59219.m3u8.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59218.m3u8.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59217.m3u8.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28918.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78563
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport",beIN Sports 2
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28917.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78562
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport",beIN Sports 3
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28916.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78561
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport",beIN Sports 4
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59268.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78561
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport",beIN Sports 11
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59261.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78627
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports 12
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59260.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78626
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -520,6 +514,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports Canada
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/30178.m3u8.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="Sport",Skynet Sports
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
