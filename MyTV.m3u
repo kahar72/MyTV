@@ -422,19 +422,12 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports Premier League
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28942.m3u8.ts
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/213
-http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/4458
-http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/124186
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",Sky Sports Main Event
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28919.m3u8.ts
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/7641
-http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/5600
-http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/124184
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2870.m3u8.ts
-http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/20024
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
@@ -456,6 +449,7 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28938.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+http://rv.imax.re:80/6425023033/4168002992/80966
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
@@ -495,11 +489,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",beIN Sports 1 France
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1460.ts
+http://rv.imax.re:80/6425023033/4168002992/78393
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",beIN Sports 2 France
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1461.ts
+http://rv.imax.re:80/6425023033/4168002992/78392
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",beIN Sports 3 France
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1462.ts
+http://rv.imax.re:80/6425023033/4168002992/78391
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports USA
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/3159.m3u8.ts
@@ -507,10 +501,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="" group-title="Sport",beIN Sports Canada
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/30178.m3u8.ts
-
-
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="Sport",Skynet Sports
-http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
@@ -543,62 +533,50 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2783.m3u8.ts
 http://rv.imax.re:80/307200104274/307200104274/78717
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", Canal+ Sport
-http://rv.imax.re:80/307200104274/307200104274/78448
+http://rv.imax.re:80/6425023033/4168002992/78448
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Sport", Eleven Sports 1
-http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+http://rv.imax.re:80/6425023033/4168002992/80757
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Sport", Eleven Sports 2
-http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+http://rv.imax.re:80/6425023033/4168002992/80756
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="Sport", Eleven Sports 3
-http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+http://rv.imax.re:80/6425023033/4168002992/80755
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Sport", Eleven Sports 4
-http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+http://rv.imax.re:80/6425023033/4168002992/80754
 
 
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Sport", Arena Sport 1 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
 http://rv.imax.re:80/307200104274/307200104274/85183
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Sport", Arena Sport 2 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
 http://rv.imax.re:80/307200104274/307200104274/85182
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="Sport", Arena Sport 3 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
 http://rv.imax.re:80/307200104274/307200104274/85181
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="Sport", Arena Sport 4 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
 http://rv.imax.re:80/307200104274/307200104274/85180
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="Sport", Arena Sport 5 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
 http://rv.imax.re:80/307200104274/307200104274/85179
 
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Sport", Arena Sport 1 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
 http://rv.imax.re:80/307200104274/307200104274/85187
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Sport", Arena Sport 2 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
 http://rv.imax.re:80/307200104274/307200104274/85186
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="Sport", Arena Sport 3 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
 http://rv.imax.re:80/307200104274/307200104274/85185
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="Sport", Arena Sport 4 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
 http://rv.imax.re:80/307200104274/307200104274/85184
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="Sport", Arena Sport 5 RS
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
 
 
 #EXTINF:-1 tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-1-logo.png" group-title="Sport", Sport Klub 1
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
 http://rv.imax.re:80/307200104274/307200104274/85198
 #EXTINF:-1 tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-2-logo.png" group-title="Sport", Sport Klub 2
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
 http://rv.imax.re:80/307200104274/307200104274/85197
 #EXTINF:-1 tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-3-logo.png" group-title="Sport", Sport Klub 3
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
 http://rv.imax.re:80/307200104274/307200104274/85196
 
 
@@ -618,9 +596,9 @@ http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68486
 
 
 #EXTINF:-1  tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", Ziggo Sport Voetbal
-http://rv.imax.re:80/307200104274/307200104274/79724
+http://rv.imax.re:80/6425023033/4168002992/79519
 #EXTINF:-1  tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", Ziggo Sport Select
-http://rv.imax.re:80/307200104274/307200104274/79723
+http://rv.imax.re:80/6425023033/4168002992/79518
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
@@ -632,21 +610,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman-can.png" group-title="Sport", Sportsman Channel
-http://clientportal.link:80/fRxMwS5JLX879/vutQo5899/28391
+http://rv.imax.re:80/6425023033/4168002992/80980
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg" group-title="Sport",MNC Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/UYTIzrb.png",Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd
-
 
