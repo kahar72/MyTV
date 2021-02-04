@@ -286,6 +286,9 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png",Smash Explore
+http://a3.smashmalta.com:82/live/smash/smash/23.ts
+
 
 
 
@@ -599,6 +602,20 @@ http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68486
 http://rv.imax.re:80/6425023033/4168002992/79519
 #EXTINF:-1  tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", Ziggo Sport Select
 http://rv.imax.re:80/6425023033/4168002992/79518
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png",Smash Sports
+http://a3.smashmalta.com:82/live/smash/smash/17.ts
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV5
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV5+
+http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Sport", S Sport
+http://viptrial.eu:8080/YUSUF/123456/88153
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
