@@ -43,6 +43,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Asia",TV9
 https://raw.githubusercontent.com/ajixz/TV/master/token/tv9.m3u8|Referer=https://www.dailymotion.com
@@ -68,6 +69,7 @@ http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asia", Astro Prima
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71020.m3u8.ts
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asia", Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -203,6 +205,7 @@ https://stream-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
@@ -211,6 +214,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
