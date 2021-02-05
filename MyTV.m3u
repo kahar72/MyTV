@@ -42,27 +42,38 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Asia",TV9
 https://raw.githubusercontent.com/ajixz/TV/master/token/tv9.m3u8|Referer=https://www.dailymotion.com
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Asia",TV OKEY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Asia",TV Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",HELLO
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",Hello
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71088.m3u8.ts
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia",DRAMA SANGAT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia",Drama Sangat
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71117.m3u8.ts
 
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia", ASTRO WARNA
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia", Astro Warna
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71022.m3u8.ts
 
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Asia", ASTRO RIA
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Asia", Astro Ria
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/1705.m3u8.ts
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asia", ASTRO PRIMA
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asia", Astro Prima
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71020.m3u8.ts
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asia", Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Asia",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="Asia", RTB Sukmaindera
@@ -157,12 +168,16 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Islam TV",NAURA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Islam TV",Astro Naura
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71023.m3u8.ts
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Islam TV", ASTRO OASIS
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Islam TV", Astro Oasis
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71021.m3u8.ts
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Islam TV",TV Al Hijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
 
@@ -416,6 +431,9 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kids", Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
 
 
 
@@ -457,12 +475,16 @@ http://rv.imax.re:80/6425023033/4168002992/80966
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59220.m3u8.ts
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59219.m3u8.ts
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59218.m3u8.ts
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59217.m3u8.ts
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
