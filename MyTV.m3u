@@ -541,15 +541,12 @@ http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e51
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport",Sport TV 1
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1575
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport",Sport TV 2
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1581
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport",Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport",Sport TV 4
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1584
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
@@ -557,60 +554,13 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2785.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78719
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2784.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78718
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2783.m3u8.ts
-http://rv.imax.re:80/307200104274/307200104274/78717
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", Canal+ Sport
-http://rv.imax.re:80/6425023033/4168002992/78448
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Sport", Eleven Sports 1
-http://rv.imax.re:80/6425023033/4168002992/80757
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Sport", Eleven Sports 2
-http://rv.imax.re:80/6425023033/4168002992/80756
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="Sport", Eleven Sports 3
-http://rv.imax.re:80/6425023033/4168002992/80755
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Sport", Eleven Sports 4
-http://rv.imax.re:80/6425023033/4168002992/80754
-
-
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Sport", Arena Sport 1 HR
-http://rv.imax.re:80/307200104274/307200104274/85183
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Sport", Arena Sport 2 HR
-http://rv.imax.re:80/307200104274/307200104274/85182
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="Sport", Arena Sport 3 HR
-http://rv.imax.re:80/307200104274/307200104274/85181
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="Sport", Arena Sport 4 HR
-http://rv.imax.re:80/307200104274/307200104274/85180
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="Sport", Arena Sport 5 HR
-http://rv.imax.re:80/307200104274/307200104274/85179
-
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Sport", Arena Sport 1 RS
-http://rv.imax.re:80/307200104274/307200104274/85187
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Sport", Arena Sport 2 RS
-http://rv.imax.re:80/307200104274/307200104274/85186
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png" group-title="Sport", Arena Sport 3 RS
-http://rv.imax.re:80/307200104274/307200104274/85185
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png" group-title="Sport", Arena Sport 4 RS
-http://rv.imax.re:80/307200104274/307200104274/85184
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="Sport", Arena Sport 5 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
-
-
-#EXTINF:-1 tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-1-logo.png" group-title="Sport", Sport Klub 1
-http://rv.imax.re:80/307200104274/307200104274/85198
-#EXTINF:-1 tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-2-logo.png" group-title="Sport", Sport Klub 2
-http://rv.imax.re:80/307200104274/307200104274/85197
-#EXTINF:-1 tvg-logo="https://futbol-live.com/wp-content/uploads/2018/12/sport-klub-3-logo.png" group-title="Sport", Sport Klub 3
-http://rv.imax.re:80/307200104274/307200104274/85196
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/33522.m3u8.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
@@ -642,10 +592,6 @@ http://a3.smashmalta.com:82/live/smash/smash/17.ts
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV5+
 http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Sport", S Sport
-http://viptrial.eu:8080/YUSUF/123456/88153
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
