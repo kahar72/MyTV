@@ -53,8 +53,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",Hello
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71088.m3u8.ts
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71088.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia",Drama Sangat
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71117.m3u8.ts
@@ -533,7 +533,11 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/30178.m3u8.ts
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="Sport", SkyNet Sports
+http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport",Sport TV 1
