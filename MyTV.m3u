@@ -563,6 +563,23 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2783.m3u8.ts
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/33522.m3u8.ts
 
 
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports
+http://tv.nousiptv.com:5230/live/Glen/Glen1/7863.ts
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports 2
+http://tv.nousiptv.com:5230/live/Glen/Glen1/32881.ts
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports+
+http://tv.nousiptv.com:5230/live/Glen/Glen1/27879.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/espn-brasil-1-logo-png-transparent.png" group-title="Sport", ESPN Brasil
+http://tv.nousiptv.com:5230/live/Glen/Glen1/7784.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport", Univision Deportes
+http://tv.nousiptv.com:5230/live/Glen/Glen1/3962.ts
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/Nbc-sports-logo-600x450.png/revision/latest?cb=20150824212119" group-title="Sport", NBC Sports
+http://tv.nousiptv.com:5230/live/Glen/Glen1/3709.ts
+
+
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 2
