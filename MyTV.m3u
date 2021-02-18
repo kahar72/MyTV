@@ -501,9 +501,13 @@ http://tv.nousiptv.com:5230/live/Glen/Glen1/3709.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59220.m3u8.ts
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/129997.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59219.m3u8.ts
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/129999.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59218.m3u8.ts
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
@@ -593,10 +597,15 @@ http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/33522.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports
 http://tv.nousiptv.com:5230/live/Glen/Glen1/53462.ts
+http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/1982.ts
+
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports 2
 http://tv.nousiptv.com:5230/live/Glen/Glen1/32881.ts
+http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/1983.ts
+
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports+
 http://tv.nousiptv.com:5230/live/Glen/Glen1/27879.ts
+http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/1984.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN Brasil
 http://tv.nousiptv.com:5230/live/Glen/Glen1/7784.ts
