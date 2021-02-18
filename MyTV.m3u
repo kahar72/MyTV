@@ -249,6 +249,7 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Documentary", Outdoor Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
 http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/national-geographic-png-3.png" group-title="Documentary", National Geographic
@@ -264,19 +265,20 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History Canada
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/136330
+
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", Discovery Channel
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/810/805/png-transparent-discovery-history-discovery-channel-television-channel-logo-others-thumbnail.png" group-title="Documentary", Discovery History
+#EXTINF:-1, tvg-logo="https://img.favpng.com/2/22/25/discovery-science-television-channel-discovery-channel-logo-png-favpng-UHcM4azn0H6QRCpRUkTuhb6jk.jpg" group-title="Documentary", Discovery Science
+http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68445
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="Documentary", Discovery History
 http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68459
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png" group-title="Documentary",Crime & Investigation
 http://203.154.243.31:15001
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428179_ico.png" group-title="Entertainment",FOX Crime
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
@@ -290,7 +292,7 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary",Travel HD
-http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68495
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/640-6402731_png-tlc-transparent-png.png" group-title="Documentary",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,9 +303,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/GwJxeLB.png",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://img.favpng.com/2/10/16/love-nature-4k-resolution-television-blue-ant-media-png-favpng-RY7LZXfJKyeC7jiHSX0PK1Br3.jpg", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -556,6 +556,7 @@ http://mytv.fun:8080/live/Oskartest/t4h92jfvp/13759.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports Espanol
 http://mytv.fun:8080/live/Oskartest/t4h92jfvp/677144.ts
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 
 #EXTINF:-1, tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="Sport", DAZN 1
@@ -615,6 +616,10 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport", Univision Deportes
 http://tv.nousiptv.com:5230/live/Glen/Glen1/3962.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Sport", ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
