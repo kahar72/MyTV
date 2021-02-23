@@ -54,20 +54,17 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b40640
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia",Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71088.m3u8.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia",Drama Sangat
 http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71117.m3u8.ts
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia", Astro Warna
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71022.m3u8.ts
+http://190.2.155.140:8278/streams/d/warna_pye/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Asia", Astro Ria
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/1705.m3u8.ts
 http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asia", Astro Prima
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71020.m3u8.ts
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 
