@@ -595,15 +595,12 @@ http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e51
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports
 http://tv.nousiptv.com:5230/live/Glen/Glen1/53462.ts
-http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/1982.ts
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports 2
 http://tv.nousiptv.com:5230/live/Glen/Glen1/32881.ts
-http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/1983.ts
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports+
 http://tv.nousiptv.com:5230/live/Glen/Glen1/27879.ts
-http://ultrax.online:8000/live/IptvtoolsRestrictUltra/wEvvD4Rdpe/1984.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN Brasil
 http://tv.nousiptv.com:5230/live/Glen/Glen1/7784.ts
