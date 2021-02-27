@@ -660,6 +660,16 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png",VTVCab3
+http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1053468249
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16
+http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1491391340
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZxWdKth.jpg",VTVCab18
+http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/17675878
+
+
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport",Fox Sport 2
