@@ -664,12 +664,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 http://202.60.106.14:21585/vtvcab3/mono.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/P5DGH9JC/vtvcab16-bongda.png",VTVCab16
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/1491391340
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/ZxWdKth.jpg",VTVCab18
-http://hthanhmediaSV:tontienqua@hthanhmediavip.duckdns.org:9981/stream/channelid/17675878
-
 #EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/K_PM.png/revision/latest?cb=20190711121154",K+PM
 http://gg.gg/cocakpm
 
@@ -682,6 +676,9 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new.smil/chunklist_b2692
 #EXTINF:-1 tvg-id="ctv22" group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/SCTV22_SSport_1_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142239&path-prefix=vi",SCTV22
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" group-title="Sport",QAZSPORT
+http://92.46.127.146:8080/qazsport/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
