@@ -269,10 +269,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.favpng.com/2/22/25/discovery-science-television-channel-discovery-channel-logo-png-favpng-UHcM4azn0H6QRCpRUkTuhb6jk.jpg" group-title="Documentary", Discovery Science
-http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68445
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="Documentary", Discovery History
-http://hero.mymediapc.net:2052/line-antonio/SnEWX49PMx/68459
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/71875.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png" group-title="Documentary",Crime & Investigation
 http://203.154.243.31:15001
@@ -402,9 +399,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg", Lotus Macau
-http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1322940495321071616/Q1BebqpQ_400x400.jpg", SYFY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 
@@ -418,7 +412,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #Kids#
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Documentary", Da Vinci
+#EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids", Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
