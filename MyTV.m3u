@@ -1,6 +1,6 @@
 #EXTM3U
 
-#Asia#
+#ASIA#
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="Asia", CHANNEL 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -143,7 +143,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 
 
-#Islam TV#
+#ISLAM TV#
 
 #EXTINF:-1 tvg-logo="https://mytv.afrik.live/uploads/04adfc595a0180f3a6399eb1479c81cd.png" group-title="Islam TV", AL-QURAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -184,7 +184,8 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
 
-#News#
+#NEWS#
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -242,7 +243,7 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 
 
 
-#Documentary#
+#DOCUMENTARY#
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Documentary", OUTDOOR CHANNEL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
@@ -330,7 +331,7 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/72313.ts
 
 
 
-#Entertainment#
+#ENTERTAINMENT#
 
 #EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Entertainment", FOX ACTION MOVIES 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -415,7 +416,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 
-#Kids#
+#KIDS#
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids", DA VINCI
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -459,7 +460,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 
-#Sport#
+#SPORTS#
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
 http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683787.ts
