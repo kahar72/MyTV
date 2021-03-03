@@ -299,6 +299,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Documentary", CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -320,6 +321,10 @@ http://a3.smashmalta.com:82/live/smash/smash/23.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.pngfind.com/pngs/m/177-1776961_nasa-tv-nasa-tv-logo-png-transparent-png.png", NASA TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/452.ts
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://affiliations.si.edu/wp-content/uploads/2019/05/channel.png", SMITHSONIAN TV
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72313.ts
+
 
 
 
