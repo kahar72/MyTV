@@ -471,11 +471,21 @@ http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683759.ts
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
+http://tvcl.xyz:80/u2503anual/IxOIaWBMPN/34739
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png", SKY SPORTS MAIN EVENT
+http://tvcl.xyz:80/u2503anual/IxOIaWBMPN/34736
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png", SKY SPORTS FOOTBALL
+http://tvcl.xyz:80/u2503anual/IxOIaWBMPN/34734
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo.png", SKY SPORTS 16
+http://tv5full.xyz:25461/vitoko/Vitoking/23288
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo.png", SKY SPORTS 24
+http://tv5full.xyz:25461/vitoko/Vitoking/23289
 
 
 
@@ -520,17 +530,17 @@ http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2450.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2451.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport", BEIN SPORTS 3
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2452.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport", BEIN SPORTS 4
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2453.ts
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
@@ -565,9 +575,19 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://mytv.fun:8080/live/Oskartest/t4h92jfvp/13759.ts
 http://tv.nousiptv.com:8080/Glen/Glen1/29341
 
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2459.ts
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2460.ts
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA ENGLISH
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 1 AUS
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/496.ts
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 2 AUS
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/497.ts
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 3 AUS
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/498.ts
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png", BEIN SPORTS 1 FRANCE
 http://rv.imax.re:80/6425023033/4168002992/78393
