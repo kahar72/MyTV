@@ -622,15 +622,32 @@ http://tv.nousiptv.com:5230/live/Glen/Glen1/27879.ts
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
+http://b5.vc:80/amanda.iptv/a1aw5s/74960
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2
+http://b5.vc:80/amanda.iptv/a1aw5s/74965
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
+http://b5.vc:80/amanda.iptv/a1aw5s/74969
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport", SPORT TV 4
+http://b5.vc:80/amanda.iptv/a1aw5s/74973
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport", SPORT TV 5
+http://b5.vc:80/amanda.iptv/a1aw5s/74976
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 1
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/73254.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 2
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/73255.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 3
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/73256.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Sport", PREMIERE FUTEBOL CLUBE
+http://b5.vc:80/amanda.iptv/a1aw5s/72262
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport", UNIVISION DEPORTES
@@ -682,10 +699,6 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new.smil/chunklist_b2692
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" group-title="Sport", QAZSPORT
-http://92.46.127.146:8080/qazsport/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport", FOX SPORT 2
@@ -696,15 +709,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN BRASIL
 http://dnsx.co:80/glaucia.iptv/glaucia/71911
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN1" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sport", ESPN 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ENG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport", ESPN 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Sport", ESPN DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg" group-title="Sport", HORIZON SPORTS
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
