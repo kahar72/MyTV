@@ -597,8 +597,7 @@ http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683896.ts
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="Sport", SkyNet Sports
-http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
+#EXTINF:-1, tvg-logo="https://www.ijube.com/wp-content/themes/ijube/img/tvonline/skynethd.png" group-title="Sport", SkyNet Sports
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 
 
@@ -648,6 +647,10 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/73256.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Sport", PREMIERE FUTEBOL CLUBE
 http://b5.vc:80/amanda.iptv/a1aw5s/72262
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-sports-logo-843074AF64-seeklogo.com.png" group-title="Sport", BAND SPORTS
+http://b5.vc:80/amanda.iptv/a1aw5s/71801
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport", UNIVISION DEPORTES
@@ -737,6 +740,6 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1623.ts
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1624.ts
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/9001988/16x9/947/533/998d326f612e921f010a0019edcab830/zb/mutv.png" group-title="Sport", MU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport", MU TV
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 
