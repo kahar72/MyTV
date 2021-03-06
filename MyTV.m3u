@@ -460,6 +460,10 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 
+
+
+
+
 #SPORTS#
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
@@ -517,16 +521,16 @@ http://tv.nousiptv.com:5230/live/Glen/Glen1/3709.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://meu02.cularu.com:8880/Xv6uCjpvYZ/W8d6YDPDSt/59220
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport", ASTRO SUPERSPORTS 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+http://meu02.cularu.com:8880/Xv6uCjpvYZ/W8d6YDPDSt/59219
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport", ASTRO SUPERSPORTS 3 
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://meu02.cularu.com:8880/Xv6uCjpvYZ/W8d6YDPDSt/59218
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport", ASTRO SUPERSPORTS 4 
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+http://meu02.cularu.com:8880/Xv6uCjpvYZ/W8d6YDPDSt/59217
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
