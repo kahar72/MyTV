@@ -537,10 +537,7 @@ http://meu02.cularu.com:8880/Xv6uCjpvYZ/W8d6YDPDSt/59217
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2450.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2451.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport", BEIN SPORTS 3
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2452.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport", BEIN SPORTS 4
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2453.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
@@ -551,10 +548,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
 http://209.145.54.100:25461/tm4.xyz/tm4.xyz/2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
 http://209.145.54.100:25461/tm4.xyz/tm4.xyz/3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport", BEIN SPORTS 3
-http://209.145.54.100:25461/tm4.xyz/tm4.xyz/4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport", BEIN SPORTS 4
-http://209.145.54.100:25461/tm4.xyz/tm4.xyz/5
+
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
@@ -603,6 +597,7 @@ http://rv.imax.re:80/6425023033/4168002992/78391
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS ESPANOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS ESPANOL
 http://tv.nousiptv.com:8080/Glen/Glen1/3747
 
 
