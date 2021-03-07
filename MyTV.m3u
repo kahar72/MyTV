@@ -545,33 +545,19 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
-http://209.145.54.100:25461/tm4.xyz/tm4.xyz/2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
-http://209.145.54.100:25461/tm4.xyz/tm4.xyz/3
+
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
 
 
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport", BEIN SPORTS 1 ASIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport", BEIN SPORTS 2 ASIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", BEIN SPORTS USA
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", BEIN SPORTS USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/13759.ts
-http://tv.nousiptv.com:8080/Glen/Glen1/29341
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 1
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2459.ts
@@ -598,13 +584,25 @@ http://rv.imax.re:80/6425023033/4168002992/78391
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS ESPANOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS ESPANOL
-http://tv.nousiptv.com:8080/Glen/Glen1/3747
 
 
-#EXTINF:-1, tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="Sport", DAZN 1
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/661090.ts
-#EXTINF:-1, tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="Sport", DAZN 2
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/661089.ts
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
+http://b5.vc:80/amanda.iptv/a1aw5s/74960
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2
+http://b5.vc:80/amanda.iptv/a1aw5s/74965
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
+http://b5.vc:80/amanda.iptv/a1aw5s/74969
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport", SPORT TV 4
+http://b5.vc:80/amanda.iptv/a1aw5s/74973
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport", SPORT TV 5
+http://b5.vc:80/amanda.iptv/a1aw5s/74976
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png" group-title="Sport", SKY SPORTS 1 DE
 http://mytv.fun:8080/live/Oskartest/t4h92jfvp/684432.ts
@@ -632,28 +630,11 @@ https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
-http://tv.nousiptv.com:5230/live/Glen/Glen1/53462.ts
+
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS 2
-http://tv.nousiptv.com:5230/live/Glen/Glen1/32881.ts
+
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS+
-http://tv.nousiptv.com:5230/live/Glen/Glen1/27879.ts
 
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
-http://b5.vc:80/amanda.iptv/a1aw5s/74960
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2
-http://b5.vc:80/amanda.iptv/a1aw5s/74965
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
-http://b5.vc:80/amanda.iptv/a1aw5s/74969
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport", SPORT TV 4
-http://b5.vc:80/amanda.iptv/a1aw5s/74973
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport", SPORT TV 5
-http://b5.vc:80/amanda.iptv/a1aw5s/74976
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 1
@@ -670,25 +651,6 @@ http://b5.vc:80/amanda.iptv/a1aw5s/72262
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-sports-logo-843074AF64-seeklogo.com.png" group-title="Sport", BAND SPORTS
 http://b5.vc:80/amanda.iptv/a1aw5s/71801
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport", UNIVISION DEPORTES
-http://tv.nousiptv.com:5230/live/Glen/Glen1/3962.ts
-
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", PREMIER FOOTBALL 1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", PREMIER FOOTBALL 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", PREMIER FOOTBALL 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", PREMIER FOOTBALL 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", PREMIER FOOTBALL 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", PREMIER FOOTBALL 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1
@@ -708,38 +670,25 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Sport", ESPN DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
+
+#EXTINF:-1 group-title="Sport", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",FC BAYERN
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/LFCTV_HD.png" group-title="Sport", LIVERPOOL TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1623.ts
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1624.ts
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport", MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png", SMASH SPORTS
 http://a3.smashmalta.com:82/live/smash/smash/17.ts
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png", CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV5+
-http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi", HTV SPORT
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/tgbcjg8c/vtvcab3-thethaohd.png", VTVCAB3
-http://s4.nihontv.net:21585/vtvcab3/index.m3u8
-http://202.60.106.14:21585/vtvcab3/mono.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/K_PM.png/revision/latest?cb=20190711121154", K+PM
-http://gg.gg/cocakpm
-
-#EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://i.postimg.cc/7YSxq5f1/sctv15hd.png" group-title="Sport", SCTV15
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
-
-#EXTINF:-1 tvg-id="sctv17_hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/SCTV17_SSport_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142428&path-prefix=vi" group-title="Sport", SCTV17
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-
-#EXTINF:-1 tvg-id="ctv22" group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/SCTV22_SSport_1_logo_12-2020.png/revision/latest/scale-to-width-down/340?cb=20210127142239&path-prefix=vi", SCTV22
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new1.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=CoocaaTV&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg" group-title="Sport", HORIZON SPORTS
@@ -752,16 +701,4 @@ http://rv.imax.re:80/6425023033/4168002992/80980
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 group-title="Sport", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",FC BAYERN
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-
-#EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/LFCTV_HD.png" group-title="Sport", LIVERPOOL TV
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1623.ts
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1624.ts
-https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport", MU TV
-https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 
