@@ -267,7 +267,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.favpng.com/2/22/25/discovery-science-television-channel-discovery-channel-logo-png-favpng-UHcM4azn0H6QRCpRUkTuhb6jk.jpg" group-title="Documentary", DISCOVERY SCIENCE
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/71875.ts
+http://dnsx.co:80/live/7885037935/fireurl.co/71875.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png" group-title="Documentary", CRIME & INVESTIGATION
 http://203.154.243.31:15001
@@ -311,15 +311,12 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png", SMASH EXPLORE
-http://a3.smashmalta.com:82/live/smash/smash/23.ts
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.pngfind.com/pngs/m/177-1776961_nasa-tv-nasa-tv-logo-png-transparent-png.png", NASA TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/452.ts
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://affiliations.si.edu/wp-content/uploads/2019/05/channel.png", SMITHSONIAN TV
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72313.ts
+http://dnsx.co:80/live/7885037935/fireurl.co/72313.ts
 
 
 
@@ -584,10 +581,6 @@ http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683896.ts
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.ijube.com/wp-content/themes/ijube/img/tvonline/skynethd.png" group-title="Sport", SkyNet Sports
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
@@ -607,20 +600,8 @@ http://tvcl.xyz:80/u2503anual/IxOIaWBMPN/121858
 http://tvcl.xyz:80/u2503anual/IxOIaWBMPN/121856
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 1
-http://dnsx.co:80/live/7885037935/fireurl.co/73254.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 2
-http://dnsx.co:80/live/7885037935/fireurl.co/73255.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Sport", ELEVEN SPORTS 3
-http://dnsx.co:80/live/7885037935/fireurl.co/73256.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Sport", PREMIERE FUTEBOL CLUBE
-http://b5.vc:80/7885037935/fireurl.co/72262
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-sports-logo-843074AF64-seeklogo.com.png" group-title="Sport", BAND SPORTS
-http://b5.vc:80/7885037935/fireurl.co/71801
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN BRASIL
+http://dnsx.co:80/7885037935/fireurl.co/71911
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1
@@ -630,43 +611,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="Sport", FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN BRASIL
-http://dnsx.co:80/7885037935/fireurl.co/71911
-#EXTINF:-1 tvg-id="" tvg-name="ESPN1" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sport", ESPN 1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ENG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport", ESPN 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Sport", ESPN DEPORTES
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
-
-
-#EXTINF:-1 group-title="Sport", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",FC BAYERN
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-
-#EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/LFCTV_HD.png" group-title="Sport", LIVERPOOL TV
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1623.ts
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1624.ts
-https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport", MU TV
-https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png", SMASH SPORTS
-http://a3.smashmalta.com:82/live/smash/smash/17.ts
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png", CLARO SPORTS
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg" group-title="Sport", HORIZON SPORTS
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman-can.png" group-title="Sport", SPORTSMAN CHANNEL
-http://rv.imax.re:80/6425023033/4168002992/80980
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", REDBULL TV
