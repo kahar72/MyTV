@@ -425,7 +425,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/Nbc-sports-logo-600x450.png/revision/latest?cb=20150824212119" group-title="Sport", NBC SPORTS NETWORK
 http://mytv.fun:8080/live/Oskartest/t4h92jfvp/14403.ts
-http://tv.nousiptv.com:5230/live/Glen/Glen1/3709.ts
+http://207.244.227.225:25461/hoteles/123456/185
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
@@ -449,9 +449,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
-
+http://51.15.1.11:25461/MEGATV/MEGATV/4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
-
+http://51.15.1.11:25461/MEGATV/MEGATV/5
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
