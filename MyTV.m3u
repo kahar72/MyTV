@@ -11,9 +11,6 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Asia", VASANTHAM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MediaCorp_Channel_8_logo.jpg/revision/latest/scale-to-width-down/300?cb=20101105105951" group-title="Asia", CHANNEL 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -311,9 +308,10 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="Entertainment", KBS WORLD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Entertainment", TvN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="Entertainment", &FLIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -376,6 +374,9 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kids", ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="Kids", Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
 
 
