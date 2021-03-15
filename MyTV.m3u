@@ -11,6 +11,7 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Asia", VASANTHAM
+http://101.127.128.44:9981/stream/channelid/1434561421/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MediaCorp_Channel_8_logo.jpg/revision/latest/scale-to-width-down/300?cb=20101105105951" group-title="Asia", CHANNEL 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -189,7 +190,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/443.ts
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News", RT
-
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
