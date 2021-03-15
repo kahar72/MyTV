@@ -223,6 +223,12 @@ http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary", HISTORY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentary", H2
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Documentary", A&E
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", DISCOVERY CHANNEL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
@@ -237,6 +243,9 @@ http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://spaceadventures.com/wp-content/uploads/2014/07/POPULAR-SCIENCE-LOGO.png" group-title="Documentary", POPULAR SCIENCE
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/d.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary", TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999396/800x800.png?type=smartCast_channelTile" group-title="Documentary", UNIDENTIFIED TV
 https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
 
@@ -244,11 +253,11 @@ https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/cooking-channel-logo.png" group-title="Documentary", COOKING CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Documentary", HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary", TRAVEL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/GwJxeLB.png", ANIMAL PLANET
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
@@ -489,6 +498,15 @@ http://rv.imax.re:80/6425023033/4168002992/78392
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png", BEIN SPORTS 3 FRANCE
 http://rv.imax.re:80/6425023033/4168002992/78391
 
+
+#EXTINF:-1 tvg-logo="https://www.reviews.org/au/app/uploads/2019/08/optus-sport-logo.png" group-title="Sport", OPTUS SPORTS 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1367.ts
+#EXTINF:-1 tvg-logo="https://www.reviews.org/au/app/uploads/2019/08/optus-sport-logo.png" group-title="Sport", OPTUS SPORTS 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1368.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="Sport", SKY SPORTS BUNDESLIGA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/872.ts
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
