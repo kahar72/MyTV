@@ -440,12 +440,13 @@ http://207.244.227.225:25461/hoteles/123456/185
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
-
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport", ASTRO SUPERSPORTS 2
-
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport", ASTRO SUPERSPORTS 3
-
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport", ASTRO SUPERSPORTS 4 
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
