@@ -423,6 +423,11 @@ http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
 http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/141
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/142
+
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png", BT SPORT EXTRA 1
 http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683826.ts
@@ -461,12 +466,12 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
-http://51.15.1.11:25461/MEGATV/MEGATV/4
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/257
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
-http://51.15.1.11:25461/MEGATV/MEGATV/5
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/258
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
-
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1543
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
 
 
@@ -509,11 +514,11 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/872.ts
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
-http://b5.vc:80/7885037935/fireurl.co/74961
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/799
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2
-http://b5.vc:80/7885037935/fireurl.co/74966
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/798
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
-http://b5.vc:80/7885037935/fireurl.co/74970
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/797
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -528,14 +533,14 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
-
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5451
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
-
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1146
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
-
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1994
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", CANAL+ SPORT
-
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/326
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
