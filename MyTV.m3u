@@ -523,12 +523,6 @@ https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png" group-title="Sport", SKY SPORTS 1 DE
-
-#EXTINF:-1, tvg-logo="https://sport-tv-guide.live/images/tv-station-sky-sport-hd-2-171.png" group-title="Sport", SKY SPORTS 2 DE
-
-
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
