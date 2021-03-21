@@ -550,7 +550,10 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/326
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS+
 
 
-
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/61/61510f77df23fe7dc386be934f7838fd.png" group-title="Sport", ESPN 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6e/6e2dbbacd882bb57c298ca8b8eb2a0c5.png" group-title="Sport", ESPN 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN BRASIL
 http://dnsx.co:80/7885037935/fireurl.co/71911
 
