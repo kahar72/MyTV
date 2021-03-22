@@ -185,7 +185,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/443.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News", NHK WORLD JAPAN
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
@@ -265,7 +264,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.pngfind.com/pngs/m/177-1776961_nasa-tv-nasa-tv-logo-png-transparent-png.png", NASA TV
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/452.ts
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
@@ -424,7 +422,7 @@ http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
 http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/141
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82356
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/142
 
@@ -455,14 +453,14 @@ http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2450.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2451.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
@@ -477,40 +475,40 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1543
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", BEIN SPORTS USA
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", BEIN SPORTS USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2459.ts
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 2
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2460.ts
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA ENGLISH
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 1 AUS
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/496.ts
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 2 AUS
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/497.ts
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 3 AUS
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/498.ts
+
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png", BEIN SPORTS 1 FRANCE
-http://rv.imax.re:80/6425023033/4168002992/78393
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png", BEIN SPORTS 2 FRANCE
-http://rv.imax.re:80/6425023033/4168002992/78392
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png", BEIN SPORTS 3 FRANCE
-http://rv.imax.re:80/6425023033/4168002992/78391
+
 
 
 #EXTINF:-1 tvg-logo="https://www.reviews.org/au/app/uploads/2019/08/optus-sport-logo.png" group-title="Sport", OPTUS SPORTS 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1367.ts
+
 #EXTINF:-1 tvg-logo="https://www.reviews.org/au/app/uploads/2019/08/optus-sport-logo.png" group-title="Sport", OPTUS SPORTS 2
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1368.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="Sport", SKY SPORTS BUNDESLIGA
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/872.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
@@ -531,6 +529,15 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
+
+#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5451
@@ -557,6 +564,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN BRASIL
 http://dnsx.co:80/7885037935/fireurl.co/71911
 
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1 US
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/844
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport", FOX SPORT 2 US
+http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/845
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
