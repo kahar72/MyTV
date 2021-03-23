@@ -543,14 +543,26 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5451
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1146
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df0.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1994
+http://mytv.fun:8080/p38ureiz5q/mteqehc7su/625250
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", CANAL+ SPORT
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/326
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" group-title="Sport", CANAL+ SPORT
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport-2.png" group-title="Sport", CANAL+ SPORT 2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium.png" group-title="Sport", POLSAT SPORT PREMIUM 1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-2.png" group-title="Sport", POLSAT SPORT PREMIUM 2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+
+
+#EXTINF:-1  tvg-logo="http://static.manutv.net/canale/mari/setanta-sports.png" group-title="Sport", SETANTA SPORT
+https://95-213-224-183.livesports24.online/setantaukraine.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
