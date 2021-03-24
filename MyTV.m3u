@@ -15,8 +15,9 @@ http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Asia", VASANTHAM
-http://101.127.128.44:9981/stream/channelid/1434561421/index.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
+http://101.127.128.44:9981/stream/channelid/1434561421/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MediaCorp_Channel_8_logo.jpg/revision/latest/scale-to-width-down/300?cb=20101105105951" group-title="Asia", CHANNEL 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
