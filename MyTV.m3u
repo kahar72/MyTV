@@ -535,15 +535,17 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
 
-#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
-#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 2
 http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
-#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 3
 http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
-#EXTINF:-1 group-title="Sport", ELEVEN SPORTS 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 4
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
@@ -567,6 +569,10 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe1
 
 #EXTINF:-1  tvg-logo="http://static.manutv.net/canale/mari/setanta-sports.png" group-title="Sport", SETANTA SPORT
 https://95-213-224-183.livesports24.online/setantaukraine.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
@@ -595,6 +601,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="Sport", FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Bayern.tv_live_Logo.svg/1200px-FC_Bayern.tv_live_Logo.svg.png" group-title="Sport", BAYERN MUNCHEN TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sport", LIVERPOOL TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", ZIGGO SPORT VOETBAL
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/9681
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" group-title="Sport", ZIGGO SPORT SELECT
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/9683
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", REDBULL TV
