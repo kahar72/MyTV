@@ -564,7 +564,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe15
 http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
 
-#EXTINF:-1  tvg-logo="http://static.manutv.net/canale/mari/setanta-sports.png" group-title="Sport", SETANTA SPORT
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", SETANTA SPORT
 
 
 
@@ -610,6 +610,12 @@ https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", ZIGGO SPORT VOETBAL
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" group-title="Sport", ZIGGO SPORT SELECT
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV 5
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV 5+
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 
 
 
