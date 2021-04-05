@@ -568,7 +568,7 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=c3865b77d9fe152a7
 
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium.png" group-title="Sport", POLSAT SPORT PREMIUM 1
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-2.png" group-title="Sport", POLSAT SPORT PREMIUM 2
 http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
