@@ -428,6 +428,10 @@ http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
 http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
 
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png", SUPERSPORT PREMIER LEAGUE
+http://85.203.33.88:80/0303182E188/8IBiiR241/19034
+
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
 http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
@@ -436,7 +440,7 @@ http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
-
+http://85.203.33.88:80/0303182E188/8IBiiR241/19032
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png", BT SPORT EXTRA 1
@@ -452,12 +456,16 @@ http://207.244.227.225:25461/hoteles/123456/185
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport", ASTRO SUPERSPORTS 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport", ASTRO SUPERSPORTS 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport", ASTRO SUPERSPORTS 4 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport", ASTRO SUPERSPORTS 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 
@@ -578,7 +586,6 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe1
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", SETANTA SPORT
 
 
-
 #EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD
 http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 
@@ -613,6 +620,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="Sport", FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",STAR SPORTS SELECT 1 HD
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel01HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",STAR SPORTS SELECT 2 HD
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel02HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Bayern.tv_live_Logo.svg/1200px-FC_Bayern.tv_live_Logo.svg.png" group-title="Sport", BAYERN MUNCHEN TV
