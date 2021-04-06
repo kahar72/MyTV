@@ -461,23 +461,23 @@ http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
-http://rv.imax.re:80/307271464111/307271464111/163948
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2 PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
+http://rv.imax.re:80/307271464111/307271464111/78637
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sport", BEIN SPORTS 2 PREMIUM
 http://rv.imax.re:80/307271464111/307271464111/163947
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
 http://rv.imax.re:80/307271464111/307271464111/163946
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
-#EXTINF:-1 tvg-logo="" group-title="Sport", BEIN SPORTS ENGLISH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="Sport", BEIN SPORTS ENGLISH
 http://rv.imax.re:80/307271464111/307271464111/163933
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
-
+http://rv.imax.re:80/307271464111/307271464111/164060
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
-
+http://rv.imax.re:80/307271464111/307271464111/164057
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
@@ -542,13 +542,13 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 1
-http://internetowa.tv/?c=hlsPlay&channel=eleven&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 2
-http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 3
-http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 4
-http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS US
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
@@ -570,7 +570,7 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=c3865b77d9fe152a7
 
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium.png" group-title="Sport", POLSAT SPORT PREMIUM 1
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=a5e7e1833006c4a09e675bdd154252d2837f017dbcc6c19501e484b1b63e205703b76d1695ca9b0ed9378e276e279ce593d58141e579605b4554998d18054d39
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-2.png" group-title="Sport", POLSAT SPORT PREMIUM 2
 http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
