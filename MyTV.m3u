@@ -545,6 +545,13 @@ https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3221
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3222
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3223
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
@@ -570,6 +577,13 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df
 http://rv.imax.re:80/307271464111/307271464111/78718
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/625250
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/13182
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/2251
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/21522
 
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" group-title="Sport", CANAL+ SPORT
