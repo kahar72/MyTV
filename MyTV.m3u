@@ -643,9 +643,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sport",STAR SPORTS SELECT 1 HD
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel01HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sport",STAR SPORTS SELECT 2 HD
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel02HD.m3u8
 
 
