@@ -431,9 +431,10 @@ http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png", SKY SPORTS AUSTRIA
 http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/sky.sport.austria.de.m3u8
 
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png", SUPERSPORT PREMIER LEAGUE
-
+#EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Sky-Sport1-Logo-1-1977.png" group-title="Sport", SKY SPORTS 1 DE
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/7326
+#EXTINF:-1 tvg-logo="http://kapirovska.weebly.com/uploads/1/3/2/9/13294946/1324971_orig.png" group-title="Sport", SKY SPORTS 2 DE
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/7327
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
@@ -461,16 +462,12 @@ http://207.244.227.225:25461/hoteles/123456/185
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport", ASTRO SUPERSPORTS 2
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport", ASTRO SUPERSPORTS 3
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport", ASTRO SUPERSPORTS 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
@@ -480,45 +477,24 @@ http://rv.imax.re:80/307271464111/307271464111/163947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
 http://rv.imax.re:80/307271464111/307271464111/163946
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="Sport", BEIN SPORTS ENGLISH
-http://rv.imax.re:80/307271464111/307271464111/163933
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
 http://xtream-ui03.feel-tv.com:25461/stalker/qmGbZacuLw/555
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
 http://xtream-ui03.feel-tv.com:25461/stalker/qmGbZacuLw/556
-
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
 http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport", BEIN SPORTS 12
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", BEIN SPORTS USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="Sport", BEIN SPORTS ENGLISH
+http://rv.imax.re:80/307271464111/307271464111/163933
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport", BEIN SPORTS USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 1
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA 2
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS XTRA ENGLISH
-
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 1 AUS
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 2 AUS
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport", BEIN SPORTS 3 AUS
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png", BEIN SPORTS 1 FRANCE
@@ -527,15 +503,6 @@ http://rv.imax.re:80/307271464111/307271464111/163935
 http://rv.imax.re:80/307271464111/307271464111/163934
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png", BEIN SPORTS 3 FRANCE
 
-
-
-#EXTINF:-1 tvg-logo="https://www.reviews.org/au/app/uploads/2019/08/optus-sport-logo.png" group-title="Sport", OPTUS SPORTS 1
-
-#EXTINF:-1 tvg-logo="https://www.reviews.org/au/app/uploads/2019/08/optus-sport-logo.png" group-title="Sport", OPTUS SPORTS 2
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="Sport", SKY SPORTS BUNDESLIGA
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
@@ -576,6 +543,14 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=c3865b77d9fe152a787c57ed6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS US
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/13182
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/2251
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/21522
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
 http://rv.imax.re:80/307271464111/307271464111/78719
@@ -585,13 +560,6 @@ http://rv.imax.re:80/307271464111/307271464111/78718
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/625250
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/13182
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/2251
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/21522
-
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" group-title="Sport", CANAL+ SPORT
 http://rv.imax.re:80/307271464111/307271464111/78769
@@ -599,19 +567,6 @@ http://rv.imax.re:80/307271464111/307271464111/78769
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="Sport", FOOT+ SPORT
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17245
-
-
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium.png" group-title="Sport", POLSAT SPORT PREMIUM 1
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-2.png" group-title="Sport", POLSAT SPORT PREMIUM 2
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sport", SETANTA SPORT
-
-
-#EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD
-http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
@@ -635,6 +590,14 @@ http://rv.imax.re:80/307271464111/307271464111/79519
 http://85.203.33.88:80/0303182E188/8IBiiR241/4166
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 1
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17252
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 2
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17254
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 3
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/13834
+
+
 #EXTINF:-1 tvg-logo="https://www.voleybolextra.com/images/haberler/2017/08/efelerin-avrupa-sampiyonasi-maclari-s-sport-ta_1.png" group-title="Sport", S SPORT
 http://rv.imax.re:80/307271464111/307271464111/80383
 
@@ -643,6 +606,16 @@ http://93.157.62.180/TringSport1HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wrs3XtKMq2M/mqdefault.jpg" group-title="Sport", TRING SPORT 2
 http://93.157.62.180/TringSport2HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium.png" group-title="Sport", POLSAT SPORT PREMIUM 1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-2.png" group-title="Sport", POLSAT SPORT PREMIUM 2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+
+
+#EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1 US
