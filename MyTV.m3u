@@ -618,6 +618,17 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe1
 http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Digi-sport-1.png", DIGI SPORT 1
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.1.ro.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Digi_sport2.png", DIGI SPORT 2
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.2.ro.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Digi_sport3_hu.png", DIGI SPORT 3
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.3.ro.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/DIGI_Sport_4_2019.png", DIGI SPORT 4
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.4.ro.m3u8 
+
+
+
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1 US
 http://tv.nousiptv.com:8080/Glen/Glen1/2048
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport", FOX SPORT 2 US
