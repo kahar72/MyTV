@@ -443,9 +443,9 @@ http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
 http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
-http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/bt.sport.1.uk.m3u8
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
-http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/bt.sport.2.uk.m3u8
+
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png", BT SPORT EXTRA 1
@@ -552,10 +552,8 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/2251
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/21522
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
 http://rv.imax.re:80/307271464111/307271464111/78719
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df0.m3u8
 http://rv.imax.re:80/307271464111/307271464111/78718
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/625250
@@ -570,9 +568,9 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17245
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
-http://tv.nousiptv.com:8080/Glen/Glen1/7863
+
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS 2
-http://tv.nousiptv.com:8080/Glen/Glen1/32882
+
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS+
 
 
@@ -587,7 +585,6 @@ http://dnsx.co:80/7885037935/fireurl.co/71911
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", ZIGGO SPORT VOETBAL
 http://rv.imax.re:80/307271464111/307271464111/79519
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" group-title="Sport", ZIGGO SPORT SELECT
-http://85.203.33.88:80/0303182E188/8IBiiR241/4166
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 1
@@ -630,9 +627,9 @@ http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.4.
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1 US
-http://tv.nousiptv.com:8080/Glen/Glen1/2048
+
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport", FOX SPORT 2 US
-http://tv.nousiptv.com:8080/Glen/Glen1/2044
+
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
