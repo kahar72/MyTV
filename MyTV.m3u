@@ -431,7 +431,7 @@ http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
 http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
-
+https://bit.ly/3eejgrp
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
 
 
@@ -445,7 +445,7 @@ http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
 https://bit.ly/2MUPNYh
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/Nbc-sports-logo-600x450.png/revision/latest?cb=20150824212119" group-title="Sport", NBC SPORTS NETWORK
-
+https://bit.ly/3kTnllV
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
