@@ -498,19 +498,19 @@ http://rv.imax.re:80/307271464111/307271464111/163933
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png", BEIN SPORTS 1 FRANCE
-http://rv.imax.re:80/307271464111/307271464111/163935
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/bein.sports.1.fr.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png", BEIN SPORTS 2 FRANCE
-http://rv.imax.re:80/307271464111/307271464111/163934
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/bein.sports.2.fr.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png", BEIN SPORTS 3 FRANCE
-
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/bein.sports.3.fr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
-http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/sport.tv1.pt.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2
-http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/sport.tv2.pt.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3
-http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/sport.tv3.pt.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2863
@@ -616,14 +616,24 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe1
 http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png", KUJTESA SPORT 1
 http://178.132.220.2:8001/play/a00z/index.m3u8
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png", KUJTESA SPORT 2
 http://178.132.220.2:8001/play/a010/index.m3u8
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 3
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png", KUJTESA SPORT 3
 http://178.132.220.2:8001/play/a011/index.m3u8
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 4
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-4-1858.png", KUJTESA SPORT 4
 http://178.132.220.2:8001/play/a012/index.m3u8
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://w1.pngwing.com/pngs/896/833/png-transparent-logo-blue-digi-sport-rcs-rds-electric-blue.png", DIGI SPORT 1
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.1.ro.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://w1.pngwing.com/pngs/896/833/png-transparent-logo-blue-digi-sport-rcs-rds-electric-blue.png", DIGI SPORT 2
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.2.ro.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://w1.pngwing.com/pngs/896/833/png-transparent-logo-blue-digi-sport-rcs-rds-electric-blue.png", DIGI SPORT 3
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.3.ro.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://w1.pngwing.com/pngs/896/833/png-transparent-logo-blue-digi-sport-rcs-rds-electric-blue.png", DIGI SPORT 4
+http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.4.ro.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV 5
@@ -645,9 +655,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sport",STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sport",STAR SPORTS SELECT 1
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel01HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sport",STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sport",STAR SPORTS SELECT 2
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel02HD.m3u8
 
 
