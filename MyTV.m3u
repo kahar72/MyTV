@@ -470,6 +470,13 @@ http://rv.imax.re:80/307271464111/307271464111/163947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
 http://rv.imax.re:80/307271464111/307271464111/163946
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
+http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sport", BEIN SPORTS 2 PREMIUM
+http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
+http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/3539
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
@@ -582,11 +589,11 @@ http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 1
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17252
+http://91.212.150.248:80/SK1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 2
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17254
+http://91.212.150.248:80/SK2HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 3
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/13834
+http://91.212.150.248:80/SK3HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.voleybolextra.com/images/haberler/2017/08/efelerin-avrupa-sampiyonasi-maclari-s-sport-ta_1.png" group-title="Sport", S SPORT
@@ -607,6 +614,22 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe1
 
 #EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD
 http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
+
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 1
+http://178.132.220.2:8001/play/a00z/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 2
+http://178.132.220.2:8001/play/a010/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 3
+http://178.132.220.2:8001/play/a011/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/jHKoSYd.jpg", KUJTESA SPORT 4
+http://178.132.220.2:8001/play/a012/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV 5
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV 5+
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1 US
@@ -633,12 +656,6 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sport", LIVERPOOL TV
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV 5
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV 5+
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 
 
 
