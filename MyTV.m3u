@@ -54,7 +54,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia", HELLO
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia", DRAMA SANGAT
 https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
