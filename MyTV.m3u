@@ -406,11 +406,11 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #SPORTS#
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
-http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/89193
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png", SKY SPORTS MAIN EVENT
-http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/89191
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png", SKY SPORTS FOOTBALL
-http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/89194
+
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
@@ -462,8 +462,12 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport", ASTRO SUPERSPORTS 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport", SUPERSPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6NCXqfM/PL.png" group-title="Sport", SUPERSPORT PREMIER LEAGUE
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28896
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NzK3Dw/MAX.png" group-title="Sport", MAXIMO 1
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28907
+http://rv.imax.re:80/307271464111/307271464111/85154
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
@@ -474,10 +478,13 @@ http://rv.imax.re:80/307271464111/307271464111/163947
 http://rv.imax.re:80/307271464111/307271464111/163946
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
+http://209.145.55.5:25461/sports58/pocket87/30511
 http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sport", BEIN SPORTS 2 PREMIUM
+http://209.145.55.5:25461/sports58/pocket87/30512
 http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
+http://209.145.55.5:25461/sports58/pocket87/30513
 http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
@@ -485,6 +492,7 @@ http://209.145.55.5:25461/sports58/pocket87/30514
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport", BEIN SPORTS 2
 http://209.145.55.5:25461/sports58/pocket87/30515
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport", BEIN SPORTS 11
+http://rv.imax.re:80/307271464111/307271464111/78627
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport", BEIN SPORTS 1
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
@@ -571,9 +579,9 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17245
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
-
+http://rv.imax.re:80/307271464111/307271464111/87145
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS 2
-
+http://rv.imax.re:80/307271464111/307271464111/87144
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS+
 
 
@@ -582,13 +590,13 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17245
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6e/6e2dbbacd882bb57c298ca8b8eb2a0c5.png" group-title="Sport", ESPN 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN BRASIL
-http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/18750
+http://rv.imax.re:80/307271464111/307271464111/82354
 
 
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", ZIGGO SPORT VOETBAL
-http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/89007
+http://rv.imax.re:80/307271464111/307271464111/79724
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" group-title="Sport", ZIGGO SPORT SELECT
-http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/89005
+http://rv.imax.re:80/307271464111/307271464111/79723
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png" group-title="Sport", SPORT KLUB 1
@@ -620,8 +628,10 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=c3865b77d9fe15
 http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
 
-#EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD
+#EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD 1
 http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
+#EXTINF:-1  tvg-logo="https://cdn.astel.be/IMG/jpg/VOOsport_World.jpg" group-title="Sport", VOO SPORT WORLD 2
+http://rv.imax.re:80/307271464111/307271464111/81840
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png", KUJTESA SPORT 1
@@ -648,6 +658,12 @@ http://tv4.live/api/stream/2diesel@optonline.net/821783/livetv.epg/digi.sport.4.
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV 5+
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="Sport", DAZN 1
+http://45.94.149.154:8000/play/a03o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="Sport", DAZN 2
+http://45.94.149.154:8000/play/a03t
 
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1 US
