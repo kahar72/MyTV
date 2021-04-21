@@ -421,13 +421,6 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #SPORTS#
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
-http://160.119.77.117/iptv/uk-skysports-epl.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png", SKY SPORTS MAIN EVENT
-http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png", SKY SPORTS FOOTBALL
-http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", SKY SPORTS PREMIER LEAGUE
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2530
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png", SKY SPORTS MAIN EVENT
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2526
@@ -460,14 +453,8 @@ http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2522
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png", BT SPORT EXTRA 1
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/stations/a1921.png", BT SPORT EXTRA 2
-
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport", NBCSN
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137
-https://bit.ly/2MUPNYh
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/Nbc-sports-logo-600x450.png/revision/latest?cb=20150824212119" group-title="Sport", NBC SPORTS NETWORK
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
