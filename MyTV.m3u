@@ -233,6 +233,9 @@ http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary", HISTORY
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==history&b=15&c=history
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" group-title="Documentary", VIASAT HISTORY
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12501
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentary", H2
 
 
@@ -252,7 +255,10 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/d.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="Documentary", TRAVEL HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/4893
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12482
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Documentary", BBC EARTH
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12397
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Documentary", PEOPLE ARE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
@@ -271,6 +277,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/GwJxeLB.png", ANIMAL PLANET
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12394
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png", SMITHSONIAN CHANNEL
@@ -421,6 +428,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/30c20aa012bee8
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png", SKY SPORTS AUSTRIA
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/472
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9551
 
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Sky-Sport1-Logo-1-1977.png" group-title="Sport", SKY SPORTS 1 DE
@@ -692,6 +700,13 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://logo-all.ru/uploads/posts/2018-09/0_viasat_sport_logo.jpg" group-title="Sport", VIASAT SPORT 1
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12507
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/n1gjvu1592207781.png" group-title="Sport", VIASAT SPORT PREMIUM
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12509
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" group-title="Sport",SETANTA SPORTS
 https://chostv.mobie.in/choos/sports/stantahd.m3u8
 
@@ -711,6 +726,7 @@ https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel02HD
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Bayern.tv_live_Logo.svg/1200px-FC_Bayern.tv_live_Logo.svg.png" group-title="Sport", BAYERN MUNCHEN TV
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/7225
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sport", LIVERPOOL TV
