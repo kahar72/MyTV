@@ -737,8 +737,12 @@ http://45.94.149.154:8000/play/a051
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" group-title="Sport", SETANTA SPORTS
+http://oncvq5kd.ottclub.xyz:80/iptv/7GCEMFFA9LAR2P/272/index.m3u8
 https://chostv.mobie.in/choos/sports/stantahd.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" group-title="Sport", SETANTA SPORTS 1
+http://oncvq5kd.ottclub.xyz:80/iptv/7GCEMFFA9LAR2P/271/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" group-title="Sport", SETANTA SPORTS 2
+http://oncvq5kd.ottclub.xyz:80/iptv/7GCEMFFA9LAR2P/270/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport", FOX SPORT 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
