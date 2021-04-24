@@ -578,7 +578,7 @@ https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token=JPxfa1FF6N8Zb3ZLI9f
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
 https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zRIkbjzuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8x2m8Tqu%2B%2FgqYzowkG4GVj83K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTG5brmjItwnJqHfOgC1OZH8IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
-
+http://goiptv.co:8080/avatar/fVkKAhhBlr/1812
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
 http://rv.imax.re:80/307271464111/307271464111/78719
@@ -593,7 +593,7 @@ http://rv.imax.re:80/307271464111/307271464111/78769
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport-2.png" group-title="Sport", CANAL+ SPORT 2
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="Sport", FOOT+ SPORT
-
+http://goiptv.co:8080/avatar/fVkKAhhBlr/1560
 
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DIRECTV SPORTS
@@ -606,6 +606,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20311
 
 
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/netherlands/logo/ziggo_sport_voetbal.png" group-title="Sport", ZIGGO SPORT VOETBAL
+http://goiptv.co:8080/avatar/fVkKAhhBlr/48640
 http://rv.imax.re:80/307271464111/307271464111/79724
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" group-title="Sport", ZIGGO SPORT SELECT
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11287
