@@ -491,15 +491,15 @@ http://rv.imax.re:80/307271464111/307271464111/85154
 #EXTINF:-1 tvg-logo="https://103fm.tt/wp-content/uploads/2019/07/image001.png" group-title="Sport", RUSH SPORT
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/154481
 
-#EXTINF:-1 tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png" group-title="Sport", SPORTSMAX 1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/154418
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
+http://goiptv.co:8080/avatar/fVkKAhhBlr/5052
 http://rv.imax.re:80/307271464111/307271464111/78637
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sport", BEIN SPORTS 2 PREMIUM
+http://goiptv.co:8080/avatar/fVkKAhhBlr/5051
 http://rv.imax.re:80/307271464111/307271464111/163947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport", BEIN SPORTS 3 PREMIUM
+http://goiptv.co:8080/avatar/fVkKAhhBlr/5050
 http://rv.imax.re:80/307271464111/307271464111/163946
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
@@ -726,7 +726,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4973
 #EXTINF:-1 tvg-logo="https://logo-all.ru/uploads/posts/2018-09/0_viasat_sport_logo.jpg" group-title="Sport", VIASAT SPORT 1
 http://51.91.73.99:25461/sweden/PM66f7Y43H/12507
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/n1gjvu1592207781.png" group-title="Sport", VIASAT SPORT PREMIUM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Viasat_Sport_Premium.png/revision/latest?cb=20200603183923" group-title="Sport", VIASAT SPORT PREMIUM
 http://51.91.73.99:25461/sweden/PM66f7Y43H/12509
 
 
@@ -734,6 +734,13 @@ http://51.91.73.99:25461/sweden/PM66f7Y43H/12509
 http://45.94.149.154:8000/play/a058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="Sport", MOVISTAR LALIGA
 http://45.94.149.154:8000/play/a051
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png" group-title="Sport", TRT SPOR
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-M-nmvvoZ4BQ/W-ovqYaU13I/AAAAAAAAAxM/lYY2Ci2kYuMng3C2lz7SMWDkRn-GmzA5wCK4BGAYYCw/s1600/sky_net_sports_mm_hd.png" group-title="Sport", SKYNET SPORTS
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" group-title="Sport", SETANTA SPORTS
