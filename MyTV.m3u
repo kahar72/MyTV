@@ -211,7 +211,7 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png", TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/au-australia-plus-tv.jpg", AUSTRALIA PLUS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -238,7 +238,7 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary", HISTORY
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==history&b=15&c=history
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==history&b=15&c=history
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentary", H2
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/476
@@ -377,8 +377,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #KIDS#
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids", DA VINCI
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png" group-title="Kids", DISNEY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
