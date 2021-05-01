@@ -384,10 +384,6 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/Nbc-sports-logo-600x450.png/revision/latest?cb=20150824212119" group-title="Sport", NBC SPORTS NETWORK
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
-
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport", ASTRO SUPERSPORTS 2
@@ -402,6 +398,14 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Sport", TRUE PREMIER 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="champion1" tvg-logo="https://i.postimg.cc/tTxrMjBX/logo-champ1-big.png" group-title="Sport", CHAMPION 1
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 tvg-id="champion2" tvg-logo="https://i.postimg.cc/mgL52Kgw/logo-champ2-big.png" group-title="Sport", CHAMPION 2
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="Sport", CHAMPION 3
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
@@ -444,16 +448,6 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3223
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 1
-http://internetowa.tv/?c=hlsPlay&channel=eleven&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 2
-http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 3
-http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 4
-http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
@@ -521,17 +515,6 @@ http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
 http://rv.imax.re:80/307271464111/307271464111/81840
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png", KUJTESA SPORT 1
-http://178.132.220.2:8001/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png", KUJTESA SPORT 2
-http://178.132.220.2:8001/play/a010/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png", KUJTESA SPORT 3
-http://178.132.220.2:8001/play/a011/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-4-1858.png", KUJTESA SPORT 4
-http://178.132.220.2:8001/play/a012/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV 5
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV 5+
@@ -544,13 +527,24 @@ http://45.94.149.154:8000/play/a03o
 http://45.94.149.154:8000/play/a03t
 
 
-#EXTINF:-1 tvg-id="champion1" tvg-logo="https://i.postimg.cc/tTxrMjBX/logo-champ1-big.png" group-title="Sport", CHAMPION 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1 tvg-id="champion2" tvg-logo="https://i.postimg.cc/mgL52Kgw/logo-champ2-big.png" group-title="Sport", CHAMPION 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="Sport", CHAMPION 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport", ELEVEN SPORTS 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=c3865b77d9fe152a787c57ed60fd4662c01a5fac3cbb276d4a0afcb3cb34a986d6f40b05ae6d87d68f1c226faa84c287b65c84e290fbe0546a12bd439a492078
 
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png", KUJTESA SPORT 1
+http://178.132.220.2:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png", KUJTESA SPORT 2
+http://178.132.220.2:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png", KUJTESA SPORT 3
+http://178.132.220.2:8001/play/a011/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-4-1858.png", KUJTESA SPORT 4
+http://178.132.220.2:8001/play/a012/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/297/5631258_deportes-movistar-deportes-logo-hd-png-download.png" group-title="Sport", MOVISTAR DEPORTES
@@ -564,6 +558,18 @@ https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-M-nmvvoZ4BQ/W-ovqYaU13I/AAAAAAAAAxM/lYY2Ci2kYuMng3C2lz7SMWDkRn-GmzA5wCK4BGAYYCw/s1600/sky_net_sports_mm_hd.png" group-title="Sport", SKYNET SPORTS
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Sport",Матч! Футбол 1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Sport",Матч! Футбол 2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Sport",Матч! Футбол 3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Sport",Football 1 Ukraine
+https://chostv.mobie.in/choos/sports/qyt1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="Sport",Football 2 Ukraine
+https://chostv.mobie.in/choos/sports/qyt2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png" group-title="Sport", SETANTA SPORTS
@@ -580,12 +586,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="Sport", FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sport", STAR SPORTS SELECT 1
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel01HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sport", STAR SPORTS SELECT 2
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/StarSPSel02HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Bayern.tv_live_Logo.svg/1200px-FC_Bayern.tv_live_Logo.svg.png" group-title="Sport", BAYERN MUNCHEN TV
