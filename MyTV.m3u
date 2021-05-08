@@ -75,35 +75,35 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="Asia", SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Asia", TRANS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_733_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Asia", TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="Asia", METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_777_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Asia", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia", TVRI
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:iptvcat.com
 
 
@@ -117,7 +117,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #ISLAM TV#
 
 #EXTINF:-1 tvg-logo="https://mytv.afrik.live/uploads/04adfc595a0180f3a6399eb1479c81cd.png" group-title="Islam TV", AL-QURAN AL KAREEM
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6852_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6852_720p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Islam TV", ASTRO OASIS
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -162,7 +162,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News", BERITA SATU
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC WORLD NEWS
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
@@ -183,7 +183,7 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/au-australia-plus-tv.jpg", AUSTRALIA PLUS
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7150_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
 
 
 
@@ -206,9 +206,6 @@ http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary", HISTORY
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==history&b=15&c=history
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Documentary", A&E
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7918
-
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", DISCOVERY CHANNEL
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
@@ -220,10 +217,7 @@ http://203.154.243.31:15001
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Documentary", BBC EARTH
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/171979
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/T%2BE_2011.svg/150px-T%2BE_2011.svg.png" group-title="Documentary", TRAVEL XP
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21032
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999396/800x800.png?type=smartCast_channelTile" group-title="Documentary", UNIDENTIFIED TV
 https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
@@ -236,11 +230,10 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/GwJxeLB.png", ANIMAL PLANET
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273372
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png", SMITHSONIAN CHANNEL
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.pngfind.com/pngs/m/177-1776961_nasa-tv-nasa-tv-logo-png-transparent-png.png", NASA TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -401,11 +394,11 @@ https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="champion1" tvg-logo="https://i.postimg.cc/tTxrMjBX/logo-champ1-big.png" group-title="Sport", CHAMPION 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 tvg-id="champion2" tvg-logo="https://i.postimg.cc/mgL52Kgw/logo-champ2-big.png" group-title="Sport", CHAMPION 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="Sport", CHAMPION 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sport", BEIN SPORTS 1 PREMIUM
