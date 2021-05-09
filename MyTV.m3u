@@ -204,7 +204,7 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary", HISTORY
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==history&b=15&c=history
+
 
 #EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="Documentary", DISCOVERY CHANNEL
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
