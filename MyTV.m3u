@@ -314,9 +314,6 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kids", ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="Kids", Kids Central
-http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
-
 
 
 
@@ -342,9 +339,9 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png", BT SPORT 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png", BT SPORT 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport", ASTRO SUPERSPORTS 1
@@ -358,9 +355,9 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Sport", TRUE PREMIER 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Sport", TRUE PREMIER 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="champion1" tvg-logo="https://i.postimg.cc/tTxrMjBX/logo-champ1-big.png" group-title="Sport", CHAMPION 1
@@ -409,9 +406,9 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3222
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3223
 
 
-#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN
+#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sport",ESPN
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sport",ESPN 2
 https://gma2.blab.email/espn2.m3u8
 
 
@@ -515,7 +512,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sport", LIVERPOOL TV
-https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", REDBULL TV
