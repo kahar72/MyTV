@@ -64,29 +64,40 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="Asia", SCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-204
 
-#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Asia", TRANS
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="Asia", TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="Asia", TRANS 7
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="Asia", METRO TV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Asia", RCTI
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-user-agent="MNCNow/6.3.2/2.0 (Linux;Android 7.0) ExoPlayerLib/2.12.0"
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia", TVRI
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6441
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png/revision/latest/scale-to-width-down/2000?cb=20210424000800" group-title="Asia", INSPIRA TV
 https://v2.siar.us/inspiratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="Asia", KOMPAS TV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -99,10 +110,10 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
 #ISLAM TV#
 
 #EXTINF:-1 tvg-logo="https://mytv.afrik.live/uploads/04adfc595a0180f3a6399eb1479c81cd.png" group-title="Islam TV", AL-QURAN AL KAREEM
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6852_720p/index.m3u8
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/96
 
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Islam TV", AL MADINAH AL MUNAWWARAH
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/97
 
 #EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Islam TV", ASTRO OASIS
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -146,9 +157,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News", CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="News", BERITA SATU
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC WORLD NEWS
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -166,9 +174,6 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/au-australia-plus-tv.jpg", AUSTRALIA PLUS
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="News", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -208,7 +213,7 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png", SMITHSONIAN CHANNEL
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.pngfind.com/pngs/m/177-1776961_nasa-tv-nasa-tv-logo-png-transparent-png.png", NASA TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
