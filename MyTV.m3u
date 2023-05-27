@@ -1,6 +1,6 @@
 #EXTM3U
 
-#ASIA#
+//ASIA
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="Asia", CHANNEL 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
